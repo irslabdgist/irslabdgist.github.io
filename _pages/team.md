@@ -25,9 +25,10 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="40%" style="float: left" />
+  <div markdown="0" style="padding-top:16px">
   <h4>{{ member.name }}</h4>
   <div markdown="0" style="padding-top:4px">
-    <span style="font-style:italic; font-size:24px">{{ member.info }}<br></span>
+    <span style="font-style:italic; font-size:20px">{{ member.info }}<br></span>
     <span><b>Email</b>: {{ member.email }}<br></span>
     <!-- <span style="padding:0"><b>Research Interest</b></span>
     <ul style="overflow: hidden">
@@ -35,9 +36,8 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
     <li> {{ member.education1 }} </li>
     <li> {{ member.education2 }} </li>
     <li> {{ member.education3 }} </li>
-    {% endif %} -->
-
-    </ul>
+    {% endif %}
+    </ul> -->
   </div>
 </div>
 
