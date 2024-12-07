@@ -14,15 +14,16 @@ permalink: /team/
 Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
 
 ## Professor
+{% assign number_printed = 0 %}
+{% for member in site.data.member_professor %}
+
 <div class="row">
 
-<div class="col-sm-8 clearfix">
+<div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: center" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <br>email: <{{ member.email }}></i>
 </div>
-
-
 
 
 ## Master and Bachelor Students
