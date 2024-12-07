@@ -26,7 +26,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="40%" style="float: left" />
   <div markdown="0" style="padding-top:12px">
-  <span style="font-size:20px"><b>{{ member.name }}</b><br></span>
+  <h4>{{ member.name }}</h4>
   <span style="font-style:italic; font-size:18px">{{ member.info }}<br></span>
   <span>{{ member.email }}<br></span>
   <!-- <div markdown="0" style="padding-top:-4px"> -->
