@@ -24,7 +24,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <br>email: <{{ member.email }}></i>
 </div>
-
+{% endfor %}
 
 ## Master and Bachelor Students
 {% assign number_printed = 0 %}
