@@ -3,7 +3,7 @@ title: "IRS Lab - Members"
 layout: gridlay
 excerpt: "IRS Lab: Team members"
 sitemap: false
-permalink: /members/
+permalink: /team/
 ---
 
 # Group Members
