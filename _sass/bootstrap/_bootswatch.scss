@@ -1,226 +1,184 @@
-// Lux 5.3.3
+// Readable 3.4.1
 // Bootswatch
+// -----------------------------------------------------
 
-
-// Variables
-
-$web-font-path: "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;500;600;700&display=swap" !default;
+$web-font-path: "https://fonts.googleapis.com/css?family=Raleway:400,700&display=swap" !default;
 @if $web-font-path {
-  @import url("#{$web-font-path}");
+  @import url($web-font-path);
 }
-
-// Navbar
+// Navbar =====================================================================
 
 .navbar {
-  font-size: $font-size-sm;
-  font-weight: 600;
-  text-transform: uppercase;
+  font-family: $headings-font-family;
 
-  &-nav {
-    .nav-link {
-      padding-top: .715rem;
-      padding-bottom: .715rem;
+  &-nav,
+  &-form {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  &-nav > li > a {
+    $margin-vertical: (($navbar-height - 2*$padding-base-vertical - $line-height-computed - 2px) / 2);
+    margin: $margin-vertical 6px;
+    padding: $padding-base-vertical $padding-base-horizontal;
+    border: 1px solid transparent;
+    border-radius: $border-radius-base;
+
+    &:hover {
+      border: 1px solid #ddd;
     }
+  }
+
+  &-nav > .active > a,
+  &-nav > .active > a:hover {
+    border: 1px solid #ddd;
+  }
+
+  &-default .navbar-nav > .active > a:hover {
+    color: $navbar-default-link-hover-color;
+  }
+
+  &-inverse .navbar-nav > .active > a:hover {
+    color: $navbar-inverse-link-hover-color;
   }
 
   &-brand {
-    margin-right: 2rem;
+    padding-top: (($navbar-height - 2*$font-size-large) / 2);
+    padding-bottom: (($navbar-height - 2*$font-size-large) / 2);
+    line-height: 1.9;
   }
 }
 
-.bg-light {
-  border: 1px solid rgba(0, 0, 0, .1);
-
-  &.navbar-fixed-top {
-    border-width: 0 0 1px;
-  }
-
-  &.navbar-bottom-top {
-    border-width: 1px 0 0;
+@media (min-width: $grid-float-breakpoint) {
+  .navbar {
+    .navbar-nav > li > a {
+      padding: $padding-base-vertical $padding-base-horizontal;
+    }
   }
 }
 
-.nav-item {
-  margin-right: 2rem;
+@media (max-width: ($grid-float-breakpoint - 1)) {
+  .navbar {
+    .navbar-nav > li > a {
+      margin: 0;
+    }
+  }
 }
 
-// Buttons
+// Buttons ====================================================================
 
 .btn {
-  font-size: $font-size-sm;
-  text-transform: uppercase;
+  font-family: $headings-font-family;
+}
 
-  &-sm {
-    font-size: 10px;
-  }
+// Typography =================================================================
 
-  &-warning {
-    &,
-    &:hover,
-    &:not([disabled]):not(.disabled):active,
-    &:focus {
-      color: $white;
-    }
+// Tables =====================================================================
+
+// Forms ======================================================================
+
+legend {
+  font-family: $headings-font-family;
+}
+
+.input-group-addon {
+  font-family: $font-family-sans-serif;
+}
+
+// Navs =======================================================================
+
+.nav {
+  .open > a,
+  .open > a:hover,
+  .open > a:focus {
+    border: 1px solid #ddd;
   }
 }
 
-.btn-outline-secondary {
-  color: $gray-600;
-  border-color: $gray-600;
+.pagination {
 
-  &:not([disabled]):not(.disabled):hover,
-  &:not([disabled]):not(.disabled):focus,
-  &:not([disabled]):not(.disabled):active {
-    color: $white;
-    background-color: $gray-400;
-    border-color: $gray-400;
-  }
+  font-family: $headings-font-family;
 
-  &:not([disabled]):not(.disabled):focus {
-    box-shadow: 0 0 0 .2rem rgba($gray-400, .5);
+  &-lg > li > a,
+  &-lg > li > span {
+    padding: 14px 24px;
   }
 }
 
-[class*="btn-outline-"] {
-  border-width: 2px;
-}
+.pager {
 
-.border-secondary {
-  border: 1px solid $gray-400 !important;
-}
+  font-family: $headings-font-family;
 
-@include color-mode(dark) {
-  .btn-primary {
-    background-color: #080808;
+  a {
+    color: $text-color;
+  }
+
+  a:hover {
+    border-color: transparent;
+    color: #fff;
+  }
+
+  .disabled a {
+    border-color: $pager-border;
   }
 }
 
-// Typography
+// Indicators =================================================================
 
-body {
-  letter-spacing: 1px;
-}
+.close {
+  color: #fff;
+  text-decoration: none;
+  text-shadow: none;
+  opacity: 0.4;
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  text-transform: uppercase;
-  letter-spacing: 3px;
-}
-
-.text-secondary {
-  color: $body-color !important;
-}
-
-// Tables
-
-th {
-  font-size: $font-size-sm;
-  text-transform: uppercase;
-}
-
-.table {
-  th,
-  td {
-    padding: 1.5rem;
-  }
-
-  &-sm {
-    th,
-    td {
-      padding: .75rem;
-    }
+  &:hover,
+  &:focus {
+    color: #fff;
+    opacity: 1;
   }
 }
 
-// Forms
-
-@include color-mode(dark) {
-  .form-control {
-    color: $body-color;
-
-    &::placeholder {
-      color: $body-secondary-color;
-    }
-  }
-
-  .form-floating {
-    > label,
-    > .form-control:focus ~ label,
-    > .form-control:not(:placeholder-shown) ~ label,
-    > .form-control-plaintext ~ label,
-    > .form-select ~ label {
-      color: $body-secondary-color;
-    }
-
-    > .form-control::placeholder,
-    > .form-control-plaintext::placeholder {
-      color: transparent;
-    }
-  }
-
-  .form-check-input:checked {
-    background-color: $body-secondary-color;
-  }
-
-  .form-switch .form-check-input {
-    background-image: $form-switch-bg-image;
-  }
-
-  .form-range::-webkit-slider-thumb {
-    background-color: $gray-600;
-  }
-
-  .form-range:disabled::-webkit-slider-thumb {
-    background-color: $gray-800;
-  }
-
-  .input-group-text {
-    color: $body-secondary-color;
+.alert {
+  .alert-link {
+    color: $alert-success-text;
+    text-decoration: underline;
   }
 }
 
-// Navs
+.label {
+  font-family: $headings-font-family;
+  font-weight: normal;
 
-.dropdown-menu {
-  font-size: $font-size-sm;
-  text-transform: none;
+  &-default {
+    border: 1px solid #ddd;
+    color: $text-color;
+  }
+
 }
-
-// Indicators
 
 .badge {
-  padding-top: .28rem;
+  padding: 1px 7px 5px;
+  vertical-align: 2px;
+  font-family: $headings-font-family;
+  font-weight: normal;
+}
 
-  &-pill {
-    border-radius: 10rem;
-  }
+// Progress bars ==============================================================
 
-  &.bg-secondary,
-  &.bg-light {
-    color: $dark;
+// Containers =================================================================
+
+.panel {
+  @include box-shadow(none);
+
+  &-default {
+    .close {
+      color: $text-color;
+    }
   }
 }
 
-// Containers
-
-.list-group-item,
-.card {
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6,
-  .h1,
-  .h2,
-  .h3,
-  .h4,
-  .h5,
-  .h6 {
-    color: inherit;
+.modal {
+  .close {
+    color: $text-color;
   }
 }
