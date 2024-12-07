@@ -41,6 +41,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   </div>
 </div>
 </div>
+{% endfor %}
 
 <!-- {% assign number_printed = 0 %}
 {% for member in site.data.member_professor %}
