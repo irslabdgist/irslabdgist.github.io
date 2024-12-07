@@ -1,7 +1,7 @@
 ---
 title: "IRS Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "IRS Lab at DGIST"
 sitemap: false
 permalink: /
 ---
