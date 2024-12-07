@@ -25,10 +25,10 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="40%" style="float: left" />
-  <div markdown="0" style="padding-top:16px">
+  <div markdown="0" style="padding-top:12px">
   <h4>{{ member.name }}</h4>
-  <div markdown="0" style="padding-top:4px">
-    <span style="font-style:italic; font-size:20px">{{ member.info }}<br></span>
+  <div markdown="0" style="padding-top:0px">
+    <span style="font-style:italic; font-size:16px">{{ member.info }}<br></span>
     <span><b>Email</b>: {{ member.email }}<br></span>
     <!-- <span style="padding:0"><b>Research Interest</b></span>
     <ul style="overflow: hidden">
@@ -40,21 +40,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
     </ul> -->
   </div>
 </div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
 </div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-<br/>
 
 <!-- {% assign number_printed = 0 %}
 {% for member in site.data.member_professor %}
