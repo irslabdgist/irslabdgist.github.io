@@ -16,15 +16,19 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 ## Professor
 {% assign number_printed = 0 %}
 {% for member in site.data.member_professor %}
-
 <div class="row">
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-4 clearfix">
+</div>
+<div class="col-sm-4 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: center" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <br>email: <{{ member.email }}></i>
 </div>
+<div class="col-sm-4 clearfix">
+</div>
 {% endfor %}
+</div>
 
 ## Master and Bachelor Students
 {% assign number_printed = 0 %}
