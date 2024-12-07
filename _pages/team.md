@@ -44,22 +44,6 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 </div>
 
-<!-- {% assign number_printed = 0 %}
-{% for member in site.data.member_professor %}
-<div class="row">
-
-<div class="col-sm-4 clearfix">
-</div>
-<div class="col-sm-4 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="60%" style="float: center" />
-  <h4>{{ member.name }}</h4>
-  <h5>{{ member.info }}</h5>
-  <i>Email: <{{ member.email }}></i>
-</div>
-<div class="col-sm-4 clearfix">
-</div>
-{% endfor %}
-</div> -->
 
 ## Master and Bachelor Students
 {% assign number_printed = 0 %}
