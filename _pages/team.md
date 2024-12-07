@@ -42,7 +42,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endfor %}
 </div>
-<!-- </div> -->
+</div>
 
 <!-- {% assign number_printed = 0 %}
 {% for member in site.data.member_professor %}
