@@ -76,7 +76,7 @@ permalink: /publications/
   <h4>{{ publi.title }}</h4>
   <p><em>{{ publi.authors }} </em></p>
   <p><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></p>
-  <class="text-danger"><strong> {{ publi.news1 }}</strong><br>
+  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   {{ publi.news2 }}
   </div>
   <div class="col-sm-4 clearfix">
