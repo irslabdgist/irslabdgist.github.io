@@ -70,8 +70,8 @@ permalink: /publications/
   <h5>{{ publi.link.display }}<a href="{{ publi.link.url }}">[link]</a></h5>
   <em>{{ publi.authors }} </em>
   <p class="text-danger">
-  * <strong> {{ publi.news1 }}</strong><br>
-  * <strong> {{ publi.news2 }}</strong>
+  <strong> {{ publi.news1 }}</strong><br>
+  <strong> {{ publi.news2 }}</strong>
   </p>
   </div>
   {% endif %}
@@ -80,8 +80,8 @@ permalink: /publications/
   <h5>{{ publi.link.display }}<a href="{{ publi.link.url }}">[link]</a></h5>
   <em>{{ publi.authors }} </em>
   <p class="text-danger">
-  * <strong> {{ publi.news1 }}</strong><br>
-  * <strong> {{ publi.news2 }}</strong>
+  <strong> {{ publi.news1 }}</strong><br>
+  <strong> {{ publi.news2 }}</strong>
   </p>
   </div>
   <div class="col-sm-4 clearfix">
