@@ -60,7 +60,7 @@ permalink: /publications/
 ### International Publications
 ---
 {% for publi in site.data.publist %}
-<div class="row" row-gap-1>
+<div class="row">
   <div class="col-sm-12 clearfix">
   <h4>{{ publi.title }}</h4>
   </div>
