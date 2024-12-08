@@ -67,25 +67,25 @@ permalink: /publications/
   </div>
   {% if publi.highlight == 0 %}
   <div class="col-sm-12 clearfix">
-  <h5>{{ publi.link.display }}<a href="{{ publi.link.url }}">[link]</a></h5>
+  <h5>{{ publi.link.display }} <a href="{{ publi.link.url }}">[link]</a></h5>
   <em>{{ publi.authors }} </em>
-  <p class="text-danger">
+  <!-- <p class="text-danger">
   <strong> {{ publi.news1 }}</strong><br>
   <strong> {{ publi.news2 }}</strong>
-  </p>
+  </p> -->
   </div>
   {% endif %}
   {% if publi.highlight == 1 %}
   <div class="col-sm-8 clearfix">
-  <h5>{{ publi.link.display }}<a href="{{ publi.link.url }}">[link]</a></h5>
+  <h5>{{ publi.link.display }} <a href="{{ publi.link.url }}">[link]</a></h5>
   <em>{{ publi.authors }} </em>
-  <p class="text-danger">
+  <!-- <p class="text-danger">
   <strong> {{ publi.news1 }}</strong><br>
   <strong> {{ publi.news2 }}</strong>
-  </p>
+  </p> -->
   </div>
   <div class="col-sm-4 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" height="33%" style="float: right" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" style="float: right" />
   </div>
   {% endif %}
 </div>
