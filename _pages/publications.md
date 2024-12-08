@@ -80,7 +80,7 @@ permalink: /publications/
   <p> {{ publi.news2 }}</p>
   </div>
   <div class="col-sm-4 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" height="50%" style="float: right" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" height="33%" style="float: right" />
   </div>
   {% endif %}
 </div>
