@@ -62,9 +62,14 @@ permalink: /publications/
 {% for publi in site.data.publist %}
 
 <div class="row">
+  <div class="col-sm-12 clearfix">
   <pubtit>{{ publi.title }}</pubtit>
+  {% if publi.highlight == 1 %}
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: right" />
+  {% endif %}
   <p><em>{{ publi.authors }} </em></p>
   <p><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></p>
+  </div>
 </div>
 
 {% endfor %}
