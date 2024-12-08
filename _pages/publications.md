@@ -63,7 +63,9 @@ permalink: /publications/
 
 <div class="row">
   <div class="row">
+  <div class="col-sm-12 clearfix">
   <h4>{{ publi.title }}</h4>
+  </div>
   </div>
   {% if publi.highlight == 0 %}
   <div class="col-sm-12 clearfix">
