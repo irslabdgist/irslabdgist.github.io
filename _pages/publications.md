@@ -69,16 +69,20 @@ permalink: /publications/
   <div class="col-sm-12 clearfix">
   <h5>{{ publi.link.display }}<a href="{{ publi.link.url }}">[link]</a></h5>
   <em>{{ publi.authors }} </em><br>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
+  <p class="text-danger">
+  * <strong> {{ publi.news1 }}</strong>
+  * <strong> {{ publi.news2 }}</strong>
+  </p>
   </div>
   {% endif %}
   {% if publi.highlight == 1 %}
   <div class="col-sm-8 clearfix">
   <h5>{{ publi.link.display }}<a href="{{ publi.link.url }}">[link]</a></h5>
   <em>{{ publi.authors }} </em><br>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  {{ publi.news2 }}
+  <p class="text-danger">
+  * <strong> {{ publi.news1 }}</strong>
+  * <strong> {{ publi.news2 }}</strong>
+  </p>
   </div>
   <div class="col-sm-4 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" height="33%" style="float: right" />
