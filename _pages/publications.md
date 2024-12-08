@@ -58,7 +58,7 @@ permalink: /publications/
 <em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a> -->
 
 ## International Publications
-
+---
 {% for publi in site.data.publist %}
 
 <div class="row">
@@ -67,16 +67,16 @@ permalink: /publications/
   </div>
   {% if publi.highlight == 0 %}
   <div class="col-sm-12 clearfix">
+  <h5>{{ publi.link.display }}</h5><a href="{{ publi.link.url }}">[link]</a>
   <em>{{ publi.authors }} </em><br>
-  {{ publi.link.display }}<a href="{{ publi.link.url }}">[link]</a>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
   </div>
   {% endif %}
   {% if publi.highlight == 1 %}
   <div class="col-sm-8 clearfix">
+  <h5>{{ publi.link.display }}</h5><a href="{{ publi.link.url }}">[link]</a>
   <em>{{ publi.authors }} </em><br>
-  {{ publi.link.display }}<a href="{{ publi.link.url }}">[link]</a>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   {{ publi.news2 }}
   </div>
