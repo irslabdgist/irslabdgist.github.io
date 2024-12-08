@@ -104,7 +104,6 @@ permalink: /publications/
   <strong> {{ publi.news2 }}</strong>
   </p> -->
   </div>
-  {% endif %}
 </div>
 ---
 {% endfor %}
