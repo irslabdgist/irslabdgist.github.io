@@ -59,13 +59,11 @@ permalink: /publications/
 
 ### International Publications
 ---
-{% for publi in site.data.publist %}
+{% for publi in site.data.publist_international %}
 <div class="row">
-  <div class="col-sm-12 clearfix">
-  <h4>{{ publi.title }}</h4>
-  </div>
   {% if publi.highlight == 0 %}
   <div class="col-sm-12 clearfix">
+  <h4>{{ publi.title }}</h4>
   <h5>{{ publi.link.display }}</h5>
   {{ publi.authors }}
   <!-- <p class="text-danger">
@@ -76,6 +74,7 @@ permalink: /publications/
   {% endif %}
   {% if publi.highlight == 1 %}
   <div class="col-sm-8 clearfix">
+  <h4>{{ publi.title }}</h4>
   <h5>{{ publi.link.display }}</h5>
   <em>{{ publi.authors }}</em>
   <!-- <p class="text-danger">
@@ -92,5 +91,9 @@ permalink: /publications/
 {% endfor %}
 
 ### Domestic Publications
+---
+{% for publi in site.data.publist_national %}
+---
+{% endfor %}
 
 <br><br>
