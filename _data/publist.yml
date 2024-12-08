@@ -212,32 +212,23 @@
     display: SciPost Phys. 3, 010 (2017)
   highlight: 1
 
-- title: Poor electronic screening in lightly doped Mott insulators observed with scanning tunneling microscopy
-  image: TIBB.png
-  description:
-    We develop a simple model to interpret STM results on lightly doped Mott insulators, and find that the effective Mott gap measured by STM correspons to the one measured with other techniques when taking into account the poor electronic screeing.
-  authors:
-    I Battisti, V Fedoseev, KM Bastiaans, A de la Torre, RS Perry, F Baumberger, MP Allan
+- title: "Fusion-Vital: Video-RF Fusion Transformer for Advanced Remote Physiological Measurement"
+  image: dummy.png
+  authors: <strong>Jae-Ho Choi</strong>, Ki-Bong Kang, Kyung-Tae Kim*
   link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.235141
-    display: Phys. Rev. B 95, 235141, Editors' suggestion (2017)
+    display: AAAI Conference on Artificial Intelligence (AAAI), 2024 [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/27898)
   highlight: 0
 
-- title: Universality of pseudo gap and emergent order in lightly doped Mott insulators
-  image: Mott_phase_sep.jpg
-  description:
-    We discover of electronic order, pseudo gap phase separation and an impurity-band Mott transition in an iridate compound, cuprate-style. Along the way, we gained unique knowledge on how a Mott state collapses.
-  authors:
-    I. Battisti* & K.M. Bastiaans*, V. Fedoseev, A. de la Torre, N. Iliopoulos, A. Tamai, E.C. Hunter, R.S. Perry, J. Zaanen, F. Baumberger, M.P. Allan
+- title: "Radar-Based People Counting under Heterogeneous Clutter Environments"
+  image: dummy.png
+  authors: <strong>Jae-Ho Choi</strong>, Ji-Eun Kim, and Kyung-Tae Kim*
   link:
-    url: http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3894.html
-    display: Nature Physics 13, 21 (2017)
-  highlight: 1
-  news2: See also <a href="https://www.universiteitleiden.nl/en/news/2016/09/melting-of-frozen-electrons-visualized"> Leiden University news </a> by Erik Arends, <a href="http://phys.org/news/2016-09-frozen-electrons-visualized.html"> Phys.org </a>
+    display: IEEE Sensors Journal (SensJ), 2024 [[Link]](https://ieeexplore.ieee.org/document/10322673)
+  highlight: 0
 
 - title: "MVDoppler: Unleashing the Power of Multi-View Doppler for MicroMotion-based Gait Classification"
   image: dummy.png
-  authors: Soheil Hor*, Shubo Yang, *Jae-Ho Choi*, Amin Arbabian
+  authors: Soheil Hor*, Shubo Yang, <strong>Jae-Ho Choi</strong>, Amin Arbabian
   link:
     display: Neural Information Processing Systems (NeurIPS), 2023 [[Project Page]](https://mvdoppler.github.io/)[[Link]](https://openreview.net/pdf?id=1plAfmP5ms)
   highlight: 0
