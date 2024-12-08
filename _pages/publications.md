@@ -67,16 +67,16 @@ permalink: /publications/
   </div>
   {% if publi.highlight == 0 %}
   <div class="col-sm-12 clearfix">
-  <p><em>{{ publi.authors }} </em></p>
-  <p><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></p>
+  <em>{{ publi.authors }} </em><br>
+  {{ publi.link.display }}<a href="{{ publi.link.url }}">[link]</a>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
   </div>
   {% endif %}
   {% if publi.highlight == 1 %}
   <div class="col-sm-8 clearfix">
-  <p><em>{{ publi.authors }} </em></p>
-  <p><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></p>
+  <em>{{ publi.authors }} </em><br>
+  {{ publi.link.display }}<a href="{{ publi.link.url }}">[link]</a>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   {{ publi.news2 }}
   </div>
