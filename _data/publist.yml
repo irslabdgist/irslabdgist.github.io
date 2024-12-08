@@ -237,7 +237,7 @@
 
 - title: "MVDoppler: Unleashing the Power of Multi-View Doppler for MicroMotion-based Gait Classification"
   image: dummy.png
-  authors: Soheil Hor*, Shubo Yang, <b>Jae-Ho Choi</b>, and Amin Arbabian
+  authors: Soheil Hor*, Shubo Yang, <b>Jae-Ho Choi</b>, Amin Arbabian
   link:
     display: Neural Information Processing Systems (NeurIPS), 2023 [[Project Page]](https://mvdoppler.github.io/)[[Link]](https://openreview.net/pdf?id=1plAfmP5ms)
   highlight: 0
@@ -251,7 +251,7 @@
 
 - title: "Beam Scheduling of Maritime Multifunctional Radar Based on Binary Integration"
   image: dummy.png
-  authors: Nam-Hoon Jeong, Min Kim, <b>Jae-Ho Choi</b>, and Kyung-Tae Kim*
+  authors: Nam-Hoon Jeong, Min Kim, <b>Jae-Ho Choi</b>, Kyung-Tae Kim*
   link:
     display: IEEE Access, 2023 [[Link]](https://ieeexplore.ieee.org/abstract/document/10097706)
   highlight: 0
