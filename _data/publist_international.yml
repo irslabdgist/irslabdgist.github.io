@@ -1,3 +1,16 @@
+- title: "MM-EgoGesture: Multi-Modal Ego-Centric Hand Gesture Recognition through Fusion of mmWave Doppler and RGB Image"
+  image: dummy.png
+  authors: <strong>Jae-Ho Choi</strong>, Soheil Hor, Shubo Yang, Thomas H. King, Hirishika Basava, Amin Arbabian
+  link:
+    display: Under Review
+  highlight: 0
+
+- title: "MVDoppler-Pose: Multi-Modal Multi-View mmWave Sensing for Long-Distance Self-Occluded Human Walking Pose Estimation"
+  image: dummy.png
+  authors: <strong>Jae-Ho Choi</strong>, Soheil Hor, Shubo Yang, Amin Arbabian
+  link:
+    display: Under Review
+  highlight: 0
 
 - title: "Radar-Based Crowd Counting in Real-World Environments with Spatiotemporal Transformer"
   image: dummy.png

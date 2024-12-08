@@ -1,3 +1,16 @@
+- title: "MM-EgoGesture: Multi-Modal Ego-Centric Hand Gesture Recognition through Fusion of mmWave Doppler and RGB Image"
+  image: dummy.png
+  authors: <strong>Jae-Ho Choi</strong>, Soheil Hor, Shubo Yang, Thomas H. King, Hirishika Basava, Amin Arbabian
+  link:
+    display: Under Review
+  highlight: 0
+
+- title: "MVDoppler-Pose: Multi-Modal Multi-View mmWave Sensing for Long-Distance Self-Occluded Human Walking Pose Estimation"
+  image: dummy.png
+  authors: <strong>Jae-Ho Choi</strong>, Soheil Hor, Shubo Yang, Amin Arbabian
+  link:
+    display: Under Review
+  highlight: 0
 
 - title: "Radar-Based Crowd Counting in Real-World Environments with Spatiotemporal Transformer"
   image: dummy.png
@@ -104,11 +117,11 @@
     display: IEEE Radar Conference (RadarConf), 2020 [[Link]](https://ieeexplore.ieee.org/document/9266496){:target="_blank"}
   highlight: 0
 
-- title: "Robust Detection of Presence of Individuals in an Indoor Environment Using IR-UWB Radar"
+- title: "Learning-Based People Counting System Using an IR-UWB Radar Sensor"
   image: dummy.png
   description: ""
   authors:
-    Ji-Eun Kim, <b>Jae-Ho Choi</b>, Kyung-Tae Kim*
+    <b>Jae-Ho Choi</b>, Ji-Eun Kim, Kyung-Tae Kim*
   link:
-    display: IEEE Access, 2020 [[Link]](https://ieeexplore.ieee.org/abstract/document/9110845){:target="_blank"}
+    display: The Journal of Korean Institute of Electromagnetic Engineering and Science
   highlight: 0
