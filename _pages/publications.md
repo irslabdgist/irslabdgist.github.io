@@ -92,3 +92,5 @@ permalink: /publications/
 {% endfor %}
 
 ### Domestic Publications
+
+<br><br>
