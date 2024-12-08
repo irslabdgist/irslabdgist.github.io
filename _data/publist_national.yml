@@ -61,6 +61,22 @@
     display: Journal of Korean Institute of Electromagnetic Engineering and Science, 2019
   highlight: 0
 
+- title: "Curvelet Transform을 이용한 레이다 수신 신호 내 효과적인 클러터 제거 기법"
+  image: dummy.png
+  authors:
+    <strong>Jae-Ho Choi</strong>, Myung-Jun Lee, Sang-Min Lee, Nam-Hoon Jeong, Seung-Hyun Jin, Hoi-In Jeong, Kyung-Tae Kim*
+  link:
+    display: 한국전자파학회 전파 및 무선통신 학술대회, 2019
+  highlight: 0
+
+- title: "효율적인 신호 분해를 이용한 동일 거리에서 두 사람의 비접촉 활력징후 검출"
+  image: dummy.png
+  authors:
+    In-Oh Choi, Min Kim, <strong>Jae-Ho Choi</strong>, Jeong-Ki Park, Kyung-Tae Kim*
+  link:
+    display: 한국전자파학회 하계종핪학술대회, 2019
+  highlight: 0
+
 - title: "Analysis of Micro-Motion Characteristics Caused by Maneuvering a Small Unmanned Aerial Vehicle Acquired from X-Band Radar"
   image: dummy.png
   description: ""
