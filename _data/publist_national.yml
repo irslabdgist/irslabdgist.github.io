@@ -1,102 +1,64 @@
-- title: "MM-EgoGesture: Multi-Modal Ego-Centric Hand Gesture Recognition through Fusion of mmWave Doppler and RGB Image"
-  image: dummy.png
-  authors: <strong>Jae-Ho Choi</strong>, Soheil Hor, Shubo Yang, Thomas H. King, Hirishika Basava, Amin Arbabian
-  link:
-    display: Under Review
-  highlight: 0
-
-- title: "MVDoppler-Pose: Multi-Modal Multi-View mmWave Sensing for Long-Distance Self-Occluded Human Walking Pose Estimation"
-  image: dummy.png
-  authors: <strong>Jae-Ho Choi</strong>, Soheil Hor, Shubo Yang, Amin Arbabian
-  link:
-    display: Under Review
-  highlight: 0
-
-- title: "Radar-Based Crowd Counting in Real-World Environments with Spatiotemporal Transformer"
-  image: dummy.png
-  authors: <strong>Jae-Ho Choi</strong>, Kyung-Tae Kim*
-  link:
-    display: IEEE Signal Processing Letters (SPL), 2024 [[Link]](https://ieeexplore.ieee.org/abstract/document/10710320)
-  highlight: 0
-
-- title: "Fusion-Vital: Video-RF Fusion Transformer for Advanced Remote Physiological Measurement"
-  image: dummy.png
-  authors: <strong>Jae-Ho Choi</strong>, Ki-Bong Kang, Kyung-Tae Kim*
-  link:
-    display: AAAI Conference on Artificial Intelligence (AAAI), 2024 [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/27898){:target="_blank"}
-  highlight: 0
-
-- title: "Radar-Based People Counting under Heterogeneous Clutter Environments"
-  image: dummy.png
-  authors: <strong>Jae-Ho Choi</strong>, Ji-Eun Kim, and Kyung-Tae Kim*
-  link:
-    display: IEEE Sensors Journal (SensJ), 2024 [[Link]](https://ieeexplore.ieee.org/document/10322673)
-  highlight: 0
-
-- title: "MVDoppler: Unleashing the Power of Multi-View Doppler for MicroMotion-based Gait Classification"
-  image: dummy.png
-  authors: Soheil Hor*, Shubo Yang, <strong>Jae-Ho Choi</strong>, Amin Arbabian
-  link:
-    display: Neural Information Processing Systems (NeurIPS), 2023 [[Project Page]](https://mvdoppler.github.io/){:target="_blank"}[[Link]](https://openreview.net/pdf?id=1plAfmP5ms){:target="_blank"}
-  highlight: 0
-
-- title: "RF-Vital: Radio-Based Contactless Respiration Monitoring for a Moving Individual"
-  image: dummy.png
-  authors: <b>Jae-Ho Choi</b>, Ki-Bong Kang, Kyung-Tae Kim*
-  link:
-    display: IEEE Internet of Things Journal (IoTJ), 2023 [[Link]](https://ieeexplore.ieee.org/abstract/document/10304252){:target="_blank"}
-  highlight: 0
-
-- title: "Beam Scheduling of Maritime Multifunctional Radar Based on Binary Integration"
-  image: dummy.png
-  authors: Nam-Hoon Jeong, Min Kim, <b>Jae-Ho Choi</b>, Kyung-Tae Kim*
-  link:
-    display: IEEE Access, 2023 [[Link]](https://ieeexplore.ieee.org/abstract/document/10097706){:target="_blank"}
-  highlight: 0
-
-- title: "Remote Respiration Monitoring of Moving Person Using Radio Signals"
-  image: 2022_ECCV_result3.png
-  authors: <b>Jae-Ho Choi</b>, Ki-Bong Kang, Kyung-Tae Kim*
-  link:
-    display: European Conference on Computer Vision (ECCV), 2022 [[Link]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970248.pdf){:target="_blank"}
-  highlight: 1
-
-- title: "Feature Selection for SAR Target Discrimination and Efficient Two-Stage Detection Method"
-  image: dummy.png
-  authors: Nam-Hoon Jeong, <b>Jae-Ho Choi</b>, Geon Lee, Ji-Hoon Park, Kyung-Tae Kim*
-  highlight: 0
-  link:
-    display: Remote Sensing, 2022 [[Link]](https://www.mdpi.com/2072-4292/14/16/4044){:target="_blank"}
-
-- title: "Deep Learning Approach for Radar-Based People Counting"
-  image: dummy.png
-  authors: <b>Jae-Ho Choi</b>, Ji-Eun Kim, Kyung-Tae Kim*
-  link:
-    display: IEEE Internet of Things Journal (IoTJ), 2022 [[Link]](https://ieeexplore.ieee.org/abstract/document/9540889){:target="_blank"}
-  highlight: 0
-
-- title: "Fusion of Target and Shadow Regions for Improved SAR ATR"
-  image: dummy.png
-  authors: <b>Jae-Ho Choi</b>, Myung-Jun Lee, Nam-Hoon Jeong, Geon Lee, Kyung-Tae Kim*
-  link:
-    display: IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2022 [[Link]](https://ieeexplore.ieee.org/document/9751685){:target="_blank"}
-  highlight: 0
-  news2:
-
-- title: "Analysis of Micro-Doppler Signatures of Small UAVs Based on Doppler Spectrum"
-  image: Pub_nemat1.png
-  description: ""
-  authors: Ki-Bong Kang, <b>Jae-Ho Choi</b>, Byung-Lae Cho, Jung-Soo Lee, Kyung-Tae Kim*
-  link:
-    display: IEEE Transactions on Aerospace and Electronic Systems (TAES), 2021 [[Link]](https://ieeexplore.ieee.org/document/9409707){:target="_blank"}
-  highlight: 0
-
-- title: "Robust Cardiac Rate Estimation of an Individual"
+- title: "Principal Component Analysis-Based Dense Target Discrimination Method for Satellite Synthetic Aperture Radar Images"
   image: dummy.png
   description: ""
-  authors: In-Oh Choi, Min Kim, <b>Jae-Ho Choi</b>, Jeong-Ki Park, Kyung-Tae Kim*
+  authors:
+    Nam-Hoon Jeong, <strongJae-Ho Choi</strong>, Geon Lee, Ji-Hoon Park, Kyung-Tae Kim
   link:
-    display: IEEE Sensors Journal (SensJ), 2021 [[Link]](https://ieeexplore.ieee.org/document/9409125){:target="_blank"}
+    display: Journal of Korean Institute of Electromagnetic Engineering and Science
+  highlight: 0
+
+- title: "A Study on the Performance of SAR Change Detection Depending on Co-Registration Condition"
+  image: dummy.png
+  description: ""
+  authors:
+    Myung-Jun Lee, Nam-Hoon Jeong, <strongJae-Ho Choi</strong>, Geon Lee, Bo-Hyun Ryu, Kyung-Tae Kim*
+  link:
+    display: Journal of Korean Institute of Electromagnetic Engineering and Science
+  highlight: 0
+
+- title: "A Study on the Acceleration of a Speckle Reduction Algorithm using GPUs"
+  image: dummy.png
+  description: ""
+  authors:
+    Geon Lee, Myung-Jun Lee, Nam-Hoon Jeong, <strongJae-Ho Choi</strong>, Kyung-Tae Kim*
+  link:
+    display: Journal of Korean Institute of Electromagnetic Engineering and Science
+  highlight: 0
+
+- title: "A Study on RCS and Scattering Point Analysis Based on Measured Data for Maritime Ship"
+  image: dummy.png
+  description: ""
+  authors:
+    Hoi-In Jung, Sang-Hong Park, <strongJae-Ho Choi</strong>, Kyung-Tae Kim*
+  link:
+    display: Journal of the Korea Institute of Military Science and Technology
+  highlight: 0
+
+- title: "Beam Scheduling for Shipborne Multi-Function Radar Based on Job Shop Scheduling Theory"
+  image: dummy.png
+  description: ""
+  authors:
+    Nam-Hoon Jeong, Seung-Hyeon Jin, <strongJae-Ho Choi</strong>, Cheol-Ho Kim, Kyung-Tae Kim*
+  link:
+    display: Journal of Korean Institute of Electromagnetic Engineering and Science
+  highlight: 0
+
+- title: "Non-Contact Vital Sign Detection of Two Humans at the Same Distance Using Efficient Signal Decomposition"
+  image: dummy.png
+  description: ""
+  authors:
+    In-Oh Choi, Min Kim, <strongJae-Ho Choi</strong>, Jeong-Ki Park, Kyung-Tae Kim*
+  link:
+    display: Journal of Korean Institute of Electromagnetic Engineering and Science
+  highlight: 0
+
+- title: "Radar Beam Scheduling Using Pareto Optimal Point to Optimize Dual Cost Function"
+  image: dummy.png
+  description: ""
+  authors:
+    Seung-Hyeon Jin, Nam-Hoon Jeong, <strongJae-Ho Choi</strong>, Seong-Hyeon Lee, Cheol-Ho Kim, Kyung-Tae Kim*
+  link:
+    display: Journal of Korean Institute of Electromagnetic Engineering and Science
   highlight: 0
 
 - title: "Analysis of Micro-Motion Characteristics Caused by Maneuvering a Small Unmanned Aerial Vehicle Acquired from X-Band Radar"
@@ -114,7 +76,7 @@
   authors:
     <b>Jae-Ho Choi</b>, Ki-Bong Kang, Sun-Gu Sun, Jung-Soo Lee, Byung-Lae Cho, Kyung-Tae Kim*
   link:
-    display: The Journal of Korean Institute of Electromagnetic Engineering and Science
+    display: Journal of Korean Institute of Electromagnetic Engineering and Science
   highlight: 0
 
 - title: "Learning-Based People Counting System Using an IR-UWB Radar Sensor"
@@ -123,5 +85,5 @@
   authors:
     <b>Jae-Ho Choi</b>, Ji-Eun Kim, Kyung-Tae Kim*
   link:
-    display: The Journal of Korean Institute of Electromagnetic Engineering and Science
+    display: Journal of Korean Institute of Electromagnetic Engineering and Science
   highlight: 0
