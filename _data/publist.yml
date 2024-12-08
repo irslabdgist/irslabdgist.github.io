@@ -42,11 +42,11 @@
   highlight: 0
 
 - title: "Remote Respiration Monitoring of Moving Person Using Radio Signals"
-  image: dummy.png
+  image: 2022_ECCV_result3.png
   authors: <b>Jae-Ho Choi</b>, Ki-Bong Kang, Kyung-Tae Kim*
   link:
     display: European Conference on Computer Vision (ECCV), 2022 [[Link]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970248.pdf){:target="_blank"}
-  highlight: 0
+  highlight: 1
 
 - title: "Feature Selection for SAR Target Discrimination and Efficient Two-Stage Detection Method"
   image: dummy.png
