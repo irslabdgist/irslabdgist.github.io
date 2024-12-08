@@ -309,33 +309,27 @@
   highlight: 1
   news2: See also <a href="http://www.news.cornell.edu/stories/2012/05/new-clues-how-iron-superconductors-work"> Cornell Cornincle </a> by Bill Steele, <a href="http://www.eurekalert.org/pub_releases/2012-05/dnl-avo050312.php"> Eureka Alert </a>
 
-- title: How Kondo-holes create intense nanoscale heavy-fermion hybridization disorder
+- title: "Fusion of Target and Shadow Regions for Improved SAR ATR"
   image: dummy.png
   description: ""
-  authors: MH Hamidian, AR Schmidt, IA Firmo, MP Allan, P Bradley, JD Garrett, TJ Williams, GM Luke, Y Dubi, AV Balatsky, JC Davis
+  authors: <b>Jae-Ho Choi</b>, Myung-Jun Lee, Nam-Hoon Jeong, Geon Lee, Kyung-Tae Kim
   link:
-    url: http://www.pnas.org/content/108/45/18233
-    display:  PNAS 108, 18233 (2011)
+    display: IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2022 [[Link]](https://ieeexplore.ieee.org/document/9751685)
   highlight: 0
   news2:
 
-- title: Nematic electronic structure in the “parent” state of the iron-based superconductor Ca(Fe1−xCox)2As2
+- title: "Analysis of Micro-Doppler Signatures of Small UAVs Based on Doppler Spectrum"
   image: Pub_nemat1.png
-  description:
-    We discovered an electronic nematic in the iron based superconductor Co-CaFe2As2! This state is by now confirmed and quite well characterized  by transport, photoemission, and more SI-STM experiments.
-  authors:
-    T-M Chuang* & MP Allan*, J Lee, Y Xie, N Ni, SL Bud’ko, GS Boebinger PC Canfield, JC Davis
+  description: ""
+  authors: Ki-Bong Kang, <b>Jae-Ho Choi</b>, Byung-Lae Cho, Jung-Soo Lee, Kyung-Tae Kim
   link:
-    url: http://www.sciencemag.org/content/327/5962/181
-    display: Science 327, 181 (2010)
-  highlight: 1
-  news1: <a style="color:#FF0000" href="http://www.sciencemag.org/content/327/5962/155"> Featured in a ‘Perspective’ by E Fradkin &amp; SA Kivelson</a>
-  news2: See also <a  href="https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/">Article on NewScientist</a> by Colin Barras
+    display: IEEE Transactions on Aerospace and Electronic Systems (TAES), 2021 [[Link]](https://ieeexplore.ieee.org/document/9409707)
+  highlight: 0
 
 - title: "Robust Cardiac Rate Estimation of an Individual"
   image: dummy.png
   description: ""
-  authors: In-Oh Choi, Min Kim, Jae-Ho Choi, Jeong-Ki Park, Kyung-Tae Kim*
+  authors: In-Oh Choi, Min Kim, <b>Jae-Ho Choi</b>, Jeong-Ki Park, Kyung-Tae Kim*
   link:
     display: IEEE Sensors Journal (SensJ), 2021 [[Link]](https://ieeexplore.ieee.org/document/9409125)
   highlight: 0
@@ -353,7 +347,7 @@
   image: dummy.png
   description: ""
   authors:
-    <b>Jae-Ho Choi</b>, Ji-Eun Kim, Kyung-Tae Kim*
+    <b>Jae-Ho Choi</b>, Ji-Eun Kim, Nam-Hoon Jeong, Kyung-Tae Kim*, Seung-Hyun Jin
   link:
     display: IEEE Radar Conference (RadarConf), 2020 [[Link]](https://ieeexplore.ieee.org/document/9266496)
   highlight: 0
