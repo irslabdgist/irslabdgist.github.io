@@ -228,9 +228,9 @@
 
 - title: "MVDoppler: Unleashing the Power of Multi-View Doppler for MicroMotion-based Gait Classification"
   image: dummy.png
-  authors: Soheil Hor*, Shubo Yang, <strong>**Jae-Ho Choi**</strong>, Amin Arbabian
+  authors: Soheil Hor*, Shubo Yang, <strong>Jae-Ho Choi</strong>, Amin Arbabian
   link:
-    display: Neural Information Processing Systems (NeurIPS), 2023 [[Project Page]](https://mvdoppler.github.io/)[[Link]](https://openreview.net/pdf?id=1plAfmP5ms)
+    display: Neural Information Processing Systems (NeurIPS), 2023 [[Project Page]](https://mvdoppler.github.io/)[[Link]](https://openreview.net/pdf?id=1plAfmP5ms){:target="_blank"}
   highlight: 0
 
 - title: "RF-Vital: Radio-Based Contactless Respiration Monitoring for a Moving Individual"
