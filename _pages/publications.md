@@ -63,11 +63,11 @@ permalink: /publications/
 
 <div class="row">
   <div class="col-sm-12 clearfix">
-  <h4>{{ publi.title }}</h4>
+  <h5>{{ publi.title }}</h5>
   </div>
   {% if publi.highlight == 0 %}
   <div class="col-sm-12 clearfix">
-  <h5>{{ publi.link.display }}</h5>
+  <h6>{{ publi.link.display }}</h6>
   <em>{{ publi.authors }}</em>
   <!-- <p class="text-danger">
   <strong> {{ publi.news1 }}</strong><br>
@@ -77,7 +77,7 @@ permalink: /publications/
   {% endif %}
   {% if publi.highlight == 1 %}
   <div class="col-sm-8 clearfix">
-  <h5>{{ publi.link.display }}</h5>
+  <h6>{{ publi.link.display }}</h6>
   <em>{{ publi.authors }}</em>
   <!-- <p class="text-danger">
   <strong> {{ publi.news1 }}</strong><br>
