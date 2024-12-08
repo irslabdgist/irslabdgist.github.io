@@ -332,14 +332,12 @@
   news1: <a style="color:#FF0000" href="http://www.sciencemag.org/content/327/5962/155"> Featured in a ‘Perspective’ by E Fradkin &amp; SA Kivelson</a>
   news2: See also <a  href="https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/">Article on NewScientist</a> by Colin Barras
 
-- title: Heavy d-electron quasiparticle interference and real-space electronic structure of Sr3Ru2O7
-  image: Pub_hBN.png
-  description:
-    QPI in Sr327.
-  authors: Jinho Lee* & M. P. Allan*, M. A.Wang, J. Farrell, S. A. Grigera, F. Baumberger, J. C. Davis and A. P. Mackenzie
+- title: "Robust Cardiac Rate Estimation of an Individual"
+  image: dummy.png
+  description: ""
+  authors: In-Oh Choi, Min Kim, Jae-Ho Choi, Jeong-Ki Park, Kyung-Tae Kim*
   link:
-    url: https://www.nature.com/nphys/journal/v5/n11/full/nphys1397.html
-    display: Nature Physics 5, 800 (2009)
+    display: IEEE Sensors Journal (SensJ), 2021 [[Link]](https://ieeexplore.ieee.org/document/9409125)
   highlight: 0
 
 - title: "People Counting Using IR-UWB Radar Sensor in a Wide Area"
@@ -348,7 +346,7 @@
   authors:
     <b>Jae-Ho Choi</b>, Ji-Eun Kim, Kyung-Tae Kim*
   link:
-    display: IEEE Radar Conference (RadarConf), 2020 <a href=https://ieeexplore.ieee.org/document/9234452>[Link]</a><a href=https://www.youtube.com/watch?v=SRfiu0eAav8>[Video]</a>
+    display: IEEE Internet of Things Journal (IoTJ), 2021 [[Link]](https://ieeexplore.ieee.org/document/9234452)[[Video]](https://www.youtube.com/watch?v=SRfiu0eAav8)
   highlight: 0
 
 - title: "Accurate People Counting Based on Radar: Deep Learning Approach"
@@ -357,7 +355,7 @@
   authors:
     <b>Jae-Ho Choi</b>, Ji-Eun Kim, Kyung-Tae Kim*
   link:
-    display: IEEE Radar Conference (RadarConf), 2020 <a href=https://ieeexplore.ieee.org/document/9266496>[Link]</a>
+    display: IEEE Radar Conference (RadarConf), 2020 [[Link]](https://ieeexplore.ieee.org/document/9266496)
   highlight: 0
 
 - title: "Robust Detection of Presence of Individuals in an Indoor Environment Using IR-UWB Radar"
