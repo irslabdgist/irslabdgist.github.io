@@ -89,6 +89,7 @@ permalink: /publications/
 </div>
 ---
 {% endfor %}
+<br>
 
 ### Domestic Publications
 ---
