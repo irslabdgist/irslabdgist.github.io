@@ -99,22 +99,22 @@
     display: IEEE Sensors Journal (SensJ), 2021 [[Link]](https://ieeexplore.ieee.org/document/9409125){:target="_blank"}
   highlight: 0
 
-- title: "People Counting Using IR-UWB Radar Sensor in a Wide Area"
+- title: "Analysis of Micro-Motion Characteristics Caused by Maneuvering a Small Unmanned Aerial Vehicle Acquired from X-Band Radar"
   image: dummy.png
   description: ""
   authors:
-    <b>Jae-Ho Choi</b>, Ji-Eun Kim, Kyung-Tae Kim*
+    Ki-Bong Kang, In-Oh Choi, <strong>Jae-Ho Choi</strong>, Sun-Gu Sun, Jung-Soo Lee, Byung-Lae Cho, Sang-Hong Park, Kyung-Tae Kim*
   link:
-    display: IEEE Internet of Things Journal (IoTJ), 2021 [[Link]](https://ieeexplore.ieee.org/document/9234452){:target="_blank"}[[Video]](https://www.youtube.com/watch?v=SRfiu0eAav8){:target="_blank"}
+    display: The Journal of Korean Institute of Electromagnetic Engineering and Science
   highlight: 0
 
-- title: "Accurate People Counting Based on Radar: Deep Learning Approach"
+- title: "Efficient Detection of Small Unmanned Aerial Vehicles in Cluttered Environment"
   image: dummy.png
   description: ""
   authors:
-    <b>Jae-Ho Choi</b>, Ji-Eun Kim, Nam-Hoon Jeong, Kyung-Tae Kim*, Seung-Hyun Jin
+    <b>Jae-Ho Choi</b>, Ki-Bong Kang, Sun-Gu Sun, Jung-Soo Lee, Byung-Lae Cho, Kyung-Tae Kim*
   link:
-    display: IEEE Radar Conference (RadarConf), 2020 [[Link]](https://ieeexplore.ieee.org/document/9266496){:target="_blank"}
+    display: The Journal of Korean Institute of Electromagnetic Engineering and Science
   highlight: 0
 
 - title: "Learning-Based People Counting System Using an IR-UWB Radar Sensor"
