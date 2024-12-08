@@ -346,7 +346,7 @@
   image: dummy.png
   description: ""
   authors:
-    <b>Jae-Ho Choi</b>, Ji-Eun Kim, Kyung-Tae Kim
+    <b>Jae-Ho Choi</b>, Ji-Eun Kim, Kyung-Tae Kim*
   link:
     display: IEEE Radar Conference (RadarConf), 2020 <a href=https://ieeexplore.ieee.org/document/9234452>[Link]</a><a href=https://www.youtube.com/watch?v=SRfiu0eAav8>[Video]</a>
   highlight: 0
@@ -355,7 +355,7 @@
   image: dummy.png
   description: ""
   authors:
-    <b>Jae-Ho Choi</b>, Ji-Eun Kim, Kyung-Tae Kim
+    <b>Jae-Ho Choi</b>, Ji-Eun Kim, Kyung-Tae Kim*
   link:
     display: IEEE Radar Conference (RadarConf), 2020 <a href=https://ieeexplore.ieee.org/document/9266496>[Link]</a>
   highlight: 0
@@ -364,7 +364,7 @@
   image: dummy.png
   description: ""
   authors:
-    Ji-Eun Kim, <b>Jae-Ho Choi</b>, Kyung-Tae Kim
+    Ji-Eun Kim, <b>Jae-Ho Choi</b>, Kyung-Tae Kim*
   link:
-    display: IEEE Access, 2020 <a href=https://ieeexplore.ieee.org/abstract/document/9110845>[Link]</a>
+    display: IEEE Access, 2020 [[Link]](https://ieeexplore.ieee.org/abstract/document/9110845)
   highlight: 0
