@@ -94,6 +94,18 @@ permalink: /publications/
 ### Domestic Publications
 ---
 {% for publi in site.data.publist_national %}
+<div class="row">
+  <div class="col-sm-12 clearfix">
+  <h4>{{ publi.title }}</h4>
+  <h5>{{ publi.link.display }}</h5>
+  {{ publi.authors }}
+  <!-- <p class="text-danger">
+  <strong> {{ publi.news1 }}</strong><br>
+  <strong> {{ publi.news2 }}</strong>
+  </p> -->
+  </div>
+  {% endif %}
+</div>
 ---
 {% endfor %}
 
