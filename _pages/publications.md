@@ -67,8 +67,8 @@ permalink: /publications/
   </div>
   {% if publi.highlight == 0 %}
   <div class="col-sm-12 clearfix">
-  {{ publi.link.display }}
-  <h6>{{ publi.authors }}</h6>
+  <h6>{{ publi.link.display }}</h6>
+  {{ publi.authors }}
   <!-- <p class="text-danger">
   <strong> {{ publi.news1 }}</strong><br>
   <strong> {{ publi.news2 }}</strong>
