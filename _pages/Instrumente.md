@@ -22,3 +22,5 @@ permalink: /instrumente.html
 
 ### Rastertunnelmikroskop "Tama" 
 ![image](/images/inst/tama.jpeg){:class="img-responsive" width="75%"}
+
+<br><br>
