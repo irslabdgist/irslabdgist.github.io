@@ -364,12 +364,12 @@
     display: Nanoscale Research Letters 2, 94 (2007)
   highlight: 1
 
-- title: Photoelectron Diffraction for a Look inside Nanostructures
+- title: Robust Detection of Presence of Individuals in an Indoor Environment Using IR-UWB Radar
   image: dummy.png
   description: ""
   authors:
-    J Osterwalder, A Tamai, W Auwärter; MP Allan, T Greber
+    Ji-Eun Kim, <b>Jae-Ho Choi</b>, Kyung-Tae Kim
   link:
-    url: hhttp://www.ingentaconnect.com/content/scs/chimia/2006/00000060/00000011/art00013
-    display: CHIMIA 11, 759 (2006)
+    url: https://ieeexplore.ieee.org/abstract/document/9110845
+    display: IEEE Access (2020)
   highlight: 0
