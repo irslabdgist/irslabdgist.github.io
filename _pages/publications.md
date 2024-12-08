@@ -65,7 +65,7 @@ permalink: /publications/
   <div class="col-sm-12 clearfix">
   <h4>{{ publi.title }}</h4>
   <h5>{{ publi.link.display }}</h5>
-  {{ publi.authors }}
+  <em>{{ publi.authors }}</em>
   <!-- <p class="text-danger">
   <strong> {{ publi.news1 }}</strong><br>
   <strong> {{ publi.news2 }}</strong>
@@ -98,7 +98,7 @@ permalink: /publications/
   <div class="col-sm-12 clearfix">
   <h5>{{ publi.title }}</h5>
   <h6>{{ publi.link.display }}</h6>
-  {{ publi.authors }}
+  <em>{{ publi.authors }}</em>
   <!-- <p class="text-danger">
   <strong> {{ publi.news1 }}</strong><br>
   <strong> {{ publi.news2 }}</strong>
