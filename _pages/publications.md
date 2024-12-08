@@ -95,6 +95,7 @@ permalink: /publications/
 ---
 {% for publi in site.data.publist_national %}
 <div class="row">
+  <div class="col-sm-12 clearfix">
   <h5>{{ publi.title }}</h5>
   <h6>{{ publi.link.display }}</h6>
   {{ publi.authors }}
@@ -102,6 +103,7 @@ permalink: /publications/
   <strong> {{ publi.news1 }}</strong><br>
   <strong> {{ publi.news2 }}</strong>
   </p> -->
+  </div>
 </div>
 {% endfor %}
 ---
