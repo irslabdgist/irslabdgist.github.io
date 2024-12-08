@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Research"
+title: "IRS Lab - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "IRS Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
@@ -44,3 +44,5 @@ We have proposed that artificial super-periodicities can lead to improved superc
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
 
 ### ... and more.
+
+<br>
