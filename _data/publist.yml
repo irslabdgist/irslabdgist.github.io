@@ -24,7 +24,7 @@
   image: dummy.png
   authors: Soheil Hor*, Shubo Yang, <strong>Jae-Ho Choi</strong>, Amin Arbabian
   link:
-    display: Neural Information Processing Systems (NeurIPS), 2023 [[Project Page]](https://mvdoppler.github.io/)[[Link]]{:target="_blank"}(https://openreview.net/pdf?id=1plAfmP5ms){:target="_blank"}
+    display: Neural Information Processing Systems (NeurIPS), 2023 [[Project Page]](https://mvdoppler.github.io/){:target="_blank"}[[Link]](https://openreview.net/pdf?id=1plAfmP5ms){:target="_blank"}
   highlight: 0
 
 - title: "RF-Vital: Radio-Based Contactless Respiration Monitoring for a Moving Individual"
