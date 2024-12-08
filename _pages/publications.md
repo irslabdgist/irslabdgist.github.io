@@ -62,9 +62,11 @@ permalink: /publications/
 {% for publi in site.data.publist %}
 
 <div class="row">
+  <div class="row">
+  <h4>{{ publi.title }}</h4>
+  </div>
   {% if publi.highlight == 0 %}
   <div class="col-sm-12 clearfix">
-  <h4>{{ publi.title }}</h4>
   <p><em>{{ publi.authors }} </em></p>
   <p><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
@@ -73,7 +75,6 @@ permalink: /publications/
   {% endif %}
   {% if publi.highlight == 1 %}
   <div class="col-sm-8 clearfix">
-  <h4>{{ publi.title }}</h4>
   <p><em>{{ publi.authors }} </em></p>
   <p><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
