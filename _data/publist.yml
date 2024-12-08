@@ -342,34 +342,29 @@
     display: Nature Physics 5, 800 (2009)
   highlight: 0
 
-- title: Fermi surface and van Hove singularities in the itinerant metamagnet Sr3Ru2O7
-  image: Pub_hBN.png
-  description:
-    We determine the Fermi surface of Sr327.
+- title: "People Counting Using IR-UWB Radar Sensor in a Wide Area"
+  image: dummy.png
+  description: ""
   authors:
-    A Tamai, MP Allan, JF Mercure, W Meevasana, R Dunkel, DH Lu, RS Perry, AP Mackenzie, David J Singh, Z-X Shen, F Baumberger
+    <b>Jae-Ho Choi</b>, Ji-Eun Kim, Kyung-Tae Kim
   link:
-    url: http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.101.026407
-    display: Phys. Rev. Lett. 101, 026407 (2008)
+    display: IEEE Radar Conference (RadarConf), 2020 <a href=https://ieeexplore.ieee.org/document/9234452>[Link]</a><a href=https://www.youtube.com/watch?v=SRfiu0eAav8>[Video]</a>
   highlight: 0
 
-- title: Tunable  self-assembly of one-dimensional nanostructures with orthogonal directions
-  image: Pub_hBN.png
-  description:
-    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
+- title: "Accurate People Counting Based on Radar: Deep Learning Approach"
+  image: dummy.png
+  description: ""
   authors:
-    MP Allan, S Berner, M Corso, T Greber, J Osterwalder
+    <b>Jae-Ho Choi</b>, Ji-Eun Kim, Kyung-Tae Kim
   link:
-    url: https://link.springer.com/article/10.1007/s11671-006-9036-2
-    display: Nanoscale Research Letters 2, 94 (2007)
-  highlight: 1
+    display: IEEE Radar Conference (RadarConf), 2020 <a href=https://ieeexplore.ieee.org/document/9266496>[Link]</a>
+  highlight: 0
 
-- title: Robust Detection of Presence of Individuals in an Indoor Environment Using IR-UWB Radar
+- title: "Robust Detection of Presence of Individuals in an Indoor Environment Using IR-UWB Radar"
   image: dummy.png
   description: ""
   authors:
     Ji-Eun Kim, <b>Jae-Ho Choi</b>, Kyung-Tae Kim
   link:
-    url: https://ieeexplore.ieee.org/abstract/document/9110845
-    display: IEEE Access (2020)
+    display: IEEE Access, 2020 <a href=https://ieeexplore.ieee.org/abstract/document/9110845>[Link]</a>
   highlight: 0
