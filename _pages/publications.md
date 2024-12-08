@@ -105,6 +105,7 @@ permalink: /publications/
   </p> -->
   </div>
 </div>
-{% endfor %}
 ---
+{% endfor %}
+
 <br><br>
