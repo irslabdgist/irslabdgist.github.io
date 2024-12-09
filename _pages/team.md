@@ -41,10 +41,10 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
       {% endif %}
       </ul> -->
     <!-- </div> -->
+    </div>
   </div>
   </a>
 {% endfor %}
-</div>
 </div>
 </div>
 
