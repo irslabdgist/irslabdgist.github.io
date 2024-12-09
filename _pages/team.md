@@ -23,7 +23,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 <div class="col-sm-6 clearfix">
 <!-- <div class="list-group"> -->
-  <a href="{{ site.url }}{{ site.baseurl }}/team/jaeho" class="btn btn-default btn-lg btn-block" style="height: 220px;">
+  <a href="{{ site.url }}{{ site.baseurl }}/team/jaeho" class="btn btn-default btn-block" style="height: 220px;">
     <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="40%" style="float: left" />
     <h4>{{ member.name }}</h4>
     <span style="font-style:italic; font-size:18px">{{ member.info }}<br></span>
