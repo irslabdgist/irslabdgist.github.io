@@ -27,7 +27,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <div class="list-group">
   <a href="{{ site.url }}{{ site.baseurl }}/team/jaeho" class="list-group-item">
     <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="40%" style="float: left" />
-    <div markdown="0" style="padding-top:12px">
+    <!-- <div markdown="0" style="padding-top:12px"> -->
     <h4>{{ member.name }}</h4>
     <span style="font-style:italic; font-size:18px">{{ member.info }}<br></span>
     <span>{{ member.email }}<br></span>
@@ -41,7 +41,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
       {% endif %}
       </ul> -->
     <!-- </div> -->
-    </div>
+    <!-- </div> -->
   </a>
   </div> 
 {% endfor %}
