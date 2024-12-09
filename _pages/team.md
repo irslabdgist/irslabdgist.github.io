@@ -25,7 +25,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 <div class="list-group">
   <a href="{{ site.url }}{{ site.baseurl }}/team/jaeho" class="list-group-item" style="height: 220px;">
     <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="40%" style="float: left" />
-    <span style="font-family:sans-serif; font-weight:bold; font-size:20px; line-height:1.5;">{{ member.name }}<br></span>
+    <span style="font-family:sans-serif; font-weight:bold; font-size:20px; line-height:1.7;">{{ member.name }}<br></span>
     <span style="font-style:italic; font-size:18px">{{ member.info }}<br></span>
     <span>{{ member.email }}<br></span>
   </a>
