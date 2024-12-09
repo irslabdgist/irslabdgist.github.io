@@ -59,36 +59,38 @@ permalink: /publications/
 
 ### International Publications
 ---
-{% for publi in site.data.publist_international %}
-<div class="row" style="margin-top: -24px; margin-bottom: -24px;">
-  {% if publi.highlight == 0 %}
-  <div class="col-sm-12 clearfix">
-  <h4>{{ publi.title }}</h4>
-  <h5>{{ publi.link.display }}</h5>
-  <em>{{ publi.authors }}</em>
-  <!-- <p class="text-danger">
-  <strong> {{ publi.news1 }}</strong><br>
-  <strong> {{ publi.news2 }}</strong>
-  </p> -->
+<div class="container">
+  {% for publi in site.data.publist_international %}
+  <div class="row" style="margin-top:-24px; margin-bottom:-24px;">
+    {% if publi.highlight == 0 %}
+    <div class="col-sm-12 clearfix">
+    <h4>{{ publi.title }}</h4>
+    <h5>{{ publi.link.display }}</h5>
+    <em>{{ publi.authors }}</em>
+    <!-- <p class="text-danger">
+    <strong> {{ publi.news1 }}</strong><br>
+    <strong> {{ publi.news2 }}</strong>
+    </p> -->
+    </div>
+    {% endif %}
+    {% if publi.highlight == 1 %}
+    <div class="col-sm-8 clearfix">
+    <h4>{{ publi.title }}</h4>
+    <h5>{{ publi.link.display }}</h5>
+    <em>{{ publi.authors }}</em>
+    <!-- <p class="text-danger">
+    <strong> {{ publi.news1 }}</strong><br>
+    <strong> {{ publi.news2 }}</strong>
+    </p> -->
+    </div>
+    <div class="col-sm-4 clearfix">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="100%" style="float: right" />
+    </div>
+    {% endif %}
   </div>
-  {% endif %}
-  {% if publi.highlight == 1 %}
-  <div class="col-sm-8 clearfix">
-  <h4>{{ publi.title }}</h4>
-  <h5>{{ publi.link.display }}</h5>
-  <em>{{ publi.authors }}</em>
-  <!-- <p class="text-danger">
-  <strong> {{ publi.news1 }}</strong><br>
-  <strong> {{ publi.news2 }}</strong>
-  </p> -->
-  </div>
-  <div class="col-sm-4 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="100%" style="float: right" />
-  </div>
-  {% endif %}
+  ---
+  {% endfor %}
 </div>
----
-{% endfor %}
 <br>
 
 ### Domestic Publications
