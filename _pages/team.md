@@ -23,14 +23,12 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 <div class="col-sm-6 clearfix">
 <div class="list-group">
-  <li>
   <a href="{{ site.url }}{{ site.baseurl }}/team/jaeho" class="list-group-item" style="height: 220px;">
     <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="40%" style="float: left" />
-    <h4 class="list-group-item-heading">{{ member.name }}</h4>
+    <span><h4>{{ member.name }}</h4></span>
     <span style="font-style:italic; font-size:18px">{{ member.info }}<br></span>
     <span>{{ member.email }}<br></span>
   </a>
-  </li>
 </div>
 </div>
 </div>
