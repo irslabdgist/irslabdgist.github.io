@@ -30,7 +30,7 @@
   image: dummy.png
   authors: <strong>Jae-Ho Choi</strong>, Ki-Bong Kang, Kyung-Tae Kim*
   link:
-    display: AAAI Conference on Artificial Intelligence (AAAI), 2024 [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/27898){:target="_blank"}
+    display: AAAI Conference on Artificial Intelligence (AAAI), 2024 [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/27898){:target="_blank"} <span class="label label-primary">Top Conf. in AI</span>
   highlight: 0
 
 - title: "Radar-Based People Counting under Heterogeneous Clutter Environments"
@@ -44,7 +44,7 @@
   image: dummy.png
   authors: Soheil Hor*, Shubo Yang, <strong>Jae-Ho Choi</strong>, Amin Arbabian
   link:
-    display: Neural Information Processing Systems (NeurIPS), 2023 [[Project Page]](https://mvdoppler.github.io/){:target="_blank"}[[Link]](https://openreview.net/pdf?id=1plAfmP5ms){:target="_blank"}
+    display: Neural Information Processing Systems (NeurIPS), 2023 [[Project Page]](https://mvdoppler.github.io/){:target="_blank"}[[Link]](https://openreview.net/pdf?id=1plAfmP5ms){:target="_blank"} <span class="label label-primary">Top Conf. in AI</span>
   highlight: 0
 
 - title: "RF-Vital: Radio-Based Contactless Respiration Monitoring for a Moving Individual"
