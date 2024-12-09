@@ -23,9 +23,9 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 <div class="row">
 {% endif %}
 
-<div class="list-group">
+<div class="col-sm-6 clearfix">
+  <div class="list-group">
   <a href="{{ site.url }}{{ site.baseurl }}/team/jaeho" class="list-group-item">
-  <div class="col-sm-6 clearfix">
     <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="40%" style="float: left" />
     <div markdown="0" style="padding-top:12px">
     <h4>{{ member.name }}</h4>
@@ -42,8 +42,8 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
       </ul> -->
     <!-- </div> -->
     </div>
-  </div>
   </a>
+  </div> 
 {% endfor %}
 </div>
 </div>
