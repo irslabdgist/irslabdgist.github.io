@@ -61,9 +61,9 @@ permalink: /publications/
 ---
 <div class="container">
 {% for publi in site.data.publist_international %}
-<div class="row" style="margin-top:-24px; margin-bottom:-24px;">
+<div class="row">
   {% if publi.highlight == 0 %}
-  <div class="col-sm-12 clearfix">
+  <div class="col-sm-12 clearfix" style="margin-top:-24px; margin-bottom:-24px;">
   <h4>{{ publi.title }}</h4>
   <h5>{{ publi.link.display }}</h5>
   <em>{{ publi.authors }}</em>
@@ -74,7 +74,7 @@ permalink: /publications/
   </div>
   {% endif %}
   {% if publi.highlight == 1 %}
-  <div class="col-sm-8 clearfix">
+  <div class="col-sm-8 clearfix" style="margin-top:-24px; margin-bottom:-24px;">
   <h4>{{ publi.title }}</h4>
   <h5>{{ publi.link.display }}</h5>
   <em>{{ publi.authors }}</em>
@@ -83,7 +83,7 @@ permalink: /publications/
   <strong> {{ publi.news2 }}</strong>
   </p> -->
   </div>
-  <div class="col-sm-4 clearfix">
+  <div class="col-sm-4 clearfix" style="margin-top:-24px; margin-bottom:-24px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="100%" style="float: right" />
   </div>
   {% endif %}
