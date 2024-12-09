@@ -51,7 +51,7 @@
   image: dummy.png
   authors: <b>Jae-Ho Choi</b>, Ki-Bong Kang, Kyung-Tae Kim*
   link:
-    display: IEEE Internet of Things Journal (IoTJ), 2023 [[Link]](https://ieeexplore.ieee.org/abstract/document/10304252){:target="_blank"}
+    display: IEEE Internet of Things Journal (IoTJ), 2023 [[Link]](https://ieeexplore.ieee.org/abstract/document/10304252){:target="_blank"} <span class="label label-success">Top 5%</span>
   highlight: 0
 
 - title: "Beam Scheduling of Maritime Multifunctional Radar Based on Binary Integration"
@@ -65,7 +65,7 @@
   image: 2022_ECCV_result3.png
   authors: <b>Jae-Ho Choi</b>, Ki-Bong Kang, Kyung-Tae Kim*
   link:
-    display: European Conference on Computer Vision (ECCV), 2022 [[Link]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970248.pdf){:target="_blank"}
+    display: European Conference on Computer Vision (ECCV), 2022 [[Link]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970248.pdf){:target="_blank"} <span class="label label-primary">Top Conf. in AI</span>
   highlight: 1
 
 - title: "Feature Selection for SAR Target Discrimination and Efficient Two-Stage Detection Method"
@@ -79,7 +79,7 @@
   image: dummy.png
   authors: <b>Jae-Ho Choi</b>, Ji-Eun Kim, Kyung-Tae Kim*
   link:
-    display: IEEE Internet of Things Journal (IoTJ), 2022 [[Link]](https://ieeexplore.ieee.org/abstract/document/9540889){:target="_blank"}
+    display: IEEE Internet of Things Journal (IoTJ), 2022 [[Link]](https://ieeexplore.ieee.org/abstract/document/9540889){:target="_blank"} <span class="label label-success">Top 5%</span>
   highlight: 0
 
 - title: "Fusion of Target and Shadow Regions for Improved SAR ATR"
@@ -112,7 +112,7 @@
   authors:
     <b>Jae-Ho Choi</b>, Ji-Eun Kim, Kyung-Tae Kim*
   link:
-    display: IEEE Internet of Things Journal (IoTJ), 2021 [[Link]](https://ieeexplore.ieee.org/document/9234452){:target="_blank"}[[Video]](https://www.youtube.com/watch?v=SRfiu0eAav8){:target="_blank"}
+    display: IEEE Internet of Things Journal (IoTJ), 2021 [[Link]](https://ieeexplore.ieee.org/document/9234452){:target="_blank"}[[Video]](https://www.youtube.com/watch?v=SRfiu0eAav8){:target="_blank"} <span class="label label-success">Top 5%</span>
   highlight: 0
 
 - title: "Accurate People Counting Based on Radar: Deep Learning Approach"
