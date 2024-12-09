@@ -100,12 +100,14 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
-  <ul style="overflow: hidden">
-
-  </ul>
+<div class="list-group">
+  <a href="{{ site.url }}{{ site.baseurl }}/team/jaeho" class="list-group-item" style="height: 220px;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="40%" style="float: left" />
+    <br><span style="font-family:sans-serif; font-weight:bold; font-size:20px; line-height:1.6;">{{ member.name }}<br></span>
+    <span style="font-style:italic; font-size:18px">{{ member.info }}<br></span>
+    <span>{{ member.email }}<br></span>
+  </a>
+</div>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
