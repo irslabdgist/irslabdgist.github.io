@@ -12,6 +12,13 @@
     display: Under Review
   highlight: 0
 
+- title: "High-Resolution Gait Micro-Doppler Synthesis from Videos Over Diverse Trajectories"
+  image: dummy.png
+  authors: Shubo Yang*, <strong>Jae-Ho Choi</strong>, Soheil Hor, Amin Arbabian
+  link:
+    display: Under Review
+  highlight: 0
+
 - title: "Radar-Based Crowd Counting in Real-World Environments with Spatiotemporal Transformer"
   image: dummy.png
   authors: <strong>Jae-Ho Choi</strong>, Kyung-Tae Kim*
