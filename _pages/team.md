@@ -23,27 +23,18 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 <div class="col-sm-6 clearfix">
 <div class="list-group">
+  <li>
   <a href="{{ site.url }}{{ site.baseurl }}/team/jaeho" class="list-group-item" style="height: 220px;">
     <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="40%" style="float: left" />
     <h4 class="list-group-item-heading">{{ member.name }}</h4>
-    <p class="list-group-item-text" style="font-style:italic; font-size:18px">{{ member.info }}<br></p>
-    <p class="list-group-item-text">{{ member.email }}<br></p>
+    <span style="font-style:italic; font-size:18px">{{ member.info }}<br></span>
+    <span>{{ member.email }}<br></span>
   </a>
+  </li>
 </div>
 </div>
 </div>
 {% endfor %}
-
-<div class="list-group">
-  <a href="#" class="list-group-item">
-    <h4 class="list-group-item-heading">List group item heading</h4>
-    <p class="list-group-item-text">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p>
-  </a>
-  <a href="#" class="list-group-item">
-    <h4 class="list-group-item-heading">List group item heading</h4>
-    <p class="list-group-item-text">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p>
-  </a>
-</div>
 
 ## Master and Bachelor Students
 {% assign number_printed = 0 %}
