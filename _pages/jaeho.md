@@ -12,7 +12,7 @@ permalink: /team/jaeho
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Jaeho.jpg" width="95%">
 </p>
 </div>
-<div class="col-sm-9 clearfix">
+<div class="col-sm-9 clearfix" style="margin-top: 4%">
 <h3>Jae-Ho Choi</h3>
 <span><large>Assistant Professor</large><br></span>
 <span><a href="https://www.dgist.ac.kr/en_eecs/" target="blank"><large>Dept. Electrical Engineering and Computer Science (EECS)</large></a>, <a href="https://www.dgist.ac.kr/" target="blank"><large>DGIST</large></a><br></span>
