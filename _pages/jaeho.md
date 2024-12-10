@@ -22,4 +22,4 @@ permalink: /team/jaeho
 
 I am an Assistant Professor at Department of Electrical Engineering and Computer Science, DGIST, Daegu, Korea, since 2024. 
 
-I was a Postdoctoral Scholar in Department of Electrical Engineering (PI: Prof. [Amin Arbabian](https://arbabianlab.stanford.edu/){:target="_blank"}) at Stanford University, Stanford, CA, US. I received the M.S. and Ph.D. degree in Electrical Engineering from POSTECH, Pohang, Korea, advised by Prof. Kyung-Tae Kim.
+From 2023 to 2024, I was a Postdoctoral Scholar in [Department of Electrical Engineering](https://ee.stanford.edu/) (advised by Prof. [Amin Arbabian](https://arbabianlab.stanford.edu/){:target="_blank"}) at [Stanford University](https://www.stanford.edu/), Stanford, CA, US. I received the M.S. and Ph.D. degree in Electrical Engineering from [POSTECH](https://postech.ac.kr/eng/) (advised by Prof. [Kyung-Tae Kim](http://iras.postech.ac.kr/main/index.php)), Pohang, Korea, in 2019 and 2023, respectively. I completed the B.S. degree in Computer Science from [Korea University](https://www.korea.edu/sites/en/index.do), Seoul, Korea, in 2017.
