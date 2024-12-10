@@ -14,10 +14,13 @@ permalink: /team/jaeho
 </div>
 <div class="col-sm-9 clearfix" style="margin-top: 4%">
 <h3>Jae-Ho Choi</h3>
-<span><large>Assistant Professor</large><br></span>
-<span><a href="https://www.dgist.ac.kr/en_eecs/" target="blank"><large>Dept. Electrical Engineering and Computer Science (EECS)</large></a>, <a href="https://www.dgist.ac.kr/" target="blank"><large>DGIST</large></a><br></span>
-<span><large>Email: gogoho77@gmail.com</large><br></span>
+<span style="font-size:20px">Assistant Professor<br></span>
+<span style="font-size:20px"><a href="https://www.dgist.ac.kr/en_eecs/" target="blank">Dept. Electrical Engineering and Computer Science (EECS)</a>, <a href="https://www.dgist.ac.kr/" target="blank">DGIST</a><br></span>
+<span style="font-size:20px">Email: gogoho77@gmail.com<br></span>
 </div>
 </div>
 
 I am an Assistant Professor at Department of Electrical Engineering and Computer Science, DGIST, Daegu, Korea, since 2024. 
+
+I was a 
+I was with Facebook AI Research working with prof. Lorenzo Torresani. I was a postdoctoral associate in Computational Fabrication Group (PI: prof. Wojciech Matusik) at MIT CSAIL, Cambridge, MA, US. I completed my M.S. and Ph.D. at Dept. EE, KAIST, Korea (co-advised by profs. In So Kweon and Jinwoo Shin, and former co-advisor Dr. Yu-Wing Tai). I finished my B.E. degree (the first-class honor) from Dept. Computer Engineering at Kwang-Woon University (KWU), Korea.
