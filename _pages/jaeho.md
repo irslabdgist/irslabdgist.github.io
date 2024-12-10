@@ -5,7 +5,6 @@ excerpt: "Jaeho"
 sitemap: false
 permalink: /team/jaeho
 ---
-# Jae-Ho Choi, Ph.D.
 <div markdown="0" class="col-sm-12">
     <div markdown="0" class='col-sm-2'>
         <p style="text-align: center;">
@@ -16,7 +15,7 @@ permalink: /team/jaeho
         <span>
             <h4>Jae-Ho Choi</h4>
             <span>Assistant Professor<br></span>
-            <span>[Dept. Electrical Engineering and Computer Science (EECS)](https://www.dgist.ac.kr/en_eecs/){:target="_blank"}, [DGIST](https://www.dgist.ac.kr/){:target="_blank"}<br></span>
+            <span><a href="https://www.dgist.ac.kr/en_eecs/" target="blank">Dept. Electrical Engineering and Computer Science (EECS)</a>, <a href="https://www.dgist.ac.kr/" target="blank">DGIST</a><br></span>
             <span>Email: gogoho77@gmail.com<br></span>
         </span>
     </div>
