@@ -14,7 +14,7 @@
 
 - title: "High-Resolution Gait Micro-Doppler Synthesis from Videos Over Diverse Trajectories"
   image: dummy.png
-  authors: Shubo Yang*, <strong>Jae-Ho Choi</strong>, Soheil Hor, Amin Arbabian
+  authors: Shubo Yang*, Soheil Hor, <strong>Jae-Ho Choi</strong>, Amin Arbabian
   link:
     display: Under Review
   highlight: 0
@@ -86,7 +86,7 @@
   image: dummy.png
   authors: <b>Jae-Ho Choi</b>, Myung-Jun Lee, Nam-Hoon Jeong, Geon Lee, Kyung-Tae Kim*
   link:
-    display: IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2022 [[Link]](https://ieeexplore.ieee.org/document/9751685){:target="_blank"}
+    display: IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2022 [[Link]](https://ieeexplore.ieee.org/document/9751685){:target="_blank"} <span class="label label-success">Top 10%</span>
   highlight: 0
   news2:
 
@@ -95,7 +95,7 @@
   description: ""
   authors: Ki-Bong Kang, <b>Jae-Ho Choi</b>, Byung-Lae Cho, Jung-Soo Lee, Kyung-Tae Kim*
   link:
-    display: IEEE Transactions on Aerospace and Electronic Systems (TAES), 2021 [[Link]](https://ieeexplore.ieee.org/document/9409707){:target="_blank"}
+    display: IEEE Transactions on Aerospace and Electronic Systems (TAES), 2021 [[Link]](https://ieeexplore.ieee.org/document/9409707){:target="_blank"} <span class="label label-success">Top 10%</span>
   highlight: 0
 
 - title: "Robust Cardiac Rate Estimation of an Individual"
