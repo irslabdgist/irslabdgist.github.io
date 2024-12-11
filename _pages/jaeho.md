@@ -13,11 +13,11 @@ permalink: /team/jaeho
 </p>
 </div>
 <div class="col-sm-9 clearfix" style="margin-top: 3%">
-<h3>Jae-Ho Choi</h3>
-<span style="font-size:18px"><em>Assistant Professor</em><br></span>
-<span style="font-size:18px"><a href="https://www.dgist.ac.kr/en_eecs/" target="blank">Dept. Electrical Engineering and Computer Science (EECS)</a>, <a href="https://www.dgist.ac.kr/eng/index.do" target="blank">DGIST</a><br></span>
-<span style="font-size:18px">Email: gogoho77@gmail.com<br><br></span>
-<span style="font-size:18px"><a href="https://www.dgist.ac.kr/en_eecs/" target="blank">CV</a> | <a href="https://www.dgist.ac.kr/en_eecs/" target="blank">Google Scholar</a> | <a href="https://www.dgist.ac.kr/en_eecs/" target="blank">Linkedin</a><br></span>
+<h4>Jae-Ho Choi</h4>
+<span><em>Assistant Professor</em><br></span>
+<span><a href="https://www.dgist.ac.kr/en_eecs/" target="blank">Dept. Electrical Engineering and Computer Science (EECS)</a>, <a href="https://www.dgist.ac.kr/eng/index.do" target="blank">DGIST</a><br></span>
+<span>Email: gogoho77@gmail.com<br><br></span>
+<span><a href="https://www.dgist.ac.kr/en_eecs/" target="blank">CV</a> | <a href="https://www.dgist.ac.kr/en_eecs/" target="blank">Google Scholar</a> | <a href="https://www.dgist.ac.kr/en_eecs/" target="blank">Linkedin</a><br></span>
 </div>
 </div>
 
