@@ -16,7 +16,7 @@
   image: dummy.png
   authors: Shubo Yang*, Soheil Hor, <strong>Jae-Ho Choi</strong>, Amin Arbabian
   link:
-    display: Under Review
+    display: IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2025 <span class="label label-primary">Top Conf.</span>
   highlight: 0
 
 - title: "Radar-Based Crowd Counting in Real-World Environments with Spatiotemporal Transformer"
@@ -30,7 +30,7 @@
   image: dummy.png
   authors: <strong>Jae-Ho Choi</strong>, Ki-Bong Kang, Kyung-Tae Kim*
   link:
-    display: AAAI Conference on Artificial Intelligence (AAAI), 2024 [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/27898){:target="_blank"} <span class="label label-primary">Top Conf. in AI</span>
+    display: AAAI Conference on Artificial Intelligence (AAAI), 2024 [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/27898){:target="_blank"} <span class="label label-primary">Top Conf.</span>
   highlight: 0
 
 - title: "Radar-Based People Counting under Heterogeneous Clutter Environments"
@@ -44,7 +44,7 @@
   image: dummy.png
   authors: Soheil Hor*, Shubo Yang, <strong>Jae-Ho Choi</strong>, Amin Arbabian
   link:
-    display: Neural Information Processing Systems (NeurIPS), 2023 [[Project Page]](https://mvdoppler.github.io/){:target="_blank"}[[Link]](https://openreview.net/pdf?id=1plAfmP5ms){:target="_blank"} <span class="label label-primary">Top Conf. in AI</span>
+    display: Neural Information Processing Systems (NeurIPS), 2023 [[Project Page]](https://mvdoppler.github.io/){:target="_blank"}[[Link]](https://openreview.net/pdf?id=1plAfmP5ms){:target="_blank"} <span class="label label-primary">Top Conf.</span>
   highlight: 0
 
 - title: "RF-Vital: Radio-Based Contactless Respiration Monitoring for a Moving Individual"
@@ -65,7 +65,7 @@
   image: 2022_ECCV_result3.png
   authors: <b>Jae-Ho Choi</b>, Ki-Bong Kang, Kyung-Tae Kim*
   link:
-    display: European Conference on Computer Vision (ECCV), 2022 [[Link]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970248.pdf){:target="_blank"} <span class="label label-primary">Top Conf. in AI</span>
+    display: European Conference on Computer Vision (ECCV), 2022 [[Link]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970248.pdf){:target="_blank"} <span class="label label-primary">Top Conf.</span>
   highlight: 1
 
 - title: "Feature Selection for SAR Target Discrimination and Efficient Two-Stage Detection Method"
