@@ -61,6 +61,15 @@ permalink: /
   </div>
 </div>
 
+<div class="panel panel-primary">
+  <div class="panel-heading">
+    <h3 class="panel-title">Notice</h3>
+  </div>
+  <div class="panel-body">
+    Panel content
+  </div>
+</div>
+
 <div class="well">
   <h4>Research Interests</h4>
   <span style="margin-left: 5%">We are looking for passionate students (<b>PhD/MS students</b> and <b>Undergrad. intern</b>) to join the team.<br></span>
