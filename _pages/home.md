@@ -49,9 +49,12 @@ permalink: /
   </a>
 </div>
 
-<div class="well" style="margin-left: 10%">
+<div class="well">
   <h4>Notice</h4>
-  <span>We are looking for passionate students (<b>PhD/MS students</b> and <b>research intern</b>) to join the team.</span>
+  <span style="margin-left: 10%">We are looking for passionate students (<b>PhD/MS students</b> and <b>Undergrad. intern</b>) to join the team.<br>
+  If you're interested, please contact Prof. Jae-Ho Choi (<i>jhochoi@dgist.ac.kr</i>) with your CV.
+  </span>
+  
   <p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
   <p><a class="btn btn-primary btn-lg">Learn more</a></p>
 </div>
