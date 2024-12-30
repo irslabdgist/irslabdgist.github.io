@@ -49,12 +49,16 @@ permalink: /
   </a>
 </div>
 
-<div class="well">
-  <h4>Notice</h4>
-  <span style="margin-left: 10%">We are looking for passionate students (<b>PhD/MS students</b> and <b>Undergrad. intern</b>) to join the team.<br>
-  If you're interested, please contact Prof. Jae-Ho Choi (<i>jhochoi@dgist.ac.kr</i>) with your CV.
-  </span>
-  <p><a href="#" class="btn btn-primary">Learn More</a></p>
+<div class="panel panel-primary">
+  <div class="panel-heading">
+    <h3 class="panel-title">Notice</h3>
+  </div>
+  <div class="panel-body">
+    <span style="margin-left: 10%">We are looking for passionate students (<b>PhD/MS students</b> and <b>Undergrad. intern</b>) to join the team.<br>
+    If you're interested, please contact Prof. Jae-Ho Choi (<i>jhochoi@dgist.ac.kr</i>) with your CV.
+    </span>
+    <p><a href="#" class="btn btn-primary">Learn More</a></p>
+  </div>
 </div>
 
 <div class="well">
