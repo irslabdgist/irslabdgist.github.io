@@ -54,13 +54,17 @@ permalink: /
   <span style="margin-left: 10%">We are looking for passionate students (<b>PhD/MS students</b> and <b>Undergrad. intern</b>) to join the team.<br>
   If you're interested, please contact Prof. Jae-Ho Choi (<i>jhochoi@dgist.ac.kr</i>) with your CV.
   </span>
-  
-  <p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
-  <p><a class="btn btn-primary btn-lg">Learn more</a></p>
+  <p><a href="#" class="btn btn-primary">Learn More</a></p>
 </div>
 
-> `This`
-> Test
+<div class="well">
+  <h4>Research Interests</h4>
+  <span style="margin-left: 5%">We are looking for passionate students (<b>PhD/MS students</b> and <b>Undergrad. intern</b>) to join the team.<br></span>
+  <span style="margin-left: 5%">If you're interested, please contact Prof. Jae-Ho Choi (<b><i>jhochoi@dgist.ac.kr</i></b>) with your CV.</span>
+  
+  <p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+  <p><a class="btn btn-primary btn">Learn more</a></p>
+</div>
 
 We are a dynamic research group, at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl) and soon at [LMU](https://www.physik.lmu.de/en/index.html). Our aim is to explore and understand quantum materials, including strange metals, high-temperature superconductors, and quantum critical electron matter. To this end, we develop new quantum sensing and quantum imaging instrumentation to get the key quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the scientific questions we deem most important (see [Research](research)). 
 
