@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+<div markdown="0" id="" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -49,10 +49,10 @@ permalink: /
   </a>
 </div>
 
-<div class="well" style="margin-left: 3%; margin-right: 3%">
-  <h4>Notice</h4>
-  <span style="margin-left: 2%">We are looking for passionate students (<b>PhD/MS students</b> and <b>Undergrad. intern</b>) to join IRS Lab.<br></span>
-  <span style="margin-left: 2%">If you're interested, please contact Prof. Jae-Ho Choi (<b><i>jhochoi@dgist.ac.kr</i></b>) with your CV.</span>
+<div class="well" style="margin-left: 5%; margin-right: 5%">
+  <h3>Notice</h3>
+  <span style="margin-left: 2%"><large>We are looking for passionate students (<b>PhD/MS students</b> and <b>Undergrad. intern</b>) to join IRS Lab.<br></large></span>
+  <span style="margin-left: 2%"><large>If you're interested, please contact Prof. Jae-Ho Choi (<i>jhochoi@dgist.ac.kr</i>) with your CV.</large></span>
 </div>
 
 We are a dynamic research group, at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl) and soon at [LMU](https://www.physik.lmu.de/en/index.html). Our aim is to explore and understand quantum materials, including strange metals, high-temperature superconductors, and quantum critical electron matter. To this end, we develop new quantum sensing and quantum imaging instrumentation to get the key quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the scientific questions we deem most important (see [Research](research)). 
