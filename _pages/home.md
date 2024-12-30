@@ -49,13 +49,12 @@ permalink: /
   </a>
 </div>
 
-<div class="well" style="margin-left: 5%; margin-right: 5%">
+<blockquote>
   <h4>Notice</h4>
   <span style="margin-left: 2%; font-size:18px">We are looking for passionate students (<b>PhD/MS students</b> and <b>Undergrad. intern</b>) to join IRS Lab.<br></span>
   <span style="margin-left: 2%; font-size:18px">If you're interested, please refer to <a href="{{ site.url }}{{ site.baseurl }}/vacancies">this link</a>.<br></span>
   <span style="margin-left: 2%; font-size:18px">Feel free to contact Prof. Jae-Ho Choi (<i>jhochoi@dgist.ac.kr</i>) for further questions.</span>
-</div>
-
+</blockquote>
 
 <div class="well" style="margin-left: 5%; margin-right: 5%">
   <h4>Our Research Areas Include:</h4>
