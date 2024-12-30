@@ -51,7 +51,7 @@ permalink: /
 
 <div class="well" style="margin-left: 3%; margin-right: 3%">
   <h4>Notice</h4>
-  <span style="margin-left: 2%">We are looking for passionate students (<b>PhD/MS students</b> and <b>Undergrad. intern</b>) to join the team.<br></span>
+  <span style="margin-left: 2%">We are looking for passionate students (<b>PhD/MS students</b> and <b>Undergrad. intern</b>) to join IRS Lab.<br></span>
   <span style="margin-left: 2%">If you're interested, please contact Prof. Jae-Ho Choi (<b><i>jhochoi@dgist.ac.kr</i></b>) with your CV.</span>
 </div>
 
