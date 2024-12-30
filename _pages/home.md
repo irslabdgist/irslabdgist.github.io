@@ -6,6 +6,8 @@ sitemap: false
 permalink: /
 ---
 
+We are a dynamic research group, at the Leiden Institute of Physics and soon at LMU. Our aim is to explore and understand quantum materials, including strange metals, high-temperature superconductors, and quantum critical electron matter. To this end, we develop new quantum sensing and quantum imaging instrumentation to get the key quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the scientific questions we deem most important (see Research).
+
 <div markdown="0" id="" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -56,9 +58,6 @@ permalink: /
   <span style="margin-left: 2%; font-size:18px">Feel free to contact <b>Prof. Jae-Ho Choi</b> (<i>jhochoi@dgist.ac.kr</i>) for further questions.</span>
 </blockquote>
 
-<br>
-We are a dynamic research group, at the Leiden Institute of Physics and soon at LMU. Our aim is to explore and understand quantum materials, including strange metals, high-temperature superconductors, and quantum critical electron matter. To this end, we develop new quantum sensing and quantum imaging instrumentation to get the key quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the scientific questions we deem most important (see Research).
-
 <div class="well">
   <h4>Research Areas</h4>
   <span style="margin-left: 2%; font-size:18px">We are looking for passionate students (<b>PhD/MS students</b> and <b>Undergrad. intern</b>) to join IRS Lab.<br></span>
@@ -67,7 +66,7 @@ We are a dynamic research group, at the Leiden Institute of Physics and soon at 
 
 <div class="well">
   <h4>News</h4>
-  <span style="margin-left: 2%; font-size:18px">IRS Lab opens!<br></span>
+  <span style="margin-left: 2%; font-size:18px">* IRS Lab opens!<br></span>
 </div>
 
 <br><br>
