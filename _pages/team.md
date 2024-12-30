@@ -34,7 +34,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endfor %}
 
-## Master and Bachelor Students
+## Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -88,42 +88,9 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 
-## Alumni
+<!-- ## Alumni -->
 
-{% assign number_printed = 0 %}
-{% for member in site.data.alumni_members %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-<div class="list-group">
-  <a href="{{ site.url }}{{ site.baseurl }}/team/jaeho" class="list-group-item" style="height: 200px;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="140px" style="float: left" />
-    <br><span style="font-family:sans-serif; font-weight:bold; font-size:18px; line-height:1.5;">{{ member.name }}<br></span>
-    <span style="font-style:italic; font-size:16px">{{ member.info }}<br></span>
-    <span>{{ member.email }}<br></span>
-  </a>
-</div>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-## Former visitors, BSc/ MSc students
+<!-- ## Former visitors, BSc/ MSc students
 <div class="row">
 
 <div class="col-sm-4 clearfix">
@@ -148,9 +115,6 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 
 </div>
-
-
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
+ -->
 
 <br><br>
