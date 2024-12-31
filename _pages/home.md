@@ -60,9 +60,9 @@ We are a dynamic research group, at the Leiden Institute of Physics and soon at 
 
 <div class="well">
   <h4>Research Areas</h4>
-  <ul>
+  <ul style="font-size:18px">
     <li>AI for Wireless/Radar</li>
-    <li>Wireless Sensing Systems</li>
+    <li>Radio Sensing Systems</li>
     <li>Defense/Remote Sensing</li>
     <li>Sensor Fusion</li>
   </ul>
