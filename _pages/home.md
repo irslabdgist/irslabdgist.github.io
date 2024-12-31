@@ -61,10 +61,22 @@ We are a dynamic research group, at the Leiden Institute of Physics and soon at 
 <div class="well">
   <h4>Research Areas</h4>
   <ul style="font-size:18px">
-    <li>AI for Wireless/Radar</li>
-    <li>Radio Sensing Systems</li>
-    <li>Defense/Remote Sensing</li>
-    <li>Sensor Fusion</li>
+    <li><strong>Wireless Sensing Systems</strong></li>
+      <ul>
+        <li>Wireless human perception</li>
+        <li>Wireless health monitoring</li>
+      </ul> 
+    <li><strong>Defense/Remote Sensing</strong></li>
+      <ul>
+        <li>Synthetic aperture radar (SAR)</li>
+        <li>Target detection/classification</li>
+      </ul>
+    <li><strong>AI for Wireless/Radar</strong></li>
+      <ul>
+        <li>Radio-centric AI</li>
+        <li>Data efficient learning</li>
+      </ul>    
+    <li><strong>Sensor Fusion</strong></li>
   </ul>
 </div>
 
