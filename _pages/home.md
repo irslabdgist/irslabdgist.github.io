@@ -60,8 +60,12 @@ We are a dynamic research group, at the Leiden Institute of Physics and soon at 
 
 <div class="well">
   <h4>Research Areas</h4>
-  <span style="margin-left: 2%; font-size:18px">We are looking for passionate students (<b>PhD/MS students</b> and <b>Undergrad. intern</b>) to join IRS Lab.<br></span>
-  <span style="margin-left: 2%; font-size:18px">If you're interested, please contact Prof. Jae-Ho Choi (<i>jhochoi@dgist.ac.kr</i>) with your CV.</span>
+  <ul>
+    <li>AI for Wireless/Radar</li>
+    <li>Wireless Sensing Systems</li>
+    <li>Defense/Remote Sensing</li>
+    <li>Sensor Fusion</li>
+  </ul>
 </div>
 
 <div class="well">
