@@ -8,7 +8,7 @@ permalink: /
 
 We are a dynamic research group, at the Leiden Institute of Physics and soon at LMU. Our aim is to explore and understand quantum materials, including strange metals, high-temperature superconductors, and quantum critical electron matter. To this end, we develop new quantum sensing and quantum imaging instrumentation to get the key quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the scientific questions we deem most important (see Research).
 
-<div markdown="0" id="" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -40,6 +40,7 @@ We are a dynamic research group, at the Leiden Institute of Physics and soon at 
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/dgist_6.jpg" alt="Slide 6" />
         </div>
+     
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
