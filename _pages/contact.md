@@ -11,7 +11,7 @@ permalink: /vacancies
 **We are currently looking for passionate students (PhD/MS students and Undergrad. interns) to join IRS Lab!**
 
 Our mission is to develop new sensing technologies that perceive the world through entirely new perspectives, prioritizing radio-frequency (RF) signals over conventional optical methods. To achieve this, we pursue interdisciplinary research in various research areas including AI, RF/Radar Signal Processing, Wireless Technologies, and Sensor Fusion.<br> 
-If you are interested in joining our lab, please contact Prof. Jae-Ho Choi (<u>jhochoi@dgist.ac.kr</u>) along with your CV and a brief introduction.
+If you are interested in joining our lab, please contact **Prof. Jae-Ho Choi (<u>jhochoi@dgist.ac.kr</u>) along with your CV and a brief introduction**.
 
 ### Preferred Qualifications
 
