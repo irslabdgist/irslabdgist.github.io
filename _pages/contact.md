@@ -22,7 +22,7 @@ If you are interested in joining our lab, please contact **Prof. Jae-Ho Choi (<u
 
 ### Research Environment
 
-* Stipend (+annual incentive) available through participation in research projects
+* Stipend (+annual incentive) provided through participation in research projects
 * MacBook Pro or equivalent Windows PC provided for graduate students
 * Opportunities to attend national and international conferences
 
