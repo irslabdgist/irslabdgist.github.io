@@ -11,7 +11,6 @@ Our goal is to develop new sensing technologies to see the world from from entir
 
 ### AI for Wireless/Radar
 dd
-
 ### Wireless Sensing Systems
 
 ### Defense/Remote Sensing
