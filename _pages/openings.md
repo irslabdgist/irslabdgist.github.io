@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "IRS Lab - Vacancies"
 layout: textlay
-excerpt: "Openings"
+excerpt: "IRS Lab - Vacancies"
 sitemap: false
 permalink: /vacancies
 ---
