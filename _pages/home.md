@@ -85,7 +85,9 @@ We are a dynamic research group, at the Leiden Institute of Physics and soon at 
 
 <div class="well">
   <h4><strong>News</strong></h4>
-  <span style="margin-left: 2%; font-size:18px">* IRS Lab opens!<br></span>
+  <ul style="font-size:18px">
+    <li>IRS Lab opens!</li>
+  </ul>
 </div>
 
 <br><br>
