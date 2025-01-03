@@ -36,7 +36,7 @@ permalink: /team/jaeho
 <br>
 
 #### Research Interests:
-My main research focuses on My main research areas include:
+I'm interested in developing new sensing technologies to see the world from from entirely new perspective, leveraging radio-frequency signals. My main research areas include:
 
 * **Radio+X Perception Technologies**: radio or radio+X systems for diverse sensing technologies (e.g., indoor perception, 3D human understanding, and health monitoring)
 * **AI for Wireless/Radar**: wireless-centric learning, data-efficient learning, complex neural network
