@@ -15,7 +15,7 @@ If you are interested in joining our lab, please contact **Prof. Jae-Ho Choi (<u
 
 ### Preferred Qualifications
 
-* Fundamental knowledge of Signal Processing (signals and systems, digital signal processing) and Machine Learning
+* Fundamental knowledge of Signal Processing (Signals and Systems, Digital Signal Processing) and Machine Learning
 * Familiarity with MATLAB or Python
 * Experience with open-source development platforms like Github
 &nbs&nbs&nbs (These are proferred not mandatory---enthusiasm matters most!)
