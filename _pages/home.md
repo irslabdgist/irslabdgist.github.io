@@ -63,7 +63,7 @@ Our goal is to develop new sensing technologies to see the world from from entir
 </blockquote>
 
 <div class="well">
-  <h4><strong>Research Areas</strong></h4>
+  <h4><strong>Research Focus</strong></h4>
   <ul style="font-size:18px">
     <li><strong>AI for Wireless/Radar</strong></li>
       <ul>
