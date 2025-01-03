@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group, at the Leiden Institute of Physics and soon at LMU. Our aim is to explore and understand quantum materials, including strange metals, high-temperature superconductors, and quantum critical electron matter. To this end, we develop new quantum sensing and quantum imaging instrumentation to get the key quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the scientific questions we deem most important (see Research).
+Our goal is to develop new sensing technologies to see the world from from entirely new perspective, leveraging "radio-frequency signals". By <strong>integrating the power of AI with radio-frequency signal processing</strong>---and further expanding these capabilities through <strong>sensor fusion</strong>---we aim to push the boundaries of human perceptual capabilities in diverse areas such as IoT, Health Monitoring, Autonomous Driving, Defense/Remote Sensing, and HCI (see <a href="{{ site.url }}{{ site.baseurl }}/research">Research</a>).
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -65,6 +65,11 @@ We are a dynamic research group, at the Leiden Institute of Physics and soon at 
 <div class="well">
   <h4><strong>Research Areas</strong></h4>
   <ul style="font-size:18px">
+    <li><strong>AI for Wireless/Radar</strong></li>
+      <ul>
+        <li>Radar signal processing</li>
+        <li>Radio-centric AI</li>
+      </ul>   
     <li><strong>Wireless Sensing Systems</strong></li>
       <ul>
         <li>Wireless human perception</li>
@@ -74,12 +79,7 @@ We are a dynamic research group, at the Leiden Institute of Physics and soon at 
       <ul>
         <li>Synthetic aperture radar (SAR)</li>
         <li>Target detection/classification</li>
-      </ul>
-    <li><strong>AI for Wireless/Radar</strong></li>
-      <ul>
-        <li>Radar signal processing</li>
-        <li>Radio-centric AI</li>
-      </ul>    
+      </ul> 
     <li><strong>Sensor Fusion</strong></li>
   </ul>
 </div>
@@ -92,3 +92,19 @@ We are a dynamic research group, at the Leiden Institute of Physics and soon at 
 </div>
 
 <br><br>
+
+<!-- Passionate about developing new sensing and imaging technologies.
+
+In my graduate research, I designed and implemented ultrasonic and hybrid optical-acoustic imaging systems. These systems were designed from first principles to enable remote monitoring of oceans and other bodies of water from an airborne platform, such a drone. I have also worked in a startup environment on 4D millimeter-wave radar for high-resolution spatial detection and tracking for use in industrial settings.
+
+I enjoy being part of collaborative and dynamic teams and am experienced in leading groups and projects towards innovative solutions.
+
+Check out my project webpage at: https://airbornesonar.stanford.edu/
+
+------------------------------------------
+
+A little background on why I love what I do: 
+
+As humans, we perceive the world around us through a narrow window of the electromagnetic spectrum, relying primarily on visible light. In reality, we are completely surrounded by oscillating waves in space that we cannot see, including radio frequency signals through which we can connect to the internet and acoustic signals that allow us to audibly hear our conversations.
+
+By harnessing these same signals in carefully designed imaging systems, we can push the boundaries of human perception and see the world from a different light. We can develop technologies to better understand and monitor the dynamics of our planet, look beyond our atmosphere or into the depths of the oceans, and even diagnose diseases and other complications inside of the human body. I’m genuinely energized by and excited about the next-generation of these technologies and the boundless applications that lie ahead. -->
