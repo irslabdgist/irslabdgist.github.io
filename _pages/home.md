@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Our goal is to develop new sensing technologies to see the world from from entirely new perspective, leveraging "radio-frequency signals". By <strong>integrating the power of AI with radio-frequency signal processing</strong>---and further expanding these capabilities through <strong>sensor fusion</strong>---we aim to push the boundaries of human perceptual capabilities in diverse areas such as IoT, Health Monitoring, Autonomous Driving, Defense/Remote Sensing, and HCI (see <a href="{{ site.url }}{{ site.baseurl }}/research">Research</a>).
+Our goal is to develop new sensing technologies to see the world from from entirely new perspective, leveraging <strong>radio-frequency signals</strong>. By <strong>integrating the power of AI with radio-frequency signal processing</strong>---and further expanding these capabilities through <strong>sensor fusion</strong>---we aim to push the boundaries of human perceptual capabilities in diverse areas such as IoT, Health Monitoring, Autonomous Driving, Defense/Remote Sensing, and HCI (see <a href="{{ site.url }}{{ site.baseurl }}/research">Research</a>).
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
