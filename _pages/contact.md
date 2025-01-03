@@ -17,7 +17,7 @@ You will have the chance to work on the grand challenges of condensed matter phy
 ### Contact info.
 
 **Prof. Jae-Ho Choi**<br>
-E-mail: jhochoi@dgist.ac.kr<br>
-TEL: +82-53-785-6328<br>
+* E-mail: jhochoi@dgist.ac.kr<br>
+* TEL: +82-53-785-6328<br>
 
 <br><br>
