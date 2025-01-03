@@ -19,7 +19,7 @@ If you are interested in joining our lab, please contact **Prof. Jae-Ho Choi (<u
 * Familiarity with MATLAB or Python
 * Experience with open-source development platforms like Github
 
-&nbs&nbs&nbs (These are proferred not mandatory---enthusiasm matters most!)
+&nbsp &nbsp &nbsp (These are proferred not mandatory---enthusiasm matters most!)
 
 ### Research Environment
 
@@ -29,7 +29,7 @@ If you are interested in joining our lab, please contact **Prof. Jae-Ho Choi (<u
 
 ### Contact Information
 
-Prof. Jae-Ho Choi<br>
+* Prof. Jae-Ho Choi<br>
 * E-mail: jhochoi@dgist.ac.kr
 * TEL: +82-53-785-6328
 
