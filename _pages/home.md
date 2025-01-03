@@ -53,14 +53,16 @@ We are a dynamic research group, at the Leiden Institute of Physics and soon at 
 </div>
 
 <blockquote>
-  <h4>Notice</h4>
+  <h4><strong>Notice</strong></h4>
   <span style="margin-left: 2%; font-size:18px">We are looking for passionate students (<b>PhD/MS students</b> and <b>Undergrad. intern</b>) to join IRS Lab.<br></span>
   <span style="margin-left: 2%; font-size:18px">If you're interested, please refer to <a href="{{ site.url }}{{ site.baseurl }}/vacancies">this link</a>.<br></span>
   <span style="margin-left: 2%; font-size:18px">Feel free to contact <b>Prof. Jae-Ho Choi</b> (<i>jhochoi@dgist.ac.kr</i>) for further questions.</span>
+  <br>
+  <span style="margin-left: 2%; font-size:18px; color:royalred">우리 연구실에서는 열정있는 연구원들(석/박사 과정 및 학부 연구생)을 모집하고 있습니다.</span>
 </blockquote>
 
 <div class="well">
-  <h4>Research Areas</h4>
+  <h4><strong>Research Areas</strong></h4>
   <ul style="font-size:18px">
     <li><strong>Wireless Sensing Systems</strong></li>
       <ul>
@@ -74,8 +76,8 @@ We are a dynamic research group, at the Leiden Institute of Physics and soon at 
       </ul>
     <li><strong>AI for Wireless/Radar</strong></li>
       <ul>
+        <li>Radar signal processing</li>
         <li>Radio-centric AI</li>
-        <li>Data efficient learning</li>
       </ul>    
     <li><strong>Sensor Fusion</strong></li>
   </ul>
