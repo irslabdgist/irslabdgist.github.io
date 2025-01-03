@@ -6,22 +6,33 @@ sitemap: false
 permalink: /vacancies
 ---
 
-# Open positions
+# Lab Admission
 
 **We are currently looking for passionate students (PhD/MS students and Undergrad. interns) to join IRS Lab!**
 
-Our mission is to develop new sensing technologies that perceive the world through entirely new perspectives, prioritizing radio-frequency (RF) signals over conventional optical methods. To this end, we pursue interdisciplinary research, with focusing on various research areas including AI, RF/radar signal processing, wireless systems, and sensor fusion.<br> 
+Our mission is to develop new sensing technologies that perceive the world through entirely new perspectives, prioritizing radio-frequency (RF) signals over conventional optical methods. To achieve this, we pursue interdisciplinary research in various research areas including AI, RF/Radar Signal Processing, Wireless Technologies, and Sensor Fusion.<br> 
 If you are interested in joining our lab, please contact Prof. Jae-Ho Choi (<u>jhochoi@dgist.ac.kr</u>) along with your CV and a brief introduction.
 
+### Preferred Qualifications
 
+* Fundamental knowledge of Signal Processing (signals and systems, digital signal processing) and Machine Learning
+* Familiarity with MATLAB or Python
+* Experience with open-source development platforms like Github
+&nbs&nbs&nbs (These are proferred not mandatory---enthusiasm matters most!)
+
+### Research Environment
+
+* Stipend (+annual incentive) available through participation in research projects
+* MacBook Pro or equivalent Windows PC provided for graduate students
+* Opportunities to attend national and international conferences
 <!-- We are  looking for new group members with passion, talent, and grit!
 
 You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries. -->
 
-#### Contact info.
+### Contact Information
 
-**Prof. Jae-Ho Choi**<br>
-* E-mail: jhochoi@dgist.ac.kr<br>
-* TEL: +82-53-785-6328<br>
+Prof. Jae-Ho Choi<br>
+* E-mail: jhochoi@dgist.ac.kr
+* TEL: +82-53-785-6328
 
 <br><br>
