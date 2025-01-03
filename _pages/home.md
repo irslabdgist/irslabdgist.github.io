@@ -56,10 +56,10 @@ We are a dynamic research group, at the Leiden Institute of Physics and soon at 
   <h4><strong>Notice</strong></h4>
   <span style="margin-left: 2%; font-size:18px">We are looking for passionate students (<b>PhD/MS students</b> and <b>Undergrad. intern</b>) to join IRS Lab.<br></span>
   <span style="margin-left: 2%; font-size:18px">If you're interested, please refer to <a href="{{ site.url }}{{ site.baseurl }}/vacancies">this link</a>.<br></span>
-  <span style="margin-left: 2%; font-size:18px">Feel free to contact me (<i>jhochoi@dgist.ac.kr</i>) for further questions.</span>
+  <span style="margin-left: 2%; font-size:18px">Feel free to contact me (<i><u><strong>jhochoi@dgist.ac.kr</strong></u></i>) for further questions.</span>
   <br><br>
   <span style="margin-left: 2%; font-size:15px;"><strong>우리 연구실에서는 열정 있는 대학원생(석/박사 과정) 및 학부 연구생을 모집하고 있습니다.</strong><br></span>
-  <span style="margin-left: 2%; font-size:15px;"><strong>관심 있으신 분들은 다음의 <a href="{{ site.url }}{{ site.baseurl }}/vacancies">link</a>를 참조해 주시거나, 편하게 저에게 메일 주시길 바랍니다. (<i>jhochoi@dgist.ac.kr</i>)</strong></span>
+  <span style="margin-left: 2%; font-size:15px;"><strong>관심 있으신 분들은 다음의 <a href="{{ site.url }}{{ site.baseurl }}/vacancies">link</a>를 참조해 주시거나, 편하게 저에게 메일(<i><u>jhochoi@dgist.ac.kr</u></i>) 주시길 바랍니다.</strong></span>
 </blockquote>
 
 <div class="well">
