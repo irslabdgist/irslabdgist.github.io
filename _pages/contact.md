@@ -19,7 +19,7 @@ If you are interested in joining our lab, please contact **Prof. Jae-Ho Choi (<u
 * Familiarity with MATLAB or Python
 * Experience with open-source development platforms like Github
 
-&nbsp &nbsp &nbsp (These are proferred not mandatory---enthusiasm matters most!)
+&nbsp;&nbsp;&nbsp;&nbsp;(These are proferred not mandatory---enthusiasm matters most!)
 
 ### Research Environment
 
