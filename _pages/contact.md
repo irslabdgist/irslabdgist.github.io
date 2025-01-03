@@ -25,9 +25,6 @@ If you are interested in joining our lab, please contact Prof. Jae-Ho Choi (<u>j
 * Stipend (+annual incentive) available through participation in research projects
 * MacBook Pro or equivalent Windows PC provided for graduate students
 * Opportunities to attend national and international conferences
-<!-- We are  looking for new group members with passion, talent, and grit!
-
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries. -->
 
 ### Contact Information
 
