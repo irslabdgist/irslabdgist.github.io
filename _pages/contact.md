@@ -8,7 +8,7 @@ permalink: /vacancies
 
 # Open positions
 
-**We are currently open for PhD and postdoc applications related to our ERC CoG grant. The positions are mostly related to the Electron Pair Microscopy projects.**
+**We are looking for passionate students (PhD/MS students and Undergrad. interns) to join IRS Lab.**
 
 <!-- We are  looking for new group members with passion, talent, and grit!
 
@@ -16,8 +16,8 @@ You will have the chance to work on the grand challenges of condensed matter phy
 
 ### Contact info.
 
-**Prof. Jae-Ho Choi**
-E-mail: jhochoi@dgist.ac.kr
-TEL: +82-53-785-6328
+**Prof. Jae-Ho Choi**<br>
+E-mail: jhochoi@dgist.ac.kr<br>
+TEL: +82-53-785-6328<br>
 
 <br><br>
