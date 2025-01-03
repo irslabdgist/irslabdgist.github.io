@@ -14,7 +14,7 @@ permalink: /vacancies
 
 You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries. -->
 
-### Contact info.
+#### Contact info.
 
 **Prof. Jae-Ho Choi**<br>
 * E-mail: jhochoi@dgist.ac.kr<br>
