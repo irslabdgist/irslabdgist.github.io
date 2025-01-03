@@ -8,7 +8,7 @@ permalink: /vacancies
 
 # Open positions
 
-**We are currently open for PhD and postdoc applications related to our ERC CoG grant. The positions are mostly related to the Electron Pair Microscopy projects.**
+**We are looking for passionate students (PhD/MS students and Undergrad. interns) to join IRS Lab.**
 
 We are  looking for new group members with passion, talent, and grit!
 

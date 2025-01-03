@@ -54,7 +54,7 @@ Our goal is to develop new sensing technologies to see the world from from entir
 
 <blockquote>
   <h4><strong>Notice</strong></h4>
-  <span style="margin-left: 2%; font-size:18px">We are looking for passionate students (<b>PhD/MS students</b> and <b>Undergrad. intern</b>) to join IRS Lab.<br></span>
+  <span style="margin-left: 2%; font-size:18px">We are looking for passionate students (<b>PhD/MS students</b> and <b>Undergrad. interns</b>) to join IRS Lab.<br></span>
   <span style="margin-left: 2%; font-size:18px">If you're interested, please refer to <a href="{{ site.url }}{{ site.baseurl }}/vacancies">this link</a>.<br></span>
   <span style="margin-left: 2%; font-size:18px">Feel free to contact me (<i><u><strong>jhochoi@dgist.ac.kr</strong></u></i>) for further questions.</span>
   <br><br>
