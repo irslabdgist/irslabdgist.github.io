@@ -8,6 +8,12 @@ permalink: /research/
 
 # Research
 
-aaaa
+## AI for Wireless/Radar
+dd
+## Wireless Sensing Systems
+
+## Defense/Remote Sensing
+
+## Sensor Fusion
 
 <br><br>
