@@ -20,7 +20,7 @@ permalink: /team/jaeho
 </div>
 </div>
 
-#### Experience:
+#### Experience
 * Assistant Professor, Dept. Electrical Engineering and Computer Science, **DGIST**, 2024.12 -
 * Postdoc., Dept. Electrical Engineering, **Stanford University**, 2023.04 - 2024.10
 * Postdoc., Next-Gen. Defense Tech. Research Center, **POSTECH**, 2023.02 - 2023.03
@@ -28,15 +28,15 @@ permalink: /team/jaeho
 
 <br>
 
-#### Education:
+#### Education
 * Ph.D., Dept. Electrical Engineering, **POSTECH**, 2019.02 - 2023.02
 * M.S., Dept. Electrical Engineering, **POSTECH**, 2017.02 - 2019.02
 * B.S., Dept. Computer and Communications Engineering, **Korea University**, 2011.03 - 2017.02
 
 <br>
 
-#### Research Interests:
-I'm interested in developing new sensing technologies to see the world from from entirely new perspective, relying primarily on radio-frequency signals. My main research areas include:
+#### Research Interests
+I'm interested in developing new sensing technologies to see the world from from entirely new perspective, relying primarily on radio-frequency signals. My main research areas include (but not limited to):
 
 * **Radio+X Perception Technologies**: radio or radio+X systems for diverse sensing technologies (e.g., indoor perception, 3D human understanding, and health monitoring)
 * **AI for Wireless/Radar**: wireless-centric learning, data-efficient learning, complex neural network
@@ -44,7 +44,7 @@ I'm interested in developing new sensing technologies to see the world from from
 
 <br>
 
-#### Reviewer Service:
+#### Reviewer Service
 * CVPR, NeurIPS, ECCV, AAAI, etc.
 * IEEE IoTJ, IEEE SensJ, IEEE TGRS, IEEE TAES, IEEE SPL, etc.
 
