@@ -9,7 +9,7 @@ permalink: /team/jaeho
 <div class="row">
 <div class="col-sm-3 clearfix">
 <p style="text-align: center;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Jaeho2.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Jaeho3.jpg" width="95%">
 </p>
 </div>
 <div class="col-sm-9 clearfix" style="margin-top: 2%">
