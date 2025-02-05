@@ -28,7 +28,27 @@ permalink: /team/
 {% endfor %}
 
 ## Students
+{% assign number_printed = 0 %}
+{% for member in site.data.member_team %}
+{% assign even_odd = number_printed | modulo: 2 %}
 
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+<div class="col-sm-4 clearfix">
+<div class="list-group">
+  <a href="{{ site.url }}{{ site.baseurl }}/team/jaeho" class="list-group-item" style="height: 220px;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="40%" style="float: left" />
+    <br><span style="font-family:sans-serif; font-weight:bold; font-size:20px; line-height:1.6;">{{ member.name }}<br></span>
+    <span style="font-style:italic; font-size:18px">{{ member.info }}<br></span>
+    <span>{{ member.email }}<br></span>
+  </a>
+</div>
+</div>
+</div>
+{% endfor %}
+
+<br>
 <blockquote>
   <h4><strong>Notice</strong></h4>
   <span style="margin-left: 2%; font-size:18px">We are looking for passionate students (<b>PhD/MS students</b> and <b>Undergrad. interns</b>) to join IRS Lab.<br></span>
