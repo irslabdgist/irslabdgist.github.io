@@ -28,7 +28,7 @@ permalink: /team/
 {% endfor %}
 
 ## Students
-{% assign number_printed = 0 %}
+<!-- {% assign number_printed = 0 %}
 {% for member in site.data.member_team %}
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -48,7 +48,7 @@ permalink: /team/
 </div>
 {% endfor %}
 
-<br>
+<br> -->
 <blockquote>
   <h4><strong>Notice</strong></h4>
   <span style="margin-left: 2%; font-size:18px">We are looking for passionate students (<b>PhD/MS students</b> and <b>Undergrad. interns</b>) to join IRS Lab.<br></span>
