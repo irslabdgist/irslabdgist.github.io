@@ -35,7 +35,7 @@ permalink: /team/
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
-<div class="col-sm-4 clearfix">
+<div class="col-sm-6 clearfix">
 <div class="list-group">
   <a href="{{ site.url }}{{ site.baseurl }}/team/jaeho" class="list-group-item" style="height: 220px;">
     <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="40%" style="float: left" />
