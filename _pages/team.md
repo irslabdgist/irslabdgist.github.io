@@ -16,7 +16,7 @@ permalink: /team/
 {% endif %}
 <div class="col-sm-6 clearfix">
 <div class="list-group">
-  <a href="{{ site.url }}{{ site.baseurl }}/team/jaeho" class="list-group-item" style="height: 220px;">
+  <a href="{{ site.url }}{{ site.baseurl }}/team/jaeho" class="list-group-item" style="width: 220px;">
     <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="40%" style="float: left" />
     <br><span style="font-family:sans-serif; font-weight:bold; font-size:20px; line-height:1.6;">{{ member.name }}<br></span>
     <span style="font-style:italic; font-size:18px">{{ member.info }}<br></span>
@@ -28,7 +28,7 @@ permalink: /team/
 {% endfor %}
 
 ## Students
-<!-- {% assign number_printed = 0 %}
+{% assign number_printed = 0 %}
 {% for member in site.data.member_team %}
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -37,7 +37,7 @@ permalink: /team/
 {% endif %}
 <div class="col-sm-6 clearfix">
 <div class="list-group">
-  <a href="{{ site.url }}{{ site.baseurl }}/team/jaeho" class="list-group-item" style="height: 220px;">
+  <a href="" class="list-group-item" style="width: 220px;">
     <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="40%" style="float: left" />
     <br><span style="font-family:sans-serif; font-weight:bold; font-size:20px; line-height:1.6;">{{ member.name }}<br></span>
     <span style="font-style:italic; font-size:18px">{{ member.info }}<br></span>
