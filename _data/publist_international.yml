@@ -66,7 +66,7 @@
   authors: <b>Jae-Ho Choi</b>, Ki-Bong Kang, Kyung-Tae Kim*
   link:
     display: European Conference on Computer Vision (ECCV), 2022 [[Link]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970248.pdf){:target="_blank"} <span class="label label-primary">Top Conf.</span>
-  highlight: 1
+  highlight: 0
 
 - title: "Feature Selection for SAR Target Discrimination and Efficient Two-Stage Detection Method"
   image: dummy.png
