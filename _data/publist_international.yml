@@ -1,15 +1,15 @@
-- title: "MM-EgoGesture: Multi-Modal Ego-Centric Hand Gesture Recognition through Fusion of mmWave Doppler and RGB Image"
-  image: dummy.png
-  authors: <strong>Jae-Ho Choi</strong>*, Soheil Hor, Shubo Yang, Thomas H. King, Hirishika Basava, Amin Arbabian
-  link:
-    display: Under Review
-  highlight: 0
+# - title: "MM-EgoGesture: Multi-Modal Ego-Centric Hand Gesture Recognition through Fusion of mmWave Doppler and RGB Image"
+#   image: dummy.png
+#   authors: <strong>Jae-Ho Choi</strong>*, Soheil Hor, Shubo Yang, Thomas H. King, Hirishika Basava, Amin Arbabian
+#   link:
+#     display: Under Review
+#   highlight: 0
 
 - title: "MVDoppler-Pose: Multi-Modal Multi-View mmWave Sensing for Long-Distance Self-Occluded Human Walking Pose Estimation"
   image: dummy.png
   authors: <strong>Jae-Ho Choi</strong>*, Soheil Hor, Shubo Yang, Amin Arbabian
   link:
-    display: Under Review
+    display: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025 <span class="label label-primary">Top Conf.</span>
   highlight: 0
 
 - title: "High-Resolution Gait Micro-Doppler Synthesis from Videos Over Diverse Trajectories"
@@ -62,7 +62,7 @@
   highlight: 0
 
 - title: "Remote Respiration Monitoring of Moving Person Using Radio Signals"
-  image: 2022_ECCV_result3.png
+  image: dummy.png
   authors: <b>Jae-Ho Choi</b>, Ki-Bong Kang, Kyung-Tae Kim*
   link:
     display: European Conference on Computer Vision (ECCV), 2022 [[Link]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970248.pdf){:target="_blank"} <span class="label label-primary">Top Conf.</span>
