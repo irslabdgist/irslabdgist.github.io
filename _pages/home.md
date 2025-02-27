@@ -23,19 +23,19 @@ Our goal is to develop new sensing technologies to see the world from from entir
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/dgist_1.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/dgist_2.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/dgist_2.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/dgist_3.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/dgist_3.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/dgist_5.jpg" alt="Slide 3" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/dgist_4.jpg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/dgist_5.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/dgist_1.jpg" alt="Slide 5" />
         </div>       
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/dgist_6.jpg" alt="Slide 6" />
