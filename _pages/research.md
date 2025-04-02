@@ -19,28 +19,28 @@ Our goal is to develop new sensing technologies to see the world from from entir
 #### Wireless-Centric AI
 <span style="font-size: 18px; color:#0080FF"><i>"How to fully unleash the power of AI for wireless signals?"</i></span>
 
-* **Radar Signal Processing + AI**
-* **Wireless Foundation Model**
-* **Wireless + Generative AI**
-* **Complex Neural Network**
+* Radar Signal Processing + AI
+* Wireless Foundation Model
+* Wireless + Generative AI
+* Complex Neural Network
 
 -----
 
 #### Innovative Wireless+X Perception Systems
 <span style="font-size: 18px; color:#0080FF"><i>"How to achieve new perception technologies/applications that can see beyond human vision?"</i></span>
 
-* **Nex Sensing Technologies for Various Application Areas (e.g. Health Monitoring, IoT, Defense)**
-* **Micro-Level Sensing**
-* **Sensing in Challenging Scenarios (e.g. Occlusion, Dark)**
+* Nex Sensing Technologies for Various Application Areas (e.g. Health Monitoring, IoT, Defense)
+* Micro-Level Sensing
+* Sensing in Challenging Scenarios (e.g. Occlusion, Dark)
 
 -----
 
 #### Multi-Modal/Multi-Sensor Fusion
 <span style="font-size: 18px; color:#0080FF"><i>"How to achieve generalized perception capabilities by combining different physical capabilities of diverse sensors?"</i></span>
 
-* **Multi-Sensor Fusion**
-* **Multi-Modal Learning**
-* **Sensor Signal Processing**
+* Multi-Sensor Fusion
+* Multi-Modal Learning
+* Sensor Signal Processing
 
 
 <br><br>
