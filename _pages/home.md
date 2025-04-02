@@ -62,7 +62,7 @@ Our goal is to develop new sensing technologies to see the world from from entir
   <span style="margin-left: 2%; font-size:15px;"><strong>관심 있으신 분들은 다음의 <a href="https://modern-plutonium-519.notion.site/IRS-Lab-Contact-Info-18ed30c1d89b80a18087f093927b241b?pvs=4">link</a>를 참조해 주시고, 편하게 저에게 메일(<i><u>jhochoi@dgist.ac.kr</u></i>) 주시길 바랍니다.</strong></span>
 </blockquote>
 
-<div class="well">
+<!-- <div class="well">
   <h4><strong>Research Focus</strong></h4>
   <ul style="font-size:18px">
     <li><strong>AI for Wireless/Radar</strong></li>
@@ -82,7 +82,7 @@ Our goal is to develop new sensing technologies to see the world from from entir
       </ul> 
     <li><strong>Sensor Fusion</strong></li>
   </ul>
-</div>
+</div> -->
 
 <div class="well">
   <h4><strong>News</strong></h4>
