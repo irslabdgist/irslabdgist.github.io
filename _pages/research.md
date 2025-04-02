@@ -34,7 +34,8 @@ Our goal is to develop new sensing technologies to see the world from from entir
 <span style="font-size: 18px; color:#0080FF"><i>"How to achieve new perception technologies/applications that can see beyond human vision?"</i></span>
 
 * Nex Sensing Technologies for Various Application Areas (e.g. Health Monitoring, IoT, Defense)
-* Micro-Level Sensing
+* Micro-Motion Sensing
+* Remote Sensing with Synthetic Aperture Radar (SAR)
 * Sensing in Challenging Scenarios (e.g. Occlusion, Dark)
 
 -----
