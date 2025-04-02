@@ -24,6 +24,10 @@ Our goal is to develop new sensing technologies to see the world from from entir
 * Wireless + Generative AI
 * Complex Neural Network
 
+<p align="center">
+ <img src="{{ site.url }}{{ site.baseurl }}/images/research_1.jpg" width="100%">
+</p>
+
 -----
 
 #### Innovative Wireless+X Perception Systems
