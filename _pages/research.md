@@ -9,10 +9,10 @@ permalink: /research/
 # Research Agenda
 
 <p align="center">
- <img src="{{ site.url }}{{ site.baseurl }}/images/research_home.png" width="90%">
+ <img src="{{ site.url }}{{ site.baseurl }}/images/research_home2.jpg" width="90%">
 </p>
 
-Our goal is to develop new sensing technologies to see the world from from entirely new perspective, leveraging <strong>Radio-Frequency Signals</strong>. By <strong>Integrating the Power of AI with Radio-Frequency Signal Processing</strong>---and further expanding these capabilities through <strong>Sensor Fusion</strong>---we aim to push the boundaries of human perceptual capabilities in diverse areas such as IoT, Health Monitoring, Autonomous Driving, Defense/Remote Sensing, and HCI.
+Our goal is to develop new sensing technologies to see the world from from entirely new perspective, through <strong>AI-Driven Wireless+X Sensing</strong>. By <strong>Integrating the Power of AI with Radio-Frequency Signal Processing</strong>---and further expanding these capabilities through <strong>Sensor Fusion</strong>---we aim to push the boundaries of human perceptual capabilities in diverse areas such as IoT, Health Monitoring, Autonomous Driving, Defense/Remote Sensing, and HCI.
 
 ### AI for Wireless/Radar Signals
 * **Radar Signal Processing**
