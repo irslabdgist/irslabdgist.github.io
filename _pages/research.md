@@ -38,6 +38,10 @@ Our goal is to develop new sensing technologies to see the world from from entir
 * Remote Sensing with Synthetic Aperture Radar (SAR)
 * Sensing in Challenging Scenarios (e.g. Occlusion, Dark)
 
+<p align="center">
+ <img src="{{ site.url }}{{ site.baseurl }}/images/research_2.jpg" width="100%">
+</p>
+
 -----
 
 #### Multi-Modal/Multi-Sensor Fusion
@@ -46,6 +50,10 @@ Our goal is to develop new sensing technologies to see the world from from entir
 * Multi-Sensor Fusion
 * Multi-Modal Learning
 * Sensor Signal Processing
+
+<p align="center">
+ <img src="{{ site.url }}{{ site.baseurl }}/images/research_3.jpg" width="100%">
+</p>
 
 
 <br><br>
