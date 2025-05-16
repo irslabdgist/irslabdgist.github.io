@@ -44,6 +44,12 @@ I'm interested in developing new sensing technologies to see the world from enti
 
 <br>
 
+#### Projects
+* AI Star Fellowship - 2025.04 ~ 2030.12
+* DGIST Start-Up Grant - 2025.01 ~ 2028.12
+
+<br>
+
 #### Reviewer Service
 * CVPR, NeurIPS, ECCV, AAAI, etc.
 * IEEE IoTJ, IEEE SensJ, IEEE TGRS, IEEE TAES, IEEE SPL, etc.
