@@ -45,8 +45,8 @@ I'm interested in developing new sensing technologies to see the world from enti
 <br>
 
 #### Projects
-* AI Star Fellowship - 2025.04 ~ 2030.12
-* DGIST Start-Up Grant - 2025.01 ~ 2028.12
+* AI Starfellowship - MSIT - 2025.04 ~ 2030.12
+* DGIST Start-Up Grant - DGIST - 2025.01 ~ 2028.12
 
 <br>
 
