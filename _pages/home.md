@@ -89,7 +89,7 @@ Our goal is to develop new sensing technologies to see the world from from entir
   <ul style="font-size:18px">
     <li>One paper has been accepted to CVPR'25.</li>
     <li>Jaehyeon Kim joined our lab!</li>
-    <li>One paper has been accepted to ICASSP'25.</li>
+    <li>One paper has been accepted to ICASSP'25 (<b>Oral presentation</b>).</li>
     <li>IRS Lab opens!</li>
   </ul>
 </div>

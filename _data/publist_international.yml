@@ -16,7 +16,7 @@
   image: dummy.png
   authors: Shubo Yang*, Soheil Hor, <strong>Jae-Ho Choi</strong>, Amin Arbabian
   link:
-    display: IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2025 <span class="label label-primary">Top Conf.</span>
+    display: IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2025 [[Link]](https://ieeexplore.ieee.org/abstract/document/10888938){:target="_blank"} <span class="label label-primary">Top Conf.</span> <span class="label label-warning">Oral</span>
   highlight: 0
 
 - title: "Radar-Based Crowd Counting in Real-World Environments with Spatiotemporal Transformer"
