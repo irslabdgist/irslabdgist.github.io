@@ -45,6 +45,8 @@ I'm interested in developing new sensing technologies to see the world from enti
 <br>
 
 #### Projects
+* InnoCore(LLM 2.0: Inference Enhancement, Domain Specialization, Multimodal Expansion, and Trustworthy AI) - MSIT - 2025.07 ~ 2029.12
+* InnoCore(Trust-Enhanced Mutualistic Bio-Embedded AI) - MSIT - 2025.07 ~ 2029.12
 * AI Starfellowship - MSIT - 2025.04 ~ 2030.12
 * DGIST Start-Up Grant - DGIST - 2025.01 ~ 2028.12
 
