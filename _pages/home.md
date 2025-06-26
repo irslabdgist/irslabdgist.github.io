@@ -60,6 +60,8 @@ Our goal is to develop new sensing technologies to see the world from from entir
   <br><br>
   <span style="margin-left: 2%; font-size:15px;"><strong>우리 연구실에서는 열정 있는 대학원생(석/박사 과정) 및 학부 연구생을 모집하고 있습니다.</strong><br></span>
   <span style="margin-left: 2%; font-size:15px;"><strong>관심 있으신 분들은 다음의 <a href="https://modern-plutonium-519.notion.site/IRS-Lab-Contact-Info-18ed30c1d89b80a18087f093927b241b?pvs=4">link</a>를 참조해 주시고, 편하게 저에게 메일(<i><u>jhochoi@dgist.ac.kr</u></i>) 주시길 바랍니다.</strong></span>
+  <br><br>
+  We're also actively hiring <b>Postdocs</b> in the field of radio systems and AI. Please refer to <a href="https://modern-plutonium-519.notion.site/IRS-Lab-Contact-Info-18ed30c1d89b80a18087f093927b241b?pvs=4">this link</a> for more details.
 </blockquote>
 
 <!-- <div class="well">
@@ -87,7 +89,7 @@ Our goal is to develop new sensing technologies to see the world from from entir
 <div class="well">
   <h4><strong>News</strong></h4>
   <ul style="font-size:18px">
-    <li>2025.06. - Our lab is funded by <b>two MSIT InnoCORE projects (InnoCORE 사업)</b>, 2025~2029. (<b>We're actively hiring Postdocs</b>)</li>
+    <li>2025.06. - Our lab is funded by <b>two MSIT InnoCORE projects (InnoCORE 사업)</b>, 2025~2029. (<b><a href="https://modern-plutonium-519.notion.site/Postdoc-Hiring-21ed30c1d89b8085be8bc9e23719da51">We're actively hiring Postdocs</a></b>)</li>
     <li>2025.06. - Our lab is funded by <b>MSIT AI Star Fellowship (AI 스타펠로우십사업)</b>, 2025~2030.</li>
     <li>2025.02. - One paper has been accepted to <b>CVPR'25</b>.</li>
     <li>2025.02. - <b>Jaehyeon Kim</b> joined our lab!</li>
