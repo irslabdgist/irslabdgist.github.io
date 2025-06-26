@@ -61,7 +61,7 @@ Our goal is to develop new sensing technologies to see the world from from entir
   <span style="margin-left: 2%; font-size:15px;"><strong>우리 연구실에서는 열정 있는 대학원생(석/박사 과정) 및 학부 연구생을 모집하고 있습니다.</strong><br></span>
   <span style="margin-left: 2%; font-size:15px;"><strong>관심 있으신 분들은 다음의 <a href="https://modern-plutonium-519.notion.site/IRS-Lab-Contact-Info-18ed30c1d89b80a18087f093927b241b?pvs=4">link</a>를 참조해 주시고, 편하게 저에게 메일(<i><u>jhochoi@dgist.ac.kr</u></i>) 주시길 바랍니다.</strong></span>
   <br><br>
-  We're also actively hiring <b>Postdocs</b> in the field of radio systems and AI. Please refer to <a href="https://modern-plutonium-519.notion.site/IRS-Lab-Contact-Info-18ed30c1d89b80a18087f093927b241b?pvs=4">this link</a> for more details.
+  <span style="margin-left: 2%; font-size:15px;">We're also actively hiring <b>Postdocs</b> in the field of radio systems and AI. Please refer to <a href="https://modern-plutonium-519.notion.site/Postdoc-Hiring-21ed30c1d89b8085be8bc9e23719da51">this link</a> for more details.</span>
 </blockquote>
 
 <!-- <div class="well">
