@@ -87,10 +87,12 @@ Our goal is to develop new sensing technologies to see the world from from entir
 <div class="well">
   <h4><strong>News</strong></h4>
   <ul style="font-size:18px">
-    <li>One paper has been accepted to CVPR'25.</li>
-    <li>Jaehyeon Kim joined our lab!</li>
-    <li>One paper has been accepted to ICASSP'25 (<b>Oral presentation</b>).</li>
-    <li>IRS Lab opens!</li>
+    <li>2025.06. - Our lab is funded by <b>two MSIT InnoCORE projects (InnoCORE 사업)</b>, 2025~2029. (<b>We're actively hiring Postdocs</b>)</li>
+    <li>2025.06. - Our lab is funded by <b>MSIT AI Star Fellowship (AI 스타펠로우십사업)</b>, 2025~2030.</li>
+    <li>2025.02. - One paper has been accepted to <b>CVPR'25</b>.</li>
+    <li>2025.02. - <b>Jaehyeon Kim</b> joined our lab!</li>
+    <li>2024.12. - One paper has been accepted to <b>ICASSP'25 (Oral presentation)</b>.</li>
+    <li>2024.12. - IRS Lab opens!</li>
   </ul>
 </div>
 
