@@ -55,6 +55,9 @@ permalink: /team/
 {% endif %}
 {% endfor %}
 
+## Interns
+<span style="font-size:18px"><b>[2025 Summer]</b> 고동욱, 권우혁, 남도혁 <br></span>
+
 <br>
 <blockquote>
   <h4><strong>Notice</strong></h4>
