@@ -55,15 +55,6 @@ permalink: /team/
 {% endif %}
 {% endfor %}
 
-<div class="list-group">
-  <a href="" class="list-group-item" style="width: 220px;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="100%" style="float: left" />
-    <br><span style="font-family:sans-serif; font-weight:bold; font-size:20px; line-height:1.6;">{{ member.name }}<br></span>
-    <span style="font-style:italic; font-size:18px">{{ member.info }}<br></span>
-    <span>{{ member.email }}<br></span>
-  </a>
-</div>
-
 <br>
 <blockquote>
   <h4><strong>Notice</strong></h4>
