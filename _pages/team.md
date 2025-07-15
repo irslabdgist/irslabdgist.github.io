@@ -48,27 +48,6 @@ permalink: /team/
 </div>
 {% endfor %}
 
-## Undergraduate Students
-{% assign number_printed = 0 %}
-{% for member in site.data.member_graduate %}
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-<div class="col-sm-6 clearfix">
-<div class="list-group">
-  <a href="" class="list-group-item" style="width: 220px;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="100%" style="float: left" />
-    <br><span style="font-family:sans-serif; font-weight:bold; font-size:20px; line-height:1.6;">{{ member.name }}<br></span>
-    <span style="font-style:italic; font-size:18px">{{ member.info }}<br></span>
-    <span>{{ member.email }}<br></span>
-  </a>
-</div>
-</div>
-</div>
-{% endfor %}
-
 <br>
 <blockquote>
   <h4><strong>Notice</strong></h4>
