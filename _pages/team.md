@@ -35,7 +35,6 @@ permalink: /team/
 {% if mod == 0 %}
 <div class="row">
 {% endif %}
-
 <div class="col-sm-4 clearfix">
   <div class="list-group">
     <a href="" class="list-group-item" style="width: 220px;">
@@ -49,13 +48,12 @@ permalink: /team/
     </a>
   </div>
 </div>
-
 {% assign number_printed = number_printed | plus: 1 %}
-
 {% assign mod = number_printed | modulo: 3 %}
 {% if mod == 0 or forloop.last %}
 </div>
 {% endif %}
+</div>
 {% endfor %}
 
 <br>
