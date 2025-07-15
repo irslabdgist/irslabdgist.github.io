@@ -30,22 +30,32 @@ permalink: /team/
 ## Graduate Students
 {% assign number_printed = 0 %}
 {% for member in site.data.member_graduate %}
-{% assign even_odd = number_printed | modulo: 2 %}
+{% assign mod = number_printed | modulo: 3 %}
 
-{% if even_odd == 0 %}
+{% if mod == 0 %}
 <div class="row">
 {% endif %}
-<div class="col-sm-6 clearfix">
-<div class="list-group">
-  <a href="" class="list-group-item" style="width: 220px;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="100%" style="float: left" />
-    <br><span style="font-family:sans-serif; font-weight:bold; font-size:20px; line-height:1.6;">{{ member.name }}<br></span>
-    <span style="font-style:italic; font-size:18px">{{ member.info }}<br></span>
-    <span>{{ member.email }}<br></span>
-  </a>
+
+<div class="col-sm-4 clearfix">
+  <div class="list-group">
+    <a href="" class="list-group-item" style="width: 220px;">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" 
+           class="img-responsive" width="100%" style="float: left" />
+      <br><span style="font-family:sans-serif; font-weight:bold; font-size:20px; line-height:1.6;">
+        {{ member.name }}<br>
+      </span>
+      <span style="font-style:italic; font-size:18px">{{ member.info }}<br></span>
+      <span>{{ member.email }}<br></span>
+    </a>
+  </div>
 </div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% assign mod = number_printed | modulo: 3 %}
+{% if mod == 0 or forloop.last %}
 </div>
-</div>
+{% endif %}
 {% endfor %}
 
 <br>
