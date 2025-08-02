@@ -57,13 +57,13 @@ I'm interested in developing new sensing technologies to see the world from enti
 * AAAI'26
 
 ##### Reviewer
-* CVPR, ICCV, ECCV, NeurIPS, AAAI, etc.
-* IEEE IoTJ, IEEE SensJ, IEEE TGRS, IEEE TAES, IEEE SPL, etc.
+* CVPR, ICCV, ECCV, NeurIPS, AAAI, WACV etc.
+* IEEE IoTJ, IEEE SensJ, IEEE TMC, IEEE TGRS, IEEE TAES, IEEE SPL, etc.
 
 <br>
 
 #### Invited Talks
-* "RF-Integrated Multimodal AI", 대한전자공학괴 영상이해/영상처리 연구회, 2025.07
+* "RF-Integrated Multimodal AI", 대한전자공학회 영상이해/영상처리 연구회, 2025.07
 * "Radio+AI: Wireless Perception beyond Human Vision", DGIST-EECS/AI, 2025.05
 * "Radio+AI: Wireless Perception beyond Human Vision", POSTECH-EE, 2025.05
 * "Fusion of target and shadow regions for improved SAR ATR", 차세대 국방융합기술 연구센터, 2021.07
