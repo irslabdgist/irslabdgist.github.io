@@ -9,7 +9,7 @@
   image: dummy.png
   authors: <strong>Jae-Ho Choi</strong>*, Soheil Hor, Shubo Yang, Amin Arbabian
   link:
-    display: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025 <span class="label label-primary">Top Conf.</span>
+    display: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025 [[Project Page]](https://mvdoppler-pose.github.io/){:target="_blank"}[[Link]](https://openaccess.thecvf.com/content/CVPR2025/papers/Choi_MVDoppler-Pose_Multi-Modal_Multi-View_mmWave_Sensing_for_Long-Distance_Self-Occluded_Human_Walking_CVPR_2025_paper.pdf){:target="_blank"} <span class="label label-primary">Top Conf.</span>
   highlight: 0
 
 - title: "High-Resolution Gait Micro-Doppler Synthesis from Videos Over Diverse Trajectories"
