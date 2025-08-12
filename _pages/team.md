@@ -6,30 +6,9 @@ sitemap: false
 permalink: /team/
 ---
 
-## Professor
+## Members
 {% assign number_printed = 0 %}
-{% for member in site.data.member_professor %}
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-<div class="col-sm-6 clearfix">
-<div class="list-group">
-  <a href="{{ site.url }}{{ site.baseurl }}/team/jaeho" class="list-group-item" style="width: 220px;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="100%" style="float: left" />
-    <br><span style="font-family:sans-serif; font-weight:bold; font-size:20px; line-height:1.6;">{{ member.name }}<br></span>
-    <span style="font-style:italic; font-size:18px">{{ member.info }}<br></span>
-    <span>{{ member.email }}<br></span>
-  </a>
-</div>
-</div>
-</div>
-{% endfor %}
-
-## Postdoc Researchers
-{% assign number_printed = 0 %}
-{% for member in site.data.member_postdoc %}
+{% for member in site.data.member_all %}
 {% assign mod = number_printed | modulo: 3 %}
 
 {% if mod == 0 %}
@@ -39,62 +18,6 @@ permalink: /team/
 <div class="col-sm-4 clearfix">
 <div class="list-group">
   <a href="{{ member.url }}" class="list-group-item" style="width: 220px;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}"  class="img-responsive" width="100%" style="float: left" />
-    <br><span style="font-family:sans-serif; font-weight:bold; font-size:20px; line-height:1.6;">{{ member.name }}<br></span>
-    <span style="font-style:italic; font-size:18px">{{ member.info }}<br></span>
-    <span>{{ member.email }}<br></span>
-  </a>
-</div>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% assign mod = number_printed | modulo: 3 %}
-{% if mod == 0 or forloop.last %}
-</div>
-{% endif %}
-{% endfor %}
-
-## Graduate Students
-{% assign number_printed = 0 %}
-{% for member in site.data.member_graduate %}
-{% assign mod = number_printed | modulo: 3 %}
-
-{% if mod == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-4 clearfix">
-<div class="list-group">
-  <a href="" class="list-group-item" style="width: 220px;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}"  class="img-responsive" width="100%" style="float: left" />
-    <br><span style="font-family:sans-serif; font-weight:bold; font-size:20px; line-height:1.6;">{{ member.name }}<br></span>
-    <span style="font-style:italic; font-size:18px">{{ member.info }}<br></span>
-    <span>{{ member.email }}<br></span>
-  </a>
-</div>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% assign mod = number_printed | modulo: 3 %}
-{% if mod == 0 or forloop.last %}
-</div>
-{% endif %}
-{% endfor %}
-
-## Undergraduate Students
-{% assign number_printed = 0 %}
-{% for member in site.data.member_undergraduate %}
-{% assign mod = number_printed | modulo: 3 %}
-
-{% if mod == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-4 clearfix">
-<div class="list-group">
-  <a href="" class="list-group-item" style="width: 220px;">
     <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}"  class="img-responsive" width="100%" style="float: left" />
     <br><span style="font-family:sans-serif; font-weight:bold; font-size:20px; line-height:1.6;">{{ member.name }}<br></span>
     <span style="font-style:italic; font-size:18px">{{ member.info }}<br></span>

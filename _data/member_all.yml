@@ -1,0 +1,49 @@
+- name: Jaeho Choi, Ph.D.
+  photo: Jaeho.jpg
+  info: <span class="label label-warning">Professor</span>
+  email: jhochoi@dgist.ac.kr
+  url: {{ site.url }}{{ site.baseurl }}/team/jaeho
+  number_educ: 0
+  education1: Postdoc, EE, Stanford University
+  education2: PhD, EE, POSTECH
+  education3: MS, EE, POSTECH
+  education4: BS, CS, Korea University
+  # education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
+- name: Jaehyeon Park, Ph.D.
+  photo: student_jaehyunpark.jpg
+  info: <span class="label label-warning">Postdoc Researcher</span>
+  email: jaehyunpark@dgist.ac.kr
+  url: https://jhynpark.github.io/
+  number_educ: 0
+- name: Jeongwan Shin, Ph.D.
+  photo: student_jeongwan.png
+  info: <span class="label label-warning">Postdoc Researcher</span>
+  email: TBA
+  url: https://jeongwan-shin.github.io/
+  number_educ: 0
+- name: Jaehyeon Kim
+  photo: student_jaehyun.jpg
+  info: MS Student
+  email: sks05248@dgist.ac.kr
+  number_educ: 0
+  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
+- name: Jihyeok Hong
+  photo: student_jihyeok.jpg
+  info: Integrated MS/PhD Student
+  email: jh.hong@dgist.ac.kr
+  number_educ: 0
+- name: Eunchan Kim
+  photo: student_eunchan.jpg
+  info: MS Student
+  email: eunchan.kim@dgist.ac.kr
+  number_educ: 0
+- name: Nahyeon Kim
+  photo: student_nahyeon.jpg
+  info: Undergrad Researcher
+  email: knh6393@dgist.ac.kr
+  number_educ: 0
+- name: Jaeryong Lee
+  photo: student_jaeryong.jpg
+  info: Undergrad Researcher
+  email: wofyd0826@dgist.ac.kr
+  number_educ: 0
