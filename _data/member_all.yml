@@ -1,6 +1,6 @@
-- name: Jaeho Choi, Ph.D.
+- name: Jaeho Choi
   photo: Jaeho.jpg
-  info: <span class="label label-warning">Professor</span>
+  info: <span class="label label-default">Professor</span>
   email: jhochoi@dgist.ac.kr
   url: https://irslabdgist.github.io/team/jaeho
   number_educ: 0
@@ -9,40 +9,40 @@
   education3: MS, EE, POSTECH
   education4: BS, CS, Korea University
   # education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
-- name: Jaehyeon Park, Ph.D.
+- name: Jaehyeon Park
   photo: student_jaehyunpark.jpg
-  info: <span class="label label-warning">Postdoc Researcher</span>
+  info: <span class="label label-default">Postdoc Researcher</span>
   email: jaehyunpark@dgist.ac.kr
   url: https://jhynpark.github.io/
   number_educ: 0
-- name: Jeongwan Shin, Ph.D.
+- name: Jeongwan Shin
   photo: student_jeongwan.png
-  info: <span class="label label-warning">Postdoc Researcher</span>
+  info: <span class="label label-default">Postdoc Researcher</span>
   email: TBA
   url: https://jeongwan-shin.github.io/
   number_educ: 0
 - name: Jaehyeon Kim
   photo: student_jaehyun.jpg
-  info: MS Student
+  info: <span class="label label-primary">MS Student</span>
   email: sks05248@dgist.ac.kr
   number_educ: 0
 - name: Jihyeok Hong
   photo: student_jihyeok.jpg
-  info: Integrated MS/PhD Student
+  info: <span class="label label-primary">Joint MS & PhD</span>
   email: jh.hong@dgist.ac.kr
   number_educ: 0
 - name: Eunchan Kim
   photo: student_eunchan.jpg
-  info: MS Student
+  info: <span class="label label-primary">MS Student</span>
   email: eunchan.kim@dgist.ac.kr
   number_educ: 0
 - name: Nahyeon Kim
   photo: student_nahyeon.jpg
-  info: Undergrad Researcher
+  info: <span class="label label-info">Undergrad Researcher</span>
   email: knh6393@dgist.ac.kr
   number_educ: 0
 - name: Jaeryong Lee
   photo: student_jaeryong.jpg
-  info: Undergrad Researcher
+  info: <span class="label label-info">Undergrad Researcher</span>
   email: wofyd0826@dgist.ac.kr
   number_educ: 0
