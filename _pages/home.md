@@ -92,10 +92,10 @@ Our goal is to develop new sensing technologies to see the world from from entir
   <h4><strong>News</strong></h4>
   <ul style="font-size:18px">
     <li>2025.09. - Our lab is funded by <b>NRF 우수신진사업-씨앗</b>, 2025~2026.</li>
-    <li>2025.08. - 2 Postdocs (Jaehyeon, Jeongwan) joined our lab! </li>
-    <li>2025.08. - 2 Graduate students (Eunchan, Jihyeok) joined our lab! </li>
-    <li>2025.07. - Summer internships for 3 students - Uhyeok, Donguk, Dohyeok </li>
-    <li>2025.07. - 2 Undergrad researchers (Nahyeon, Jaeryong) joined our lab!</li>
+    <li>2025.08. - 2 Postdocs (<b>Jaehyeon</b>, <b>Jeongwan</b>) joined our lab! </li>
+    <li>2025.08. - 2 Graduate students (<b>Eunchan</b>, <b>Jihyeok</b>) joined our lab! </li>
+    <li>2025.07. - Summer internships for 3 students - <b>Uhyeok, Donguk, Dohyeok</b> </li>
+    <li>2025.07. - 2 Undergrad researchers (<b>Nahyeon, Jaeryong</b>) joined our lab!</li>
     <li>2025.06. - Our lab is funded by <b>two MSIT InnoCORE projects (InnoCORE 사업)</b>, 2025~2029. (<b><a href="https://modern-plutonium-519.notion.site/Postdoc-Hiring-21ed30c1d89b8085be8bc9e23719da51">We're actively hiring Postdocs</a></b>)</li>
     <li>2025.06. - Our lab is funded by <b>MSIT AI Star Fellowship (AI 스타펠로우십사업)</b>, 2025~2030.</li>
     <li>2025.02. - One paper has been accepted to <b>CVPR'25</b>.</li>
