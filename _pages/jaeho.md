@@ -54,10 +54,10 @@ I'm interested in developing new sensing technologies to see the world from enti
 
 #### Academic Service
 ##### Program Committee
-* AAAI'26
+* AAAI
 
 ##### Reviewer
-* CVPR, ICCV, ECCV, NeurIPS, AAAI, WACV etc.
+* CVPR, ICCV, ECCV, NeurIPS, WACV etc.
 * IEEE IoTJ, IEEE SensJ, IEEE TMC, IEEE TGRS, IEEE TAES, IEEE SPL, etc.
 
 <br>
