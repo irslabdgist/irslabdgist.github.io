@@ -27,6 +27,12 @@
   email: yazdan@dgist.ac.kr
   url: https://yazdanaq.github.io/
   number_educ: 0
+- name: Dohyun Park
+  photo: postdoc_DH.jpg
+  info: <span class="label label-primary">Postdoc Fellow</span>
+  email: dohpark@dgist.ac.kr
+  url: https://sites.google.com/view/dohyunpark
+  number_educ: 0
 - name: Jaehyeon Kim
   photo: student_jaehyun.jpg
   info: <span class="label label-info">MS Student</span>

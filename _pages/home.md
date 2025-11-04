@@ -91,6 +91,7 @@ Our goal is to develop new sensing technologies to see the world from from entir
 <div class="well">
   <h4><strong>News</strong></h4>
   <ul style="font-size:18px">
+    <li>2025.11. - <b>Dr. Dohyun Park</b> joined our lab as a Postdoc!
     <li>2025.10. - Prof. Choi has been selected as a Top Reviewer in <b>NeurIPS 2025</b>!</li>
     <li>2025.09. - 1 Postdoc (<b>Yazdan</b>) and 1 Undergrad researcher (<b>Jaewon</b>) joined our lab!</li>
     <li>2025.09. - Our lab is funded by <b>NRF 우수신진사업-씨앗</b>, 2025~2026.</li>
