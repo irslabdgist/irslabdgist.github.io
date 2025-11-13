@@ -7,7 +7,7 @@
 
 - title: "ReFineVQA: Iterative Refinement of Video Description via Feedback Generation for Video Question Answering"
   image: dummy.png
-  authors: <strong>Jeongwan Shin</strong>, Chan Hur, Seongmin Cho, <strong>Jae-Ho Choi</strong>*, Hyeyoung Park*
+  authors: <strong>Jeongwan Shin</strong>, Chan Hur, Seongmin Cho, <strong>Jae-Ho Choi*</strong>, Hyeyoung Park*
   link:
     display: IEEE/CVF Winter Conference on Applications of Computer Vision  (WACV), 2026  <span class="label label-primary">Top Conf.</span>
   highlight: 0
