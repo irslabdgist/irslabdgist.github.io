@@ -47,6 +47,7 @@ I'm interested in developing new sensing technologies to see the world from enti
 <br>
 
 #### Projects
+* 룬샷프로젝트(Physical AI 기반 고속 군집 자폭 무인수상정 대응 체계 연구) - ADD - 2025.12 ~ 2026.11
 * 우수신진연구-씨앗 - NRF - 2025.09 ~ 2026.08
 * InnoCore(LLM 2.0: Inference Enhancement, Domain Specialization, Multimodal Expansion, and Trustworthy AI) - MSIT - 2025.07 ~ 2029.12
 * InnoCore(Trust-Enhanced Mutualistic Bio-Embedded AI) - MSIT - 2025.07 ~ 2029.12
@@ -66,6 +67,8 @@ I'm interested in developing new sensing technologies to see the world from enti
 <br>
 
 #### Invited Talks
+* "On the Opportunities of Foundational/LLM-Integrated Radar+AI", RLRC 센터 Seminar, 2025.12
+* "AI-Based Radar/Sonar microDoppler", 한국해양과학기술원, 2025.12
 * "RF-Integrated Multimodal AI", 대한전자공학회 영상이해/영상처리 연구회, 2025.07
 * "Radio+AI: Wireless Perception beyond Human Vision", DGIST-EECS/AI, 2025.05
 * "Radio+AI: Wireless Perception beyond Human Vision", POSTECH-EE, 2025.05
