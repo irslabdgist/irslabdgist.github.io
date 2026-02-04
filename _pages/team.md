@@ -36,6 +36,8 @@ permalink: /team/
 
 ## Interns
 <span style="font-size:18px"><b>[2025 Summer]</b> 고동욱, 권우혁, 남도혁, 이재룡 <br></span>
+<span style="font-size:18px"><b>[2025.07 ~ 2025.12]</b> 김나현 <br></span>
+<span style="font-size:18px"><b>[2026 Winter]</b> 이재룡, 윤재원, 정윤중 <br></span>
 
 <br>
 <blockquote>

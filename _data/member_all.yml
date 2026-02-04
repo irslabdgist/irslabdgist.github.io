@@ -35,7 +35,7 @@
   number_educ: 0
 - name: Jaehyeon Kim
   photo: student_jaehyun.jpg
-  info: <span class="label label-info">MS Student</span>
+  info: <span class="label label-info">Joint MS & PhD</span>
   email: sks05248@dgist.ac.kr
   number_educ: 0
 - name: Jihyeok Hong
@@ -48,20 +48,35 @@
   info: <span class="label label-info">MS Student</span>
   email: eunchan.kim@dgist.ac.kr
   number_educ: 0
-- name: Nahyeon Kim
-  photo: student_nahyeon.jpg
-  info: <span class="label label-default">Undergrad Researcher</span>
-  email: knh6393@dgist.ac.kr
+- name: Dongwook Ko
+  photo: student_DW.jpg
+  info: <span class="label label-info">MS Student</span>
+  email: duko@dgist.ac.kr
   number_educ: 0
+- name: Beomjun Kim
+  photo: student_BJK.jpg
+  info: <span class="label label-info">MS Student</span>
+  email: bj1430@dgist.ac.kr
+  number_educ: 0
+- name: Mingyeong Sim
+  photo: student_MKS.jpg
+  info: <span class="label label-info">MS Student</span>
+  email: musum129@dgist.ac.kr
+  number_educ: 0
+- name: Jeongwoo Han
+  photo: student_JWH.jpg
+  info: <span class="label label-info">MS Student</span>
+  email: hanjw927@dgist.ac.kr
+  number_educ: 0
+# - name: Nahyeon Kim
+#   photo: student_nahyeon.jpg
+#   info: <span class="label label-default">Undergrad Researcher</span>
+#   email: knh6393@dgist.ac.kr
+#   number_educ: 0
 - name: Jaeryong Lee
   photo: student_jaeryong.jpg
   info: <span class="label label-default">Undergrad Researcher</span>
   email: wofyd0826@dgist.ac.kr
-  number_educ: 0
-- name: Dongwook Ko
-  photo: student_DW.jpg
-  info: <span class="label label-default">Undergrad Researcher</span>
-  email: kdu0107@ajou.ac.kr
   number_educ: 0
 - name: Jaewon Yun
   photo: student_JW.jpg

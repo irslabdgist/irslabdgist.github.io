@@ -91,6 +91,7 @@ Our goal is to develop new sensing technologies to see the world from from entir
 <div class="well">
   <h4><strong>News</strong></h4>
   <ul style="font-size:18px">
+    <li>2026.02. - 4 Grad students (<b>동욱</b>, <b>범준</b>, <b>민경</b>, <b>정우</b>) and 1 Undergrad student (<b>윤중</b>)  joined our lab! </li>
     <li>2025.11. - Our lab is funded by <b>국방과학연구소 룬샷 프로젝트</b>, 2025~2026.</li>
     <li>2025.11. - One paper has been accepted to <b>WACV'26</b>.</li>
     <li>2025.11. - <b>Dr. Dohyun Park</b> joined our lab as a Postdoc!</li>
