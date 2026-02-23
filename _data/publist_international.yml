@@ -6,7 +6,7 @@
 #   highlight: 0
 - title: "Can Language Models Understand mmWave Data? Benchmarking Large Language Models for mmWave Radar-Based Human Understanding"
   image: dummy.png
-  authors: <strong>Jeongwan Shin</<strong>, <strong>Jaehyeon Kim</<strong>, <strong>Donguk Ko</<strong>, <strong>Jae-Ho Choi*</<strong>
+  authors: <strong>Jeongwan Shin</<strong>, <strong>Jaehyeon Kim</strong>, <strong>Donguk Ko</strong>, <strong>Jae-Ho Choi*</strong>
   link:
     display: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR-Findings), 2026 <span class="label label-primary">Top Conf.</span>
   highlight: 0
