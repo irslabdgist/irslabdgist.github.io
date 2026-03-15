@@ -47,6 +47,7 @@ I'm interested in developing new sensing technologies to see the world from enti
 <br>
 
 #### Projects
+* 신진연구-유형B(다중 주파수, 다중 변조, 다중 환경 통합 학습 기반 레이더 파운데이션 모델 연구) - NRF - 2026.03 ~ 2031.02
 * 룬샷프로젝트(Physical AI 기반 고속 군집 자폭 무인수상정 대응 체계 연구) - ADD - 2025.12 ~ 2026.11
 * 우수신진연구-씨앗 - NRF - 2025.09 ~ 2026.08
 * InnoCore(LLM 2.0: Inference Enhancement, Domain Specialization, Multimodal Expansion, and Trustworthy AI) - MSIT - 2025.07 ~ 2029.12
