@@ -68,6 +68,7 @@ I'm interested in developing new sensing technologies to see the world from enti
 <br>
 
 #### Invited Talks
+* "On the Opportunities of Foundational/LLM-Integrated Radar+AI", 한국전자파학회 동계학술대회, 2026.02
 * "On the Opportunities of Foundational/LLM-Integrated Radar+AI", RLRC 센터 Seminar, 2025.12
 * "AI-Based Radar/Sonar microDoppler", 한국해양과학기술원, 2025.12
 * "RF-Integrated Multimodal AI", 대한전자공학회 영상이해/영상처리 연구회, 2025.07
