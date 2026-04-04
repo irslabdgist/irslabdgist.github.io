@@ -2,6 +2,8 @@
   image: dummy.png
   authors:
     <strong>Jae-Hyeon Kim</strong>, <strong>Jae-Ho Choi*</strong>
+  venue: KIEES
+  year: 2025
   link:
     display: 한국전자파학회 하계종합학술대회, 2025
 
@@ -9,6 +11,8 @@
   image: dummy.png
   authors:
     <strong>Jae-Ho Choi</strong>, Sung-Ryeol Park, Ki-Bong Kang, Kyung-Tae Kim*
+  venue: KIEES
+  year: 2023
   link:
     display: 한국전자파학회 동계종합학술대회, 2023
 
@@ -17,6 +21,8 @@
   description: ""
   authors:
     Nam-Hoon Jeong, <strong>Jae-Ho Choi</strong>, Geon Lee, Ji-Hoon Park, Kyung-Tae Kim*
+  venue: JKIEES
+  year: 2022
   link:
     display: Journal of Korean Institute of Electromagnetic Engineering and Science, 2022
   highlight: 0
@@ -25,6 +31,8 @@
   image: dummy.png
   authors:
     Jeong-Ki Park, Min Kim, Ki-Bong Kang, <strong>Jae-Ho Choi</strong>, Jae-Hyun Park, Han-Young Choi, Kyung-Tae Kim*
+  venue: KIEES
+  year: 2021
   link:
     display: 한국전자파학회 하계종합학술대회, 2021
 
@@ -32,6 +40,8 @@
   image: dummy.png
   authors:
     Han-Young Choi, Ki-Bong Kang, Jeong-Ki Park, <strong>Jae-Ho Choi</strong>, Kyung-Tae Kim*
+  venue: KIEES
+  year: 2021
   link:
     display: 한국전자파학회 하계종합학술대회, 2021
 
@@ -39,6 +49,8 @@
   image: dummy.png
   authors:
     <strong>Jae-Ho Choi</strong>, Min Kim, Ki-Bong Kang, Jeong-Ki Park, Jae-Hyun Park, Kyung-Tae Kim*
+  venue: KIEES
+  year: 2021
   link:
     display: 한국전자파학회 하계종합학술대회, 2021
 
@@ -46,6 +58,8 @@
   image: dummy.png
   authors:
     Geon Lee, Myung-Jun Lee, Nam-Hoon Jeong, <strong>Jae-Ho Choi</strong>, Kyung-Tae Kim*
+  venue: KIEES
+  year: 2021
   link:
     display: 한국전자파학회 하계종합학술대회, 2021
 
@@ -54,6 +68,8 @@
   description: ""
   authors:
     Myung-Jun Lee, Nam-Hoon Jeong, <strong>Jae-Ho Choi</strong>, Geon Lee, Bo-Hyun Ryu, Kyung-Tae Kim*
+  venue: JKIEES
+  year: 2021
   link:
     display: Journal of Korean Institute of Electromagnetic Engineering and Science, 2021
   highlight: 0
@@ -63,6 +79,8 @@
   description: ""
   authors:
     Geon Lee, Myung-Jun Lee, Nam-Hoon Jeong, <strong>Jae-Ho Choi</strong>, Kyung-Tae Kim*
+  venue: JKIEES
+  year: 2021
   link:
     display: Journal of Korean Institute of Electromagnetic Engineering and Science, 2021
   highlight: 0
@@ -71,6 +89,8 @@
   image: dummy.png
   authors:
     Geon Lee, Myung-Jun Lee, Nam-Hoon Jeong, <strong>Jae-Ho Choi</strong>, Kyung-Tae Kim*
+  venue: KIEES
+  year: 2021
   link:
     display: 한국전자파학회 동계종합학술대회, 2021
 
@@ -79,6 +99,8 @@
   image: dummy.png
   authors:
     <strong>Jae-Ho Choi</strong>, Ji-Eun Kim, Kyung-Tae Kim*
+  venue: KIEES
+  year: 2020
   link:
     display: 한국전자파학회 추계종합학술대회, 2020
   highlight: 0
@@ -87,6 +109,8 @@
   image: dummy.png
   authors:
     Myung-Jun Lee, Nam-Hoon Jeong, <strong>Jae-Ho Choi</strong>, Geon Lee, Kyung-Tae Kim*
+  venue: KIEES
+  year: 2020
   link:
     display: 한국전자파학회 하계종합학술대회, 2020
   highlight: 0
@@ -96,6 +120,8 @@
   image: dummy.png
   authors:
     <strong>Jae-Ho Choi</strong>, Ji-Eun Kim, Kyung-Tae Kim*
+  venue: KIEES
+  year: 2020
   link:
     display: 한국전자파학회 하계종합학술대회, 2020
   highlight: 0
@@ -105,6 +131,8 @@
   description: ""
   authors:
     Hoi-In Jung, Sang-Hong Park, <strong>Jae-Ho Choi</strong>, Kyung-Tae Kim*
+  venue: KIMST
+  year: 2020
   link:
     display: Journal of the Korea Institute of Military Science and Technology, 2020
   highlight: 0
@@ -114,6 +142,8 @@
   description: ""
   authors:
     Nam-Hoon Jeong, Seung-Hyeon Jin, <strong>Jae-Ho Choi</strong>, Cheol-Ho Kim, Kyung-Tae Kim*
+  venue: JKIEES
+  year: 2019
   link:
     display: Journal of Korean Institute of Electromagnetic Engineering and Science, 2019
   highlight: 0
@@ -123,6 +153,8 @@
   description: ""
   authors:
     In-Oh Choi, Min Kim, <strong>Jae-Ho Choi</strong>, Jeong-Ki Park, Kyung-Tae Kim*
+  venue: JKIEES
+  year: 2019
   link:
     display: Journal of Korean Institute of Electromagnetic Engineering and Science, 2019
   highlight: 0
@@ -132,6 +164,8 @@
   description: ""
   authors:
     Seung-Hyeon Jin, Nam-Hoon Jeong, <strong>Jae-Ho Choi</strong>, Seong-Hyeon Lee, Cheol-Ho Kim, Kyung-Tae Kim*
+  venue: JKIEES
+  year: 2019
   link:
     display: Journal of Korean Institute of Electromagnetic Engineering and Science, 2019
   highlight: 0
@@ -140,6 +174,8 @@
   image: dummy.png
   authors:
     <strong>Jae-Ho Choi</strong>, Myung-Jun Lee, Sang-Min Lee, Nam-Hoon Jeong, Seung-Hyun Jin, Hoi-In Jeong, Kyung-Tae Kim*
+  venue: KIEES
+  year: 2019
   link:
     display: 한국전자파학회 전파 및 무선통신 학술대회, 2019
   highlight: 0
@@ -148,6 +184,8 @@
   image: dummy.png
   authors:
     In-Oh Choi, Min Kim, <strong>Jae-Ho Choi</strong>, Jeong-Ki Park, Kyung-Tae Kim*
+  venue: KIEES
+  year: 2019
   link:
     display: 한국전자파학회 하계종합학술대회, 2019
   highlight: 0
@@ -157,6 +195,8 @@
   description: ""
   authors:
     Ki-Bong Kang, In-Oh Choi, <strong>Jae-Ho Choi</strong>, Sun-Gu Sun, Jung-Soo Lee, Byung-Lae Cho, Sang-Hong Park, Kyung-Tae Kim*
+  venue: JKIEES
+  year: 2019
   link:
     display: The Journal of Korean Institute of Electromagnetic Engineering and Science, 2019
   highlight: 0
@@ -166,6 +206,8 @@
   description: ""
   authors:
     <b>Jae-Ho Choi</b>, Ki-Bong Kang, Sun-Gu Sun, Jung-Soo Lee, Byung-Lae Cho, Kyung-Tae Kim*
+  venue: JKIEES
+  year: 2019
   link:
     display: Journal of Korean Institute of Electromagnetic Engineering and Science, 2019
   highlight: 0
@@ -175,6 +217,8 @@
   description: ""
   authors:
     <b>Jae-Ho Choi</b>, Ji-Eun Kim, Kyung-Tae Kim*
+  venue: JKIEES
+  year: 2019
   link:
     display: Journal of Korean Institute of Electromagnetic Engineering and Science, 2019
   highlight: 0
@@ -183,6 +227,8 @@
   image: dummy.png
   authors:
     In-Oh Choi, Min Kim, <strong>Jae-Ho Choi</strong>, Kyung-Tae Kim*
+  venue: KIEES
+  year: 2019
   link:
     display: 한국전자파학회 동계종합학술대회, 2019
   highlight: 0
@@ -192,6 +238,8 @@
   description: ""
   authors:
     <b>Jae-Ho Choi</b>, Ji-Eun Kim, Kyung-Tae Kim*
+  venue: KIEES
+  year: 2018
   link:
     display: 한국전자파학회 전파 및 광파기술학술대회, 2018
   highlight: 0
@@ -201,6 +249,8 @@
   description: ""
   authors:
     <b>Jae-Ho Choi</b>, Ji-Eun Kim, Kyung-Tae Kim*
+  venue: KIEES
+  year: 2018
   link:
     display: 한국전자파학회 하계종합학술대회, 2018
   highlight: 0

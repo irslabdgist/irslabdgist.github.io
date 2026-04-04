@@ -15,10 +15,10 @@ permalink: /team/
 <div class="row">
 {% endif %}
 
-<div class="col-sm-4 clearfix">
+<div class="col-md-4 clearfix">
 <div class="list-group">
   <a href="{{ member.url }}" class="list-group-item" style="width: 220px;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}"  class="img-responsive" width="100%" style="float: left" />
+    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-fluid" width="100%" style="float: left" loading="lazy" alt="{{ member.name }}" />
     <br><span style="font-family:sans-serif; font-weight:bold; font-size:20px; line-height:1.6;">{{ member.name }}<br></span>
     <span style="font-size:20px">{{ member.info }}<br></span>
     <span>{{ member.email }}<br></span>

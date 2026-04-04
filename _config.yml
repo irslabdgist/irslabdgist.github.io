@@ -7,7 +7,7 @@
 
 # Site settings
 title: IRS Lab
-email: your-email@domain.com
+email: jhochoi@dgist.ac.kr
 description: > # this means to ignore newlines until "baseurl:"
   Website of IRSLab.
 baseurl: ""
@@ -17,8 +17,8 @@ include:
   - .htaccess
   - _pages
 
-sass:
-  sass_dir: _sass
+# sass:
+#   sass_dir: _sass
 
 # Conversion
 markdown: kramdown

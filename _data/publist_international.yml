@@ -7,34 +7,44 @@
 - title: "Can Language Models Understand mmWave Data? Benchmarking Large Language Models for mmWave Radar-Based Human Understanding"
   image: dummy.png
   authors: <strong>Jeongwan Shin</strong>, <strong>Jaehyeon Kim</strong>, <strong>Donguk Ko</strong>, <strong>Jae-Ho Choi*</strong>
+  venue: CVPR
+  year: 2026
   link:
-    display: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR-Findings), 2026 <span class="label label-primary">Top Conf.</span>
+    display: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR-Findings), 2026 <span class="badge bg-primary">Top Conf.</span>
   highlight: 0
 
 - title: "ReFineVQA: Iterative Refinement of Video Description via Feedback Generation for Video Question Answering"
   image: dummy.png
   authors: <strong>Jeongwan Shin</strong>, Chan Hur, Seongmin Cho, <strong>Jae-Ho Choi</strong>\*, Hyeyoung Park\*
+  venue: WACV
+  year: 2026
   link:
-    display: IEEE/CVF Winter Conference on Applications of Computer Vision  (WACV), 2026  <span class="label label-primary">Top Conf.</span>
+    display: IEEE/CVF Winter Conference on Applications of Computer Vision  (WACV), 2026  <span class="badge bg-primary">Top Conf.</span>
   highlight: 0
 
 - title: "MVDoppler-Pose: Multi-Modal Multi-View mmWave Sensing for Long-Distance Self-Occluded Human Walking Pose Estimation"
   image: dummy.png
   authors: <strong>Jae-Ho Choi</strong>*, Soheil Hor, Shubo Yang, Amin Arbabian
+  venue: CVPR
+  year: 2025
   link:
-    display: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025 [[Project Page]](https://mvdoppler-pose.github.io/){:target="_blank"}[[Link]](https://openaccess.thecvf.com/content/CVPR2025/papers/Choi_MVDoppler-Pose_Multi-Modal_Multi-View_mmWave_Sensing_for_Long-Distance_Self-Occluded_Human_Walking_CVPR_2025_paper.pdf){:target="_blank"} <span class="label label-primary">Top Conf.</span>
+    display: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025 [[Project Page]](https://mvdoppler-pose.github.io/){:target="_blank"}[[Link]](https://openaccess.thecvf.com/content/CVPR2025/papers/Choi_MVDoppler-Pose_Multi-Modal_Multi-View_mmWave_Sensing_for_Long-Distance_Self-Occluded_Human_Walking_CVPR_2025_paper.pdf){:target="_blank"} <span class="badge bg-primary">Top Conf.</span>
   highlight: 0
 
 - title: "High-Resolution Gait Micro-Doppler Synthesis from Videos Over Diverse Trajectories"
   image: dummy.png
   authors: Shubo Yang*, Soheil Hor, <strong>Jae-Ho Choi</strong>, Amin Arbabian
+  venue: ICASSP
+  year: 2025
   link:
-    display: IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2025 [[Link]](https://ieeexplore.ieee.org/abstract/document/10888938){:target="_blank"} <span class="label label-primary">Top Conf.</span> <span class="label label-warning">Oral</span>
+    display: IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2025 [[Link]](https://ieeexplore.ieee.org/abstract/document/10888938){:target="_blank"} <span class="badge bg-primary">Top Conf.</span> <span class="badge bg-warning text-dark">Oral</span>
   highlight: 0
 
 - title: "Radar-Based Crowd Counting in Real-World Environments with Spatiotemporal Transformer"
   image: dummy.png
   authors: <strong>Jae-Ho Choi</strong>, Kyung-Tae Kim*
+  venue: IEEE Journal
+  year: 2024
   link:
     display: IEEE Signal Processing Letters (SPL), 2024 [[Link]](https://ieeexplore.ieee.org/abstract/document/10710320){:target="_blank"}
   highlight: 0
@@ -42,13 +52,17 @@
 - title: "Fusion-Vital: Video-RF Fusion Transformer for Advanced Remote Physiological Measurement"
   image: dummy.png
   authors: <strong>Jae-Ho Choi</strong>, Ki-Bong Kang, Kyung-Tae Kim*
+  venue: AAAI
+  year: 2024
   link:
-    display: AAAI Conference on Artificial Intelligence (AAAI), 2024 [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/27898){:target="_blank"} <span class="label label-primary">Top Conf.</span>
+    display: AAAI Conference on Artificial Intelligence (AAAI), 2024 [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/27898){:target="_blank"} <span class="badge bg-primary">Top Conf.</span>
   highlight: 0
 
 - title: "Radar-Based People Counting under Heterogeneous Clutter Environments"
   image: dummy.png
   authors: <strong>Jae-Ho Choi</strong>, Ji-Eun Kim, and Kyung-Tae Kim*
+  venue: IEEE Journal
+  year: 2024
   link:
     display: IEEE Sensors Journal (SensJ), 2024 [[Link]](https://ieeexplore.ieee.org/document/10322673){:target="_blank"}
   highlight: 0
@@ -56,20 +70,26 @@
 - title: "MVDoppler: Unleashing the Power of Multi-View Doppler for MicroMotion-based Gait Classification"
   image: dummy.png
   authors: Soheil Hor*, Shubo Yang, <strong>Jae-Ho Choi</strong>, Amin Arbabian
+  venue: NeurIPS
+  year: 2023
   link:
-    display: Neural Information Processing Systems (NeurIPS), 2023 [[Project Page]](https://mvdoppler.github.io/){:target="_blank"}[[Link]](https://openreview.net/pdf?id=1plAfmP5ms){:target="_blank"} <span class="label label-primary">Top Conf.</span>
+    display: Neural Information Processing Systems (NeurIPS), 2023 [[Project Page]](https://mvdoppler.github.io/){:target="_blank"}[[Link]](https://openreview.net/pdf?id=1plAfmP5ms){:target="_blank"} <span class="badge bg-primary">Top Conf.</span>
   highlight: 0
 
 - title: "RF-Vital: Radio-Based Contactless Respiration Monitoring for a Moving Individual"
   image: dummy.png
   authors: <b>Jae-Ho Choi</b>, Ki-Bong Kang, Kyung-Tae Kim*
+  venue: IEEE Journal
+  year: 2023
   link:
-    display: IEEE Internet of Things Journal (IoTJ), 2023 [[Link]](https://ieeexplore.ieee.org/abstract/document/10304252){:target="_blank"} <span class="label label-success">Top 5%</span>
+    display: IEEE Internet of Things Journal (IoTJ), 2023 [[Link]](https://ieeexplore.ieee.org/abstract/document/10304252){:target="_blank"} <span class="badge bg-success">Top 5%</span>
   highlight: 0
 
 - title: "Beam Scheduling of Maritime Multifunctional Radar Based on Binary Integration"
   image: dummy.png
   authors: Nam-Hoon Jeong, Min Kim, <b>Jae-Ho Choi</b>, Kyung-Tae Kim*
+  venue: IEEE Journal
+  year: 2023
   link:
     display: IEEE Access, 2023 [[Link]](https://ieeexplore.ieee.org/abstract/document/10097706){:target="_blank"}
   highlight: 0
@@ -77,13 +97,17 @@
 - title: "Remote Respiration Monitoring of Moving Person Using Radio Signals"
   image: dummy.png
   authors: <b>Jae-Ho Choi</b>, Ki-Bong Kang, Kyung-Tae Kim*
+  venue: ECCV
+  year: 2022
   link:
-    display: European Conference on Computer Vision (ECCV), 2022 [[Link]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970248.pdf){:target="_blank"} <span class="label label-primary">Top Conf.</span>
+    display: European Conference on Computer Vision (ECCV), 2022 [[Link]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970248.pdf){:target="_blank"} <span class="badge bg-primary">Top Conf.</span>
   highlight: 0
 
 - title: "Feature Selection for SAR Target Discrimination and Efficient Two-Stage Detection Method"
   image: dummy.png
   authors: Nam-Hoon Jeong, <b>Jae-Ho Choi</b>, Geon Lee, Ji-Hoon Park, Kyung-Tae Kim*
+  venue: Others
+  year: 2022
   highlight: 0
   link:
     display: Remote Sensing, 2022 [[Link]](https://www.mdpi.com/2072-4292/14/16/4044){:target="_blank"}
@@ -91,15 +115,19 @@
 - title: "Deep Learning Approach for Radar-Based People Counting"
   image: dummy.png
   authors: <b>Jae-Ho Choi</b>, Ji-Eun Kim, Kyung-Tae Kim*
+  venue: IEEE Journal
+  year: 2022
   link:
-    display: IEEE Internet of Things Journal (IoTJ), 2022 [[Link]](https://ieeexplore.ieee.org/abstract/document/9540889){:target="_blank"} <span class="label label-success">Top 5%</span>
+    display: IEEE Internet of Things Journal (IoTJ), 2022 [[Link]](https://ieeexplore.ieee.org/abstract/document/9540889){:target="_blank"} <span class="badge bg-success">Top 5%</span>
   highlight: 0
 
 - title: "Fusion of Target and Shadow Regions for Improved SAR ATR"
   image: dummy.png
   authors: <b>Jae-Ho Choi</b>, Myung-Jun Lee, Nam-Hoon Jeong, Geon Lee, Kyung-Tae Kim*
+  venue: IEEE Journal
+  year: 2022
   link:
-    display: IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2022 [[Link]](https://ieeexplore.ieee.org/document/9751685){:target="_blank"} <span class="label label-success">Top 10%</span>
+    display: IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2022 [[Link]](https://ieeexplore.ieee.org/document/9751685){:target="_blank"} <span class="badge bg-success">Top 10%</span>
   highlight: 0
   news2:
 
@@ -107,14 +135,18 @@
   image: Pub_nemat1.png
   description: ""
   authors: Ki-Bong Kang, <b>Jae-Ho Choi</b>, Byung-Lae Cho, Jung-Soo Lee, Kyung-Tae Kim*
+  venue: IEEE Journal
+  year: 2021
   link:
-    display: IEEE Transactions on Aerospace and Electronic Systems (TAES), 2021 [[Link]](https://ieeexplore.ieee.org/document/9409707){:target="_blank"} <span class="label label-success">Top 10%</span>
+    display: IEEE Transactions on Aerospace and Electronic Systems (TAES), 2021 [[Link]](https://ieeexplore.ieee.org/document/9409707){:target="_blank"} <span class="badge bg-success">Top 10%</span>
   highlight: 0
 
 - title: "Robust Cardiac Rate Estimation of an Individual"
   image: dummy.png
   description: ""
   authors: In-Oh Choi, Min Kim, <b>Jae-Ho Choi</b>, Jeong-Ki Park, Kyung-Tae Kim*
+  venue: IEEE Journal
+  year: 2021
   link:
     display: IEEE Sensors Journal (SensJ), 2021 [[Link]](https://ieeexplore.ieee.org/document/9409125){:target="_blank"}
   highlight: 0
@@ -124,8 +156,10 @@
   description: ""
   authors:
     <b>Jae-Ho Choi</b>, Ji-Eun Kim, Kyung-Tae Kim*
+  venue: IEEE Journal
+  year: 2021
   link:
-    display: IEEE Internet of Things Journal (IoTJ), 2021 [[Link]](https://ieeexplore.ieee.org/document/9234452){:target="_blank"}[[Video]](https://www.youtube.com/watch?v=SRfiu0eAav8){:target="_blank"} <span class="label label-success">Top 5%</span>
+    display: IEEE Internet of Things Journal (IoTJ), 2021 [[Link]](https://ieeexplore.ieee.org/document/9234452){:target="_blank"}[[Video]](https://www.youtube.com/watch?v=SRfiu0eAav8){:target="_blank"} <span class="badge bg-success">Top 5%</span>
   highlight: 0
 
 - title: "Accurate People Counting Based on Radar: Deep Learning Approach"
@@ -133,6 +167,8 @@
   description: ""
   authors:
     <b>Jae-Ho Choi</b>, Ji-Eun Kim, Nam-Hoon Jeong, Kyung-Tae Kim*, Seung-Hyun Jin
+  venue: IEEE Journal
+  year: 2020
   link:
     display: IEEE Radar Conference (RadarConf), 2020 [[Link]](https://ieeexplore.ieee.org/document/9266496){:target="_blank"}
   highlight: 0
@@ -142,6 +178,8 @@
   description: ""
   authors:
     Ji-Eun Kim, <b>Jae-Ho Choi</b>, Kyung-Tae Kim*
+  venue: IEEE Journal
+  year: 2020
   link:
     display: IEEE Access, 2020 [[Link]](https://ieeexplore.ieee.org/abstract/document/9110845){:target="_blank"}
   highlight: 0

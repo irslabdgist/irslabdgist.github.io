@@ -17,7 +17,7 @@ permalink: /team_archived/
 <div class="col-sm-6 clearfix">
 <div class="list-group">
   <a href="{{ site.url }}{{ site.baseurl }}/team/jaeho" class="list-group-item" style="width: 220px;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="100%" style="float: left" />
+    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-fluid" width="100%" style="float: left" />
     <br><span style="font-family:sans-serif; font-weight:bold; font-size:20px; line-height:1.6;">{{ member.name }}<br></span>
     <span style="font-style:italic; font-size:18px">{{ member.info }}<br></span>
     <span>{{ member.email }}<br></span>
@@ -39,7 +39,7 @@ permalink: /team_archived/
 <div class="col-sm-4 clearfix">
 <div class="list-group">
   <a href="{{ member.url }}" class="list-group-item" style="width: 220px;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}"  class="img-responsive" width="100%" style="float: left" />
+    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}"  class="img-fluid" width="100%" style="float: left" />
     <br><span style="font-family:sans-serif; font-weight:bold; font-size:20px; line-height:1.6;">{{ member.name }}<br></span>
     <span style="font-style:italic; font-size:18px">{{ member.info }}<br></span>
     <span>{{ member.email }}<br></span>
@@ -67,7 +67,7 @@ permalink: /team_archived/
 <div class="col-sm-4 clearfix">
 <div class="list-group">
   <a href="" class="list-group-item" style="width: 220px;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}"  class="img-responsive" width="100%" style="float: left" />
+    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}"  class="img-fluid" width="100%" style="float: left" />
     <br><span style="font-family:sans-serif; font-weight:bold; font-size:20px; line-height:1.6;">{{ member.name }}<br></span>
     <span style="font-style:italic; font-size:18px">{{ member.info }}<br></span>
     <span>{{ member.email }}<br></span>
@@ -95,7 +95,7 @@ permalink: /team_archived/
 <div class="col-sm-4 clearfix">
 <div class="list-group">
   <a href="" class="list-group-item" style="width: 220px;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}"  class="img-responsive" width="100%" style="float: left" />
+    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}"  class="img-fluid" width="100%" style="float: left" />
     <br><span style="font-family:sans-serif; font-weight:bold; font-size:20px; line-height:1.6;">{{ member.name }}<br></span>
     <span style="font-style:italic; font-size:18px">{{ member.info }}<br></span>
     <span>{{ member.email }}<br></span>

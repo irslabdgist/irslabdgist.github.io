@@ -1,0 +1,43 @@
+---
+layout: null
+---
+[
+{% assign sep = "" %}
+{% for publi in site.data.publist_international %}
+{{ sep }}{
+  "type": "publication",
+  "title": {{ publi.title | jsonify }},
+  "authors": {{ publi.authors | strip_html | jsonify }},
+  "venue": {{ publi.venue | jsonify }},
+  "year": {{ publi.year | jsonify }},
+  "url": "/publications/"
+}{% assign sep = "," %}
+{% endfor %}
+{% for publi in site.data.publist_national %}
+,{
+  "type": "publication",
+  "title": {{ publi.title | jsonify }},
+  "authors": {{ publi.authors | strip_html | jsonify }},
+  "venue": {{ publi.venue | jsonify }},
+  "year": {{ publi.year | jsonify }},
+  "url": "/publications/"
+}
+{% endfor %}
+{% for member in site.data.member_all %}
+,{
+  "type": "member",
+  "title": {{ member.name | jsonify }},
+  "info": {{ member.info | strip_html | jsonify }},
+  "email": {{ member.email | jsonify }},
+  "url": "{{ member.url | default: '/team/' }}"
+}
+{% endfor %}
+{% for page in site.pages %}{% if page.title %}
+,{
+  "type": "page",
+  "title": {{ page.title | jsonify }},
+  "content": {{ page.content | strip_html | strip_newlines | truncatewords: 100 | jsonify }},
+  "url": {{ page.url | jsonify }}
+}
+{% endif %}{% endfor %}
+]
