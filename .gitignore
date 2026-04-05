@@ -1,3 +1,5 @@
 _site
 .sass-cache
 .jekyll-metadata
+CLAUDE.md
+_scripts/notion-sync/node_modules
