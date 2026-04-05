@@ -31,26 +31,36 @@ function setupFilters(listId, filterId, years) {
     });
     btn.classList.add('active');
 
+    var delay = 0;
     entries.forEach(function(entry) {
       var entryYear = entry.getAttribute('data-year');
+      var show = false;
       if (year === 'all') {
-        entry.classList.remove('hidden');
+        show = true;
       } else if (year.includes('~')) {
         var range = year.split('~');
         var hi = parseInt(range[0]);
         var lo = parseInt(range[1]);
         var y = parseInt(entryYear);
-        if (y >= lo && y <= hi) {
-          entry.classList.remove('hidden');
-        } else {
-          entry.classList.add('hidden');
-        }
+        show = (y >= lo && y <= hi);
       } else {
-        if (entryYear === year) {
-          entry.classList.remove('hidden');
-        } else {
-          entry.classList.add('hidden');
-        }
+        show = (entryYear === year);
+      }
+
+      if (show) {
+        entry.classList.remove('hidden');
+        entry.style.opacity = '0';
+        entry.style.transform = 'translateY(15px)';
+        entry.style.transition = 'none';
+        var d = Math.min(delay, 200);
+        setTimeout(function() {
+          entry.style.transition = 'opacity 0.4s ease, transform 0.4s ease';
+          entry.style.opacity = '1';
+          entry.style.transform = 'translateY(0)';
+        }, d);
+        delay += 40;
+      } else {
+        entry.classList.add('hidden');
       }
     });
   });
