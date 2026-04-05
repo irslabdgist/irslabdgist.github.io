@@ -15,6 +15,15 @@
   year: 2026
   link:
     display: 한국전자파학회 동계종합학술대회, 2026
+
+- title: "Masked Autoencoder 기반 자율주행 mmWave 레이더 자기지도학습"
+  image: dummy.png
+  authors:
+    <strong>Eun-Chan Kim</strong>, Jeong-Wan Shin, <strong>Jae-Ho Choi*</strong>
+  venue: KIEES
+  year: 2026
+  link:
+    display: 한국전자파학회 동계종합학술대회, 2026
     
 - title: "mmWave 레이다 기반 향상된 3D 자세 추정을 위한 인코딩 기법 연구"
   image: dummy.png
