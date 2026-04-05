@@ -19,7 +19,7 @@
   venue: WACV
   year: 2026
   link:
-    display: IEEE/CVF Winter Conference on Applications of Computer Vision  (WACV), 2026  <span class="badge bg-primary">Top Conf.</span>
+    display: IEEE/CVF Winter Conference on Applications of Computer Vision  (WACV), 2026  [[Link]](https://openaccess.thecvf.com/content/WACV2026/papers/Shin_ReFineVQA_Iterative_Refinement_of_Video_Description_via_Feedback_Generation_for_WACV_2026_paper.pdf){:target="_blank"} <span class="badge bg-primary">Top Conf.</span>
   highlight: 0
 
 - title: "MVDoppler-Pose: Multi-Modal Multi-View mmWave Sensing for Long-Distance Self-Occluded Human Walking Pose Estimation"
@@ -183,3 +183,4 @@
   link:
     display: IEEE Access, 2020 [[Link]](https://ieeexplore.ieee.org/abstract/document/9110845){:target="_blank"}
   highlight: 0
+
