@@ -6,6 +6,15 @@
   year: 2026
   link:
     display: 한국전자파학회 동계종합학술대회, 2026
+   
+- title: "딥러닝 기반 교차 도메인 UAV 식별을 위한 레이더 마이크로 도플러 신호 증강 전략"
+  image: dummy.png
+  authors:
+    <strong>Ji-Hyuck Hong</strong>, Jae-Hyun Park, Ki-Bong Kang, <strong>Jae-Ho Choi*</strong>
+  venue: KIEES
+  year: 2026
+  link:
+    display: 한국전자파학회 동계종합학술대회, 2026
     
 - title: "mmWave 레이다 기반 향상된 3D 자세 추정을 위한 인코딩 기법 연구"
   image: dummy.png
