@@ -54,16 +54,16 @@ Our goal is to develop new sensing technologies to see the world from from entir
 <div markdown="0" class="card notice-card mb-4">
   <div class="card-body">
     <h5 class="card-title fw-bold">Notice</h5>
-    <span style="font-size:18px">We are looking for passionate students (<b>PhD/MS students</b> and <b>Undergrad. interns</b>) to join IRS Lab.<br></span>
-    <span style="font-size:18px">If you're interested, please refer to <a href="https://modern-plutonium-519.notion.site/IRS-Lab-Contact-Info-18ed30c1d89b80a18087f093927b241b?pvs=4">this link</a>.<br></span>
-    <span style="font-size:18px">Feel free to contact me (<i><u><strong>jhochoi@dgist.ac.kr</strong></u></i>) for further questions.</span>
+    <span class="notice-text">We are looking for passionate students (<b>PhD/MS students</b> and <b>Undergrad. interns</b>) to join IRS Lab.<br></span>
+    <span class="notice-text">If you're interested, please refer to <a href="https://modern-plutonium-519.notion.site/IRS-Lab-Contact-Info-18ed30c1d89b80a18087f093927b241b?pvs=4">this link</a>.<br></span>
+    <span class="notice-text">Feel free to contact me (<i><u><strong>jhochoi@dgist.ac.kr</strong></u></i>) for further questions.</span>
     <br>
-    <span style="font-size:15px;"><strong>우리 연구실에서는 열정 있는 대학원생(석/박사 과정) 및 학부 연구생을 모집하고 있습니다.</strong><br></span>
-    <span style="font-size:15px;"><strong>관심 있으신 분들은 다음의 <a href="https://modern-plutonium-519.notion.site/IRS-Lab-Contact-Info-18ed30c1d89b80a18087f093927b241b?pvs=4">link</a>를 참조해 주시고, 편하게 저에게 메일(<i><u>jhochoi@dgist.ac.kr</u></i>) 주시길 바랍니다.</strong></span>
+    <span class="notice-text-sm"><strong>우리 연구실에서는 열정 있는 대학원생(석/박사 과정) 및 학부 연구생을 모집하고 있습니다.</strong><br></span>
+    <span class="notice-text-sm"><strong>관심 있으신 분들은 다음의 <a href="https://modern-plutonium-519.notion.site/IRS-Lab-Contact-Info-18ed30c1d89b80a18087f093927b241b?pvs=4">link</a>를 참조해 주시고, 편하게 저에게 메일(<i><u>jhochoi@dgist.ac.kr</u></i>) 주시길 바랍니다.</strong></span>
     <br><br>
-    <span style="font-size:18px;">We're also actively hiring <b>Postdocs</b> in the field of radio systems/signal processing and AI.<br></span>
-    <span style="font-size:18px;">Please refer to <a href="https://modern-plutonium-519.notion.site/Postdoc-Hiring-21ed30c1d89b8085be8bc9e23719da51">this link</a> for more details, and send me an email (<i><u><strong>jhochoi@dgist.ac.kr</strong></u></i>) with your CV.<br></span>
-    <span style="font-size:15px;"><strong>우리 연구실에서는 무선 시스템/신호처리 및 인공지능 관련 박사후 연구원을 모집하고 있습니다. 다음의 <a href="https://modern-plutonium-519.notion.site/Postdoc-Hiring-21ed30c1d89b8085be8bc9e23719da51">link</a>를 참조해 주세요.</strong></span>
+    <span class="notice-text">We're also actively hiring <b>Postdocs</b> in the field of radio systems/signal processing and AI.<br></span>
+    <span class="notice-text">Please refer to <a href="https://modern-plutonium-519.notion.site/Postdoc-Hiring-21ed30c1d89b8085be8bc9e23719da51">this link</a> for more details, and send me an email (<i><u><strong>jhochoi@dgist.ac.kr</strong></u></i>) with your CV.<br></span>
+    <span class="notice-text-sm"><strong>우리 연구실에서는 무선 시스템/신호처리 및 인공지능 관련 박사후 연구원을 모집하고 있습니다. 다음의 <a href="https://modern-plutonium-519.notion.site/Postdoc-Hiring-21ed30c1d89b8085be8bc9e23719da51">link</a>를 참조해 주세요.</strong></span>
   </div>
 </div>
 

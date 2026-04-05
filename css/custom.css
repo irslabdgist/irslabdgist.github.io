@@ -317,25 +317,33 @@ hr {
   opacity: 0.7;
 }
 
-/* ===== Responsive ===== */
-@media (max-width: 767.98px) {
-  body {
-    padding-top: 66px;
-  }
+/* ===== Notice text (replaces inline font-size) ===== */
+.notice-text {
+  font-size: 1.05rem;
+}
 
-  .main-content {
-    padding-top: 1rem;
-  }
+.notice-text-sm {
+  font-size: 0.92rem;
+}
 
-  #homeid h1 {
-    font-size: 1.35rem;
-  }
+.intern-text {
+  font-size: 1.05rem;
+}
 
-  .carousel {
-    margin-left: 0;
-    margin-right: 0;
-    border-radius: 8px;
-  }
+/* ===== Member card ===== */
+.member-card {
+  max-width: 240px;
+}
+
+.member-card .member-name {
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 1.15rem;
+  line-height: 1.6;
+}
+
+.member-card .member-role {
+  font-size: 1.05rem;
 }
 
 /* ===== Gallery ===== */
@@ -367,9 +375,91 @@ hr {
   display: block;
 }
 
-@media (max-width: 767.98px) {
+/* ===== Responsive: Tablet (768px–991px) ===== */
+@media (max-width: 991.98px) {
+  body {
+    padding-top: 66px;
+  }
+
   .gallery-event .carousel-item img {
-    height: 300px;
+    height: 400px;
+  }
+
+  .member-card {
+    max-width: 200px;
+  }
+}
+
+/* ===== Responsive: Mobile (< 768px) ===== */
+@media (max-width: 767.98px) {
+  body {
+    padding-top: 60px;
+  }
+
+  .main-content {
+    padding-top: 1rem;
+  }
+
+  #homeid h1 {
+    font-size: 1.35rem;
+  }
+
+  .carousel {
+    margin-left: 0;
+    margin-right: 0;
+    border-radius: 8px;
+  }
+
+  .notice-text {
+    font-size: 0.95rem;
+  }
+
+  .notice-text-sm {
+    font-size: 0.85rem;
+  }
+
+  .intern-text {
+    font-size: 0.95rem;
+  }
+
+  .member-card {
+    max-width: 100%;
+  }
+
+  .member-card .member-name {
+    font-size: 1.05rem;
+  }
+
+  .member-card .member-role {
+    font-size: 0.95rem;
+  }
+
+  #gridid img {
+    margin: 8px 10px 4px 0;
+  }
+
+  .pub-filters {
+    margin-bottom: 1rem;
+  }
+
+  .pub-entry {
+    padding: 0.75rem 0;
+  }
+
+  .pub-entry h4 {
+    font-size: 0.95rem;
+  }
+
+  .gallery-event .carousel-item img {
+    height: 250px;
+  }
+
+  .gallery-event {
+    max-width: 100%;
+  }
+
+  blockquote {
+    padding: 1rem;
   }
 }
 

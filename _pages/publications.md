@@ -12,12 +12,12 @@ permalink: /publications/
 ### International Publications
 
 <div class="pub-filters" id="intl-filters">
-  <button class="pub-filter-btn active" data-venue="all">All</button>
+  <button class="pub-filter-btn active" data-year="all">All</button>
 </div>
 
 <div id="intl-pub-list">
 {% for publi in site.data.publist_international %}
-<div class="row pub-entry" data-venue="{{ publi.venue }}">
+<div class="row pub-entry" data-year="{{ publi.year }}">
   {% if publi.highlight == 0 %}
   <div class="col-sm-12 clearfix" style="margin-top:-8px; margin-bottom:-8px;">
   <h4>{{ publi.title }}</h4>
@@ -44,12 +44,12 @@ permalink: /publications/
 ### Domestic Publications
 
 <div class="pub-filters" id="domestic-filters">
-  <button class="pub-filter-btn active" data-venue="all">All</button>
+  <button class="pub-filter-btn active" data-year="all">All</button>
 </div>
 
 <div id="domestic-pub-list">
 {% for publi in site.data.publist_national %}
-<div class="row pub-entry" data-venue="{{ publi.venue }}">
+<div class="row pub-entry" data-year="{{ publi.year }}">
   <div class="col-sm-12 clearfix" style="margin-top:-8px; margin-bottom:-8px;">
   <h5>{{ publi.title }}</h5>
   <h6>{{ publi.link.display }}</h6>
