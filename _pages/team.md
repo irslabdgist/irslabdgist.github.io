@@ -7,14 +7,8 @@ permalink: /team/
 ---
 
 ## Members
-{% assign number_printed = 0 %}
-{% for member in site.data.member_all %}
-{% assign mod = number_printed | modulo: 3 %}
-
-{% if mod == 0 %}
 <div class="row">
-{% endif %}
-
+{% for member in site.data.member_all %}
 <div class="col-6 col-md-4 clearfix">
 <div class="list-group">
   <a href="{{ member.url }}" class="list-group-item member-card">
@@ -25,14 +19,8 @@ permalink: /team/
   </a>
 </div>
 </div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% assign mod = number_printed | modulo: 3 %}
-{% if mod == 0 or forloop.last %}
-</div>
-{% endif %}
 {% endfor %}
+</div>
 
 ## Interns
 <span class="intern-text"><b>[2025 Summer]</b> 고동욱, 권우혁, 남도혁, 이재룡 <br></span>
