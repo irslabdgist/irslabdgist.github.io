@@ -72,7 +72,7 @@
   info: <span class="badge bg-secondary">Undergrad Researcher</span>
   email: wofyd0826@dgist.ac.kr
   number_educ: 0
-- name: Jaewon Yun
+- name: Jaeone Yun
   photo: student_JW.jpg
   info: <span class="badge bg-secondary">Undergrad Researcher</span>
   email: jaeoneyun@dgist.ac.kr
@@ -81,9 +81,4 @@
   photo: student_YJJ.jpg
   info: <span class="badge bg-secondary">Undergrad Researcher</span>
   email: ak0147@dgist.ac.kr
-  number_educ: 0
-- name: Seongryeong Lee
-  photo: student_LSR.jpg
-  info: <span class="badge bg-secondary">Visiting Researcher</span>
-  email: TBA
   number_educ: 0
