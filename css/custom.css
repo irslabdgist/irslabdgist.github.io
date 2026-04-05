@@ -44,14 +44,31 @@ h1, h2, h3, h4, h5, h6 {
   padding-bottom: 2rem;
 }
 
+/* ===== Smooth scroll ===== */
+html {
+  scroll-behavior: smooth;
+}
+
 /* ===== Navbar ===== */
 #main-navbar {
   background-color: var(--navbar-bg);
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
   border-bottom: 1px solid var(--navbar-border);
-  transition: background-color 0.3s ease;
+  transition: all 0.3s ease;
+  padding-top: 0.6rem;
+  padding-bottom: 0.6rem;
   z-index: 1030;
+}
+
+#main-navbar.navbar-shrink {
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+}
+
+#main-navbar.navbar-shrink .navbar-brand {
+  font-size: 1.05rem;
 }
 
 /* Safari fallback: solid background when backdrop-filter unsupported */
@@ -74,6 +91,23 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 0.92rem;
   padding: 0.5rem 0.85rem;
   transition: color 0.2s ease;
+  position: relative;
+}
+
+#main-navbar .nav-link::after {
+  content: '';
+  position: absolute;
+  bottom: 4px;
+  left: 50%;
+  width: 0;
+  height: 2px;
+  background-color: var(--bs-primary);
+  transition: width 0.3s ease, left 0.3s ease;
+}
+
+#main-navbar .nav-link:hover::after {
+  width: 60%;
+  left: 20%;
 }
 
 #theme-toggle,
@@ -137,11 +171,12 @@ img {
 .card {
   border: 1px solid var(--section-border);
   border-radius: 10px;
-  transition: box-shadow 0.2s ease;
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
 }
 
 .card:hover {
   box-shadow: var(--card-hover-shadow);
+  transform: translateY(-3px);
 }
 
 .notice-card {
@@ -172,12 +207,13 @@ img {
 #gridid .list-group-item {
   border: 1px solid var(--section-border);
   border-radius: 10px;
-  transition: box-shadow 0.2s ease;
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
   background: transparent;
 }
 
 #gridid .list-group-item:hover {
   box-shadow: var(--card-hover-shadow);
+  transform: translateY(-4px);
   text-decoration: none;
 }
 
