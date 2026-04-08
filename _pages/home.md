@@ -71,6 +71,8 @@ Our goal is to develop new sensing technologies to see the world from from entir
   <div class="card-body">
     <h5 class="card-title fw-bold">News</h5>
     <ul class="list-unstyled mb-0">
+      <li>2026.04. - Our lab will be funded by <b>IITP-디지털콜럼버스프로젝트</b>, 2026~2033.</li>
+      <li>2026.04. - Our lab will be funded by <b>KIOST-기관전략개발단사업</b>, 2026~2030.</li>
       <li>2026.03. - Our lab has been selected for <b>NRF 신진연구-유형B</b>, 2026~2031.</li>
       <li>2026.02. - One paper has been accepted to <b>CVPR'26-Findings</b>.</li>
       <li>2026.02. - 4 Grad students (<b>동욱</b>, <b>범준</b>, <b>민경</b>, <b>정우</b>) and 1 Undergrad student (<b>윤중</b>)  joined our lab! </li>
