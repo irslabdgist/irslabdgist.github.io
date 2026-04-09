@@ -9,7 +9,7 @@ permalink: /team/
 ## Members
 <div class="row">
 {% for member in site.data.member_all %}
-<div class="col-6 col-md-4 clearfix">
+<div class="col-6 col-md-3 clearfix">
 <div class="list-group">
   <a href="{{ member.url }}" class="list-group-item member-card">
     <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-fluid w-100" style="float: left" loading="lazy" alt="{{ member.name }}" />
