@@ -190,22 +190,23 @@ img {
   margin-bottom: 1.5rem;
   margin-top: 1rem;
   box-shadow: 0 2px 16px rgba(0, 0, 0, 0.1);
-  /* White padding top + bottom: bottom holds the slide indicators,
-     top is half of the bottom for a lighter visual weight above
-     the image. Stays white in both light and dark modes per design. */
+}
+
+/* Home carousel only: white padding so the slide indicators sit
+   under (not over) the image. Bottom is taller than top so the
+   indicator dots have room. Scoped to #carousel so the gallery
+   carousels keep their original Bootstrap framing. */
+#carousel {
   background-color: #fff;
   padding: 1.125rem 0 2.25rem;
 }
 
-/* Move indicators into the bottom padding area, directly under the image. */
-.carousel-indicators {
+#carousel .carousel-indicators {
   bottom: 0.4rem;
   margin-bottom: 0;
 }
 
-/* Indicator dots sit on a white padding background in both themes,
-   so always use a dark, semi-transparent fill. */
-.carousel-indicators [data-bs-target] {
+#carousel .carousel-indicators [data-bs-target] {
   background-color: rgba(0, 0, 0, 0.55);
 }
 
@@ -684,6 +685,28 @@ hr {
   blockquote {
     padding: 1rem;
   }
+}
+
+/* Easter-egg hearts that rain when the professor's name is clicked 5x.
+   Driven by js/easter-egg.js, which sets per-instance left/font-size/
+   duration inline. */
+.easter-heart {
+  position: fixed;
+  top: -2.5rem;
+  color: #ff3b6e;
+  pointer-events: none;
+  z-index: 9999;
+  user-select: none;
+  filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.2));
+  animation-name: easter-heart-fall;
+  animation-timing-function: linear;
+  animation-fill-mode: forwards;
+}
+
+@keyframes easter-heart-fall {
+  0%   { transform: translateY(0)     rotate(0deg);   opacity: 0.9; }
+  90%  { opacity: 0.9; }
+  100% { transform: translateY(110vh) rotate(360deg); opacity: 0;   }
 }
 
 /* ===== Badge overrides ===== */

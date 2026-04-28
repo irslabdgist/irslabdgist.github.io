@@ -9,11 +9,11 @@ permalink: /team/jaeho
 <div class="row">
 <div class="col-sm-3 clearfix">
 <p style="text-align: center;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Jaeho2.jpg" width="95%">
+<img id="prof-photo" src="{{ site.url }}{{ site.baseurl }}/images/teampic/Jaeho2.jpg" width="95%">
 </p>
 </div>
 <div class="col-sm-9 clearfix" style="margin-top: 2%">
-<h4>Jae-Ho Choi, Ph.D.</h4>
+<h4 id="prof-name">Jae-Ho Choi, Ph.D.</h4>
 <span>I am an Assistant Professor at Department of Electrical Engineering and Computer Science (EECS) and Deptartment of Interdisciplinary Studies of Artificial Intelligence (AI), <a href="https://www.dgist.ac.kr/eng/index.do" target="blank">DGIST</a>, Daegu, Korea, since 2024.<br></span> 
 
 <span>From 2023 to 2024, I was a Postdoctoral Scholar in <a href="https://ee.stanford.edu/" target="blank">Department of Electrical Engineering</a> (advised by Prof. <a href="https://arbabianlab.stanford.edu/" target="blank">Amin Arbabian</a>) at <a href="https://www.stanford.edu/" target="blank">Stanford University</a>, Stanford, CA, US. I received the M.S. and Ph.D. degree in Electrical Engineering from <a href="https://postech.ac.kr/eng/" target="blank">POSTECH</a> (advised by Prof. <a href="http://iras.postech.ac.kr/main/index.php" target="blank">Kyung-Tae Kim</a>), Pohang, Korea, in 2019 and 2023, respectively. I completed the B.S. degree in Computer Science from <a href="https://www.korea.edu/sites/en/index.do" target="blank">Korea University</a>, Seoul, Korea, in 2017.<br></span>
