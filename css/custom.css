@@ -56,11 +56,7 @@
 body {
   font-family: 'Inter', 'Noto Sans KR', -apple-system, BlinkMacSystemFont, sans-serif;
   padding-top: 80px;
-  /* Tighter editorial typography: shorter line-height and a slight
-     negative letter-spacing for a calmer, more compact feel without
-     changing body size. */
-  line-height: 1.5;
-  letter-spacing: -0.01em;
+  line-height: 1.7;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -194,11 +190,11 @@ img {
   margin-bottom: 1.5rem;
   margin-top: 1rem;
   box-shadow: 0 2px 16px rgba(0, 0, 0, 0.1);
-  /* Equal white padding top and bottom so the slide indicators sit
-     in the bottom whitespace and the image is vertically framed.
-     Stays white in both light and dark modes per design. */
+  /* White padding top + bottom: bottom holds the slide indicators,
+     top is half of the bottom for a lighter visual weight above
+     the image. Stays white in both light and dark modes per design. */
   background-color: #fff;
-  padding: 2.25rem 0 2.25rem;
+  padding: 1.125rem 0 2.25rem;
 }
 
 /* Move indicators into the bottom padding area, directly under the image. */
@@ -597,6 +593,10 @@ hr {
 @media (max-width: 767.98px) {
   body {
     padding-top: 60px;
+    /* Tighter editorial typography on phones only — desktop keeps
+       the looser 1.7 line-height for better long-form readability. */
+    line-height: 1.5;
+    letter-spacing: -0.01em;
   }
 
   .main-content {
