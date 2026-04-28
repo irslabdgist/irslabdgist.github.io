@@ -56,7 +56,11 @@
 body {
   font-family: 'Inter', 'Noto Sans KR', -apple-system, BlinkMacSystemFont, sans-serif;
   padding-top: 80px;
-  line-height: 1.7;
+  /* Tighter editorial typography: shorter line-height and a slight
+     negative letter-spacing for a calmer, more compact feel without
+     changing body size. */
+  line-height: 1.5;
+  letter-spacing: -0.01em;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -136,20 +140,25 @@ html {
   position: relative;
 }
 
+/* Underline grows from center outward via scaleX, sized to the text
+   plus ~1 character of breathing room on each side (so it doesn't
+   feel too cramped against the text edges). */
 #main-navbar .nav-link::after {
   content: '';
   position: absolute;
   bottom: 4px;
-  left: 50%;
-  width: 0;
+  left: 0.7rem;
+  right: 0.7rem;
   height: 2px;
   background-color: var(--color-accent-blue);
-  transition: width 0.3s ease, left 0.3s ease;
+  transform: scaleX(0);
+  transform-origin: center;
+  transition: transform 0.3s ease;
 }
 
-#main-navbar .nav-link:hover::after {
-  width: 60%;
-  left: 20%;
+#main-navbar .nav-link:hover::after,
+#main-navbar .nav-link:focus::after {
+  transform: scaleX(1);
 }
 
 #theme-toggle,
@@ -501,6 +510,14 @@ hr {
   font-size: 1.05rem;
 }
 
+/* Email row (the unclassed <span> after .member-role in team.md). The
+   email is the most width-constrained element in the card, so let it
+   scale with the viewport: full size on wide screens, smoothly down
+   to ~0.72rem when the card gets narrow. */
+.member-card > span:not([class]) {
+  font-size: clamp(0.72rem, 1.6vw, 1rem);
+}
+
 /* ===== Gallery ===== */
 .gallery-event {
   max-width: 800px;
@@ -534,6 +551,37 @@ hr {
 @media (max-width: 991.98px) {
   body {
     padding-top: 66px;
+  }
+
+  /* Mobile/tablet hamburger button: drop Bootstrap's harsh border and
+     instead respond to press with a soft drop shadow + subtle bg tint. */
+  .navbar-toggler {
+    border: none;
+    padding: 0.45rem 0.6rem;
+    border-radius: 8px;
+    transition: box-shadow 0.2s ease, background-color 0.2s ease;
+  }
+
+  .navbar-toggler:focus {
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.18);
+    outline: 0;
+  }
+
+  .navbar-toggler:active {
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.22);
+    background-color: rgba(0, 0, 0, 0.05);
+  }
+
+  [data-bs-theme="dark"] .navbar-toggler:active {
+    background-color: rgba(255, 255, 255, 0.07);
+  }
+
+  /* In the collapsed mobile menu, .nav-link defaults to display:block
+     and stretches to the row width, so the hover underline ended up
+     spanning the whole row. Shrink it to its text width (left-aligned
+     as before) so the underline only sits below "Home" / "Research" / etc. */
+  #main-navbar .navbar-nav .nav-link {
+    display: inline-block;
   }
 
   .gallery-event .carousel-item img {
