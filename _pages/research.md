@@ -16,8 +16,10 @@ Our goal is to develop new sensing technologies to see the world from from entir
 
 -----
 
+<div class="research-block" markdown="1">
+
 #### Wireless-Centric AI
-<span style="font-size: 18px; color:#0080FF"><i>"How to fully unleash the power of AI for wireless signals?"</i></span>
+<span style="font-size: 18px; color:var(--color-text-blue)"><i>"How to fully unleash the power of AI for wireless signals?"</i></span>
 
 * Radar Signal Processing + AI
 * Wireless Foundation Model
@@ -28,10 +30,14 @@ Our goal is to develop new sensing technologies to see the world from from entir
  <img src="{{ site.url }}{{ site.baseurl }}/images/research_1.jpg" width="100%">
 </p>
 
+</div>
+
 -----
 
+<div class="research-block" markdown="1">
+
 #### Innovative Wireless+X Perception Systems
-<span style="font-size: 18px; color:#0080FF"><i>"How to achieve new perception technologies/applications that can see beyond human vision?"</i></span>
+<span style="font-size: 18px; color:var(--color-text-blue)"><i>"How to achieve new perception technologies/applications that can see beyond human vision?"</i></span>
 
 * Nex Sensing Technologies for Various Application Areas (e.g. Health Monitoring, IoT, Defense)
 * Micro-Motion Sensing
@@ -42,10 +48,14 @@ Our goal is to develop new sensing technologies to see the world from from entir
  <img src="{{ site.url }}{{ site.baseurl }}/images/research_2.jpg" width="100%">
 </p>
 
+</div>
+
 -----
 
+<div class="research-block" markdown="1">
+
 #### Multi-Modal/Multi-Sensor Fusion
-<span style="font-size: 18px; color:#0080FF"><i>"How to achieve generalized perception capabilities by combining different physical capabilities of diverse sensors?"</i></span>
+<span style="font-size: 18px; color:var(--color-text-blue)"><i>"How to achieve generalized perception capabilities by combining different physical capabilities of diverse sensors?"</i></span>
 
 * Multi-Sensor Fusion
 * Multi-Modal Learning
@@ -54,6 +64,8 @@ Our goal is to develop new sensing technologies to see the world from from entir
 <p align="center">
  <img src="{{ site.url }}{{ site.baseurl }}/images/research_3.jpg" width="100%">
 </p>
+
+</div>
 
 
 <br><br>

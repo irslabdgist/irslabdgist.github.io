@@ -76,15 +76,15 @@ Our goal is to develop new sensing technologies to see the world from from entir
       <li>2026.04. - Our lab will be funded by <b>KIOST</b>, 2026~2030.</li>
       <li>2026.03. - Our lab has been selected for <b>NRF 신진연구-유형B</b>, 2026~2031.</li>
       <li>2026.02. - One paper has been accepted to <b>CVPR'26-Findings</b>.</li>
-      <li>2026.02. - 4 Grad students (<b>동욱</b>, <b>범준</b>, <b>민경</b>, <b>정우</b>) and 1 Undergrad student (<b>윤중</b>)  joined our lab! </li>
+      <li>2026.02. - 4 Grad students (<b>Donguk</b>, <b>Bumjoon</b>, <b>Minkyoung</b>, <b>Jeongwoo</b>) and 1 Undergrad student (<b>Yunjung</b>)  joined our lab! </li>
       <li>2025.11. - Our lab is funded by <b>국방과학연구소 룬샷 프로젝트</b>, 2025~2026.</li>
       <li>2025.11. - One paper has been accepted to <b>WACV'26</b>.</li>
       <li>2025.11. - <b>Dr. Dohyun Park</b> joined our lab as a Postdoc!</li>
       <li>2025.10. - Prof. Choi has been selected as a Top Reviewer in <b>NeurIPS 2025</b>!</li>
-      <li>2025.09. - 1 Postdoc (<b>Yazdan</b>) and 1 Undergrad researcher (<b>Jaewon</b>) joined our lab!</li>
+      <li>2025.09. - 1 Postdoc (<b>Yazdan</b>) and 1 Undergrad researcher (<b>Jaeone</b>) joined our lab!</li>
       <li>2025.09. - Our lab is funded by <b>NRF 우수신진사업-씨앗</b>, 2025~2026.</li>
-      <li>2025.08. - 2 Postdocs (<b>Jaehyeon</b>, <b>Jeongwan</b>) joined our lab! </li>
-      <li>2025.08. - 2 Graduate students (<b>Eunchan</b>, <b>Jihyeok</b>) joined our lab! </li>
+      <li>2025.08. - 2 Postdocs (<b>Jaehyun</b>, <b>Jeongwan</b>) joined our lab! </li>
+      <li>2025.08. - 2 Graduate students (<b>Eunchan</b>, <b>Jihyuck</b>) joined our lab! </li>
       <li>2025.07. - Summer internships for 3 students - <b>Uhyeok, Donguk, Dohyeok</b> </li>
       <li>2025.07. - 2 Undergrad researchers (<b>Nahyeon, Jaeryong</b>) joined our lab!</li>
       <li>2025.06. - Our lab is funded by <b>two MSIT InnoCORE projects (InnoCORE 사업)</b>, 2025~2029. (<b><a href="https://modern-plutonium-519.notion.site/Postdoc-Hiring-21ed30c1d89b8085be8bc9e23719da51">We're actively hiring Postdocs</a></b>)</li>

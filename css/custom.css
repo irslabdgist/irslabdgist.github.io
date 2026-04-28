@@ -1,3 +1,34 @@
+/* ===== Brand Key Colors (shared across light/dark) =====
+   Source: lab brand guideline (CMYK).
+   --key-blue-1: C100 M72 Y0 K18 — darkest, primary key color
+   --key-blue-2: C91  M43 Y0 K0  — secondary blue
+   --key-blue-3: C72  M0  Y0 K0  — lightest sky
+*/
+:root {
+  --key-blue-1: #003BD1;
+  --key-blue-1-rgb: 0, 59, 209;
+  --key-blue-2: #1791FF;
+  --key-blue-2-rgb: 23, 145, 255;
+  --key-blue-3: #47FFFF;
+  --key-blue-3-rgb: 71, 255, 255;
+}
+
+/* Semantic blues: blue text and blue decoration accents swap between
+   themes so contrast reads naturally in both modes.
+     Light mode → text = darkest, accent = secondary
+     Dark mode  → text = secondary, accent = darkest
+*/
+:root,
+[data-bs-theme="light"] {
+  --color-text-blue: var(--key-blue-1);
+  --color-accent-blue: var(--key-blue-2);
+}
+
+[data-bs-theme="dark"] {
+  --color-text-blue: var(--key-blue-2);
+  --color-accent-blue: var(--key-blue-1);
+}
+
 /* ===== Theme Colors (Light) ===== */
 :root,
 [data-bs-theme="light"] {
@@ -86,6 +117,17 @@ html {
   letter-spacing: -0.02em;
 }
 
+/* DGIST logo placed inline after "IRS Lab @" in the navbar brand.
+   Sized at 1.35em (-10% from initial 1.5em) per design feedback. */
+#main-navbar .navbar-logo {
+  height: 1.35em;
+  width: auto;
+  margin: 0 0 0 0.15em;
+  padding: 0;
+  border-radius: 0;
+  vertical-align: -0.25em;
+}
+
 #main-navbar .nav-link {
   font-weight: 500;
   font-size: 0.92rem;
@@ -101,7 +143,7 @@ html {
   left: 50%;
   width: 0;
   height: 2px;
-  background-color: var(--bs-primary);
+  background-color: var(--color-accent-blue);
   transition: width 0.3s ease, left 0.3s ease;
 }
 
@@ -143,6 +185,23 @@ img {
   margin-bottom: 1.5rem;
   margin-top: 1rem;
   box-shadow: 0 2px 16px rgba(0, 0, 0, 0.1);
+  /* Equal white padding top and bottom so the slide indicators sit
+     in the bottom whitespace and the image is vertically framed.
+     Stays white in both light and dark modes per design. */
+  background-color: #fff;
+  padding: 2.25rem 0 2.25rem;
+}
+
+/* Move indicators into the bottom padding area, directly under the image. */
+.carousel-indicators {
+  bottom: 0.4rem;
+  margin-bottom: 0;
+}
+
+/* Indicator dots sit on a white padding background in both themes,
+   so always use a dark, semi-transparent fill. */
+.carousel-indicators [data-bs-target] {
+  background-color: rgba(0, 0, 0, 0.55);
 }
 
 .carousel-item img {
@@ -155,11 +214,60 @@ img {
   object-fit: cover;
 }
 
-/* ===== Home ===== */
-#homeid h1 {
+/* AOS fade-up: shorten travel distance so entrance matches the
+   publication "All" button transition (translateY 15px instead of
+   AOS's default 100px). Combined with AOS.init({duration: 400,
+   easing: 'ease'}) this unifies all body-content entry animations. */
+[data-aos="fade-up"] {
+  transform: translate3d(0, 15px, 0);
+}
+
+/* AOS fade-left (used by home News list): keep the entry close to its
+   final position. AOS default is 100px; tuned down to 25px after iteration. */
+[data-aos="fade-left"] {
+  transform: translate3d(25px, 0, 0);
+}
+
+/* Home carousel arrows: keep them visible on light theme.
+   Bootstrap renders white SVG icons by default which disappear on
+   bright photo regions, so add a dark halo on light mode. In dark
+   mode, invert the icon (white → black) and use a light halo, so
+   the arrows feel theme-appropriate (darker) and stay readable. */
+#carousel .carousel-control-prev-icon,
+#carousel .carousel-control-next-icon {
+  filter: drop-shadow(0 0 6px rgba(0, 0, 0, 0.7));
+}
+
+[data-bs-theme="dark"] #carousel .carousel-control-prev-icon,
+[data-bs-theme="dark"] #carousel .carousel-control-next-icon {
+  filter: invert(1) drop-shadow(0 0 6px rgba(255, 255, 255, 0.55));
+}
+
+/* Halve the button track width (15% → 7.5%) so the arrow icon sits
+   half as far from the outer edge of the carousel. */
+#carousel .carousel-control-prev,
+#carousel .carousel-control-next {
+  width: 7.5%;
+}
+
+/* ===== Page main title (unified across all tabs) =====
+   Home's <h1> is rendered inside #homeid by homelay.html. Other pages
+   render their first heading (h1 or h2) at the top of their .col-12
+   wrapper. Match all of them to the same size for visual consistency. */
+#homeid h1,
+.main-content > .row > .col-12 > h1:first-child,
+.main-content > .row > .col-12 > h2:first-child {
   font-size: 1.65rem;
   font-weight: 700;
   margin-bottom: 1rem;
+}
+
+/* Sub-section headings (e.g., "International Publications" h3 in
+   publications.md). Sized below the page main title so the hierarchy
+   reads correctly. */
+.main-content h3 {
+  font-size: 1.2rem;
+  font-weight: 600;
 }
 
 #homeid img {
@@ -180,7 +288,7 @@ img {
 }
 
 .notice-card {
-  border-left: 4px solid var(--bs-primary);
+  border-left: 4px solid var(--color-accent-blue);
 }
 
 .news-card .list-unstyled li {
@@ -219,13 +327,24 @@ img {
 
 /* ===== Publications ===== */
 .pub-entry {
-  padding: 1rem 0;
+  padding: 1rem 0.75rem;
+  margin: 0 -0.75rem;
   border-bottom: 1px solid var(--section-border);
-  transition: opacity 0.3s ease, max-height 0.3s ease;
+  border-radius: 8px;
+  position: relative;
+  transition: opacity 0.3s ease, max-height 0.3s ease,
+              box-shadow 0.3s ease, transform 0.3s ease;
 }
 
 .pub-entry:last-child {
   border-bottom: none;
+}
+
+/* Same hover lift + shadow as the home Notice/News cards. */
+.pub-entry:hover {
+  box-shadow: var(--card-hover-shadow);
+  transform: translateY(-3px);
+  z-index: 1;
 }
 
 .pub-entry h4 {
@@ -265,9 +384,9 @@ img {
 
 .pub-filter-btn:hover,
 .pub-filter-btn.active {
-  background-color: var(--bs-primary);
+  background-color: var(--color-accent-blue);
   color: #fff;
-  border-color: var(--bs-primary);
+  border-color: var(--color-accent-blue);
 }
 
 /* ===== Pic Page ===== */
@@ -311,7 +430,7 @@ p.byline {
 
 /* ===== Blockquote as Notice ===== */
 blockquote {
-  border-left: 4px solid var(--bs-primary);
+  border-left: 4px solid var(--color-accent-blue);
   padding: 1.25rem 1.5rem;
   border-radius: 0 8px 8px 0;
   background-color: var(--pub-highlight-bg);
@@ -436,7 +555,9 @@ hr {
     padding-top: 1rem;
   }
 
-  #homeid h1 {
+  #homeid h1,
+  .main-content > .row > .col-12 > h1:first-child,
+  .main-content > .row > .col-12 > h2:first-child {
     font-size: 1.35rem;
   }
 
@@ -478,12 +599,30 @@ hr {
     margin-bottom: 1rem;
   }
 
+  /* Mobile pub entry: slightly tighter padding, lighter title weight,
+     and a subtle indent on the venue/author lines so the entry reads
+     as a paragraph instead of three bold-ish stacked lines. */
   .pub-entry {
-    padding: 0.75rem 0;
+    padding: 0.75rem 0.5rem;
+    margin: 0 -0.5rem;
   }
 
   .pub-entry h4 {
     font-size: 0.95rem;
+    font-weight: 500;
+  }
+
+  .pub-entry h5,
+  .pub-entry h6,
+  .pub-entry em {
+    padding-left: 0.5rem;
+  }
+
+  /* Long emails on member cards wrap to next line instead of
+     overflowing the card on narrow screens. */
+  .member-card {
+    overflow-wrap: anywhere;
+    word-break: break-word;
   }
 
   .gallery-event .carousel-item img {
@@ -503,4 +642,34 @@ hr {
 .badge {
   font-weight: 500;
   font-size: 0.75rem;
+}
+
+/* Research page: hover lift on each agenda block (3 sections under
+   "Research Agenda"). Each block is wrapped in <div class="research-block">
+   in research.md. */
+.research-block {
+  padding: 1rem 1rem;
+  margin: 1rem -1rem;
+  border-radius: 10px;
+  position: relative;
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.research-block:hover {
+  box-shadow: var(--card-hover-shadow);
+  transform: translateY(-3px);
+}
+
+/* Member role badges (scoped to .member-card so publication "Top Conf."
+   badges and other site-wide bg-primary usages stay untouched).
+   - bg-primary (Professor / Postdoc Fellow) → darkest brand blue
+   - bg-info    (PhD / MS students)          → brand sky blue
+   - bg-secondary (undergrad / visitor)      → keep Bootstrap gray */
+.member-card .badge.bg-primary {
+  background-color: var(--key-blue-1) !important;
+}
+
+.member-card .badge.bg-info {
+  background-color: var(--key-blue-2) !important;
+  color: #fff !important;
 }
