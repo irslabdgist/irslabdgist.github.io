@@ -118,14 +118,64 @@ html {
 }
 
 /* DGIST logo placed inline after "IRS Lab @" in the navbar brand.
-   Sized at 1.35em (-10% from initial 1.5em) per design feedback. */
+   Sized at 1.28em (-5% from 1.35em) and pulled left by ~¼ character
+   (margin-left: -0.1em ≈ 0.15em previous spacing − 0.25em shift) to
+   tighten the gap between "@" and the logo. */
 #main-navbar .navbar-logo {
-  height: 1.35em;
+  height: 1.28em;
   width: auto;
-  margin: 0 0 0 0.15em;
+  margin: 0 0 0 -0.1em;
   padding: 0;
   border-radius: 0;
-  vertical-align: -0.25em;
+  vertical-align: -0.22em;
+}
+
+/* "IRS Lab" wrapped in its own span so the rapid-refresh easter egg
+   can wobble it independently of the DGIST logo on the other side. */
+#main-navbar .brand-left {
+  display: inline-block;
+  transform-origin: center bottom;
+}
+
+/* Home-click easter egg: triggered by adding .brand-wobble to <html>
+   (see js/home-egg.js). "IRS Lab" and the DGIST logo wobble in sync
+   while the "@" between them is plain inline text and stays still. */
+.brand-wobble #main-navbar .brand-left,
+.brand-wobble #main-navbar .navbar-logo {
+  animation: brand-wobble 1.6s ease-in-out 1;
+  transform-origin: center bottom;
+}
+
+/* Quarter-amplitude wobble (halved twice from the original demo). */
+@keyframes brand-wobble {
+  0%   { transform: rotate(0deg);     }
+  15%  { transform: rotate(-1.75deg); }
+  30%  { transform: rotate(1.25deg);  }
+  45%  { transform: rotate(-1deg);    }
+  60%  { transform: rotate(0.75deg);  }
+  78%  { transform: rotate(-0.5deg);  }
+  100% { transform: rotate(0deg);     }
+}
+
+/* Whole-brand tremor for the rapid-click follow-up egg (3+ Home clicks
+   within 3 seconds while on the home page). Each rapid click restarts
+   the animation, so spamming it produces a sustained "부르르" feel. */
+.brand-vibrate {
+  animation: brand-vibrate 0.6s linear 1;
+}
+
+@keyframes brand-vibrate {
+  0%   { transform: translate(0, 0); }
+  10%  { transform: translate(-1.5px,  1.5px); }
+  20%  { transform: translate( 1.5px, -1.5px); }
+  30%  { transform: translate(-1.5px, -1px);   }
+  40%  { transform: translate( 1.5px,  1px);   }
+  50%  { transform: translate(-1px,    1.5px); }
+  60%  { transform: translate( 1px,   -1.5px); }
+  70%  { transform: translate(-1px,   -1px);   }
+  80%  { transform: translate( 1px,    1px);   }
+  90%  { transform: translate(-0.5px,  0.5px); }
+  100% { transform: translate(0, 0); }
 }
 
 #main-navbar .nav-link {
@@ -534,14 +584,31 @@ hr {
 }
 
 .gallery-event .carousel-item img {
-  margin: 0;
+  margin: 0 !important;
   padding: 0;
+  border: 0;
   border-radius: 0;
-  width: 100%;
+  width: 100% !important;
+  max-width: 100%;
   height: 500px;
   object-fit: contain;
-  background-color: #000;
+  object-position: 50% 50%;
+  /* Letterbox fill follows the page background instead of a hard
+     black so the framing blends with both light and dark themes. */
+  background-color: var(--bs-body-bg);
   display: block;
+  box-sizing: border-box;
+}
+
+/* Gallery slide indicators: dark dots on the light theme (was invisible
+   on white-ish letterbox), inverted to light dots on dark theme.
+   Mirrors the contrast logic used for the home carousel. */
+.gallery-event .carousel-indicators [data-bs-target] {
+  background-color: rgba(0, 0, 0, 0.55);
+}
+
+[data-bs-theme="dark"] .gallery-event .carousel-indicators [data-bs-target] {
+  background-color: rgba(255, 255, 255, 0.6);
 }
 
 /* ===== Responsive: Tablet (768px–991px) ===== */
@@ -604,10 +671,16 @@ hr {
     padding-top: 1rem;
   }
 
+  /* Mobile main-title sizing + breathing room from the navbar.
+     The first-child selector catches the page title on home, research,
+     members, publications, gallery, and contact. The professor page
+     (jaeho) buries its h4 inside nested .row/.col divs, so it doesn't
+     match this rule and stays at its original tight position. */
   #homeid h1,
   .main-content > .row > .col-12 > h1:first-child,
   .main-content > .row > .col-12 > h2:first-child {
     font-size: 1.35rem;
+    margin-top: 0.5em;
   }
 
   .carousel {
@@ -713,6 +786,14 @@ hr {
 .badge {
   font-weight: 500;
   font-size: 0.75rem;
+}
+
+/* Research page hero image: extend the image's visible white area
+   upward with a white top border. This adds breathing room *inside*
+   the image frame (preserving the existing border-radius and the
+   gap between the heading and the image). */
+#textid > p:first-of-type > img {
+  border-top: 1em solid #fff;
 }
 
 /* Research page: hover lift on each agenda block (3 sections under
