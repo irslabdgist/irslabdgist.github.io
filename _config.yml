@@ -17,6 +17,16 @@ include:
   - .htaccess
   - _pages
 
+# Files/folders excluded from the built site (local dev tooling, scripts).
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - docker-compose.yml
+  - vendor/
+  - _scripts/
+  - README.md
+  - .DS_Store
+
 # sass:
 #   sass_dir: _sass
 

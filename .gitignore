@@ -4,3 +4,6 @@ _site
 .jekyll-cache/
 .DS_Store
 CLAUDE.md
+vendor/
+.bundle/
+node_modules/
