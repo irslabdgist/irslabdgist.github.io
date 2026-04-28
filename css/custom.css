@@ -157,6 +157,16 @@ html {
   100% { transform: rotate(0deg);     }
 }
 
+/* When the brand-link easter egg replaces "@" with a random emoji,
+   only that emoji wobbles — the surrounding "IRS Lab" text and DGIST
+   logo stay still (the brand-wide wobble is reserved for the Home
+   nav-link path). */
+#main-navbar .brand-emoji-wobble {
+  display: inline-block;
+  transform-origin: center bottom;
+  animation: brand-wobble 1.6s ease-in-out 1;
+}
+
 /* Whole-brand tremor for the rapid-click follow-up egg (3+ Home clicks
    within 3 seconds while on the home page). Each rapid click restarts
    the animation, so spamming it produces a sustained "부르르" feel. */

@@ -115,11 +115,15 @@
   if (brandLink) {
     brandLink.addEventListener('click', function () {
       try { sessionStorage.setItem(EMOJI_FLAG, '1'); } catch (e) {}
+      // Note: deliberately NOT pushing a click timestamp here — the
+      // brand-wide wobble is reserved for the Home nav-link path. For
+      // this egg, only the freshly-inserted emoji wobbles (see below).
     });
   }
 
-  // On home: if the flag is set, swap " @ " for a random emoji and
-  // clear the flag (so a regular refresh restores the original "@").
+  // On home: if the flag is set, swap " @ " for a random emoji wrapped
+  // in a span that wobbles on its own, and clear the flag (so a regular
+  // refresh restores the original "@").
   if (isHome()) {
     var emojiFlag = null;
     try { emojiFlag = sessionStorage.getItem(EMOJI_FLAG); } catch (e) {}
@@ -127,7 +131,10 @@
       try { sessionStorage.removeItem(EMOJI_FLAG); } catch (e) {}
       if (brandLink) {
         var pick = CORNER_EMOJIS[Math.floor(Math.random() * CORNER_EMOJIS.length)];
-        brandLink.innerHTML = brandLink.innerHTML.replace(' @ ', ' ' + pick + ' ');
+        brandLink.innerHTML = brandLink.innerHTML.replace(
+          ' @ ',
+          ' <span class="brand-emoji-wobble">' + pick + '</span> '
+        );
       }
     }
   }
