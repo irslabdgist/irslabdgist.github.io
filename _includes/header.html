@@ -1,9 +1,20 @@
 <nav class="navbar navbar-expand-lg fixed-top" id="main-navbar">
   <div class="container">
     <a class="navbar-brand fw-bold" href="{{ site.url }}{{ site.baseurl }}/"><span class="brand-left">IRS Lab</span> @ <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dgist_logo.png" alt="DGIST" class="navbar-logo"></a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-collapse-1" aria-controls="navbar-collapse-1" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
+
+    <!-- Mobile only: theme toggle sits next to the hamburger button.
+         The desktop theme/search controls (inside .navbar-collapse below)
+         are hidden on phones via d-none.d-lg-flex. -->
+    <div class="d-flex d-lg-none align-items-center mobile-nav-controls">
+      <button class="btn btn-link nav-link p-1 me-2 theme-toggle-btn" id="theme-toggle-mobile" aria-label="Toggle theme" title="Toggle theme">
+        <i class="bi bi-moon-fill theme-icon-dark"></i>
+        <i class="bi bi-sun-fill theme-icon-light" style="display:none;"></i>
+      </button>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-collapse-1" aria-controls="navbar-collapse-1" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+    </div>
+
     <div class="collapse navbar-collapse" id="navbar-collapse-1">
       <ul class="navbar-nav ms-auto">
         <li class="nav-item"><a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/">Home</a></li>
@@ -14,13 +25,14 @@
         <li class="nav-item"><a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/gallery">Gallery</a></li>
         <li class="nav-item"><a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/vacancies">Contact</a></li>
       </ul>
-      <div class="d-flex align-items-center ms-lg-3">
+      <!-- Desktop only: search + theme toggle on the right side of nav. -->
+      <div class="d-none d-lg-flex align-items-center ms-lg-3">
         <button class="btn btn-link nav-link p-1 me-2" id="search-toggle" aria-label="Search" title="Search">
           <i class="bi bi-search"></i>
         </button>
-        <button class="btn btn-link nav-link p-1" id="theme-toggle" aria-label="Toggle theme" title="Toggle theme">
-          <i class="bi bi-moon-fill" id="theme-icon-dark" style="display:none;"></i>
-          <i class="bi bi-sun-fill" id="theme-icon-light" style="display:none;"></i>
+        <button class="btn btn-link nav-link p-1 theme-toggle-btn" id="theme-toggle" aria-label="Toggle theme" title="Toggle theme">
+          <i class="bi bi-moon-fill theme-icon-dark" id="theme-icon-dark" style="display:none;"></i>
+          <i class="bi bi-sun-fill theme-icon-light" id="theme-icon-light" style="display:none;"></i>
         </button>
       </div>
     </div>

@@ -217,16 +217,26 @@ html {
   transform: scaleX(1);
 }
 
-#theme-toggle,
+.theme-toggle-btn,
 #search-toggle {
   font-size: 1.05rem;
   opacity: 0.7;
   transition: opacity 0.2s ease;
 }
 
-#theme-toggle:hover,
+.theme-toggle-btn:hover,
 #search-toggle:hover {
   opacity: 1;
+}
+
+/* Mobile theme toggle next to the hamburger: shrunk to ~2/3 of the
+   menu-button size so it doesn't outweigh the hamburger. Nudged
+   1em right and 0.25em down for visual alignment. */
+#theme-toggle-mobile {
+  font-size: 0.63rem;
+  position: relative;
+  left: 0.75em;
+  top: 0.125em;
 }
 
 /* ===== Footer ===== */
