@@ -233,10 +233,15 @@ html {
    menu-button size so it doesn't outweigh the hamburger. Nudged
    1em right and 0.25em down for visual alignment. */
 #theme-toggle-mobile {
-  font-size: 0.63rem;
+  /* Bootstrap's button padding is in rem, so changing font-size alone
+     only shrunk the glyph, not the visible box. Use transform:scale
+     instead so the entire button (icon + padding + halo) actually
+     shrinks together. */
   position: relative;
-  left: 0.75em;
+  left: 1.25em;
   top: 0.125em;
+  transform: scale(0.8);
+  transform-origin: right center;
 }
 
 /* ===== Footer ===== */
@@ -641,18 +646,27 @@ hr {
      instead respond to press with a soft drop shadow + subtle bg tint. */
   .navbar-toggler {
     border: none;
-    padding: 0.45rem 0.6rem;
     border-radius: 8px;
     transition: box-shadow 0.2s ease, background-color 0.2s ease;
+    /* Tighter horizontal padding so the button (and the focus/active
+       shadow halo that traces it) is ~20% narrower without affecting
+       the icon glyph's bar length. */
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    /* Visually shrink the whole button (icon + padding + halo) to
+       70% in each dimension, anchored at the right so it stays
+       glued to the navbar's right edge. */
+    transform: scale(0.7);
+    transform-origin: right center;
   }
 
   .navbar-toggler:focus {
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.18);
+    box-shadow: 0 1px 5.6px rgba(0, 0, 0, 0.18);
     outline: 0;
   }
 
   .navbar-toggler:active {
-    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.22);
+    box-shadow: 0 1px 3.2px rgba(0, 0, 0, 0.22);
     background-color: rgba(0, 0, 0, 0.05);
   }
 
@@ -806,6 +820,27 @@ hr {
 .badge {
   font-weight: 500;
   font-size: 0.75rem;
+}
+
+/* Oral-badge easter egg: clicking the publication "Oral" badge 3
+   times runs a wobble → shrink → swap (Oral ⇄ 🐤) → grow → wobble
+   sequence. State lives only in the DOM, so a refresh resets the
+   count. The page-load wobble is also half the brand-wobble amplitude
+   so the badges greet the visitor with a small jiggle. */
+.badge.bg-warning {
+  display: inline-block;
+  transition: transform 0.25s ease;
+}
+
+.badge.bg-warning.badge-shrink {
+  transform: scale(0);
+}
+
+.badge.bg-warning.oral-wobble {
+  /* Reuse the brand-wobble keyframes directly so the Oral badge
+     jiggles at the same amplitude as the navbar brand. */
+  animation: brand-wobble 1.6s ease-in-out 1;
+  transform-origin: center bottom;
 }
 
 /* Research page hero image: extend the image's visible white area
