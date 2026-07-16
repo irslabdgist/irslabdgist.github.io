@@ -29,7 +29,7 @@ permalink: /team/
 <span class="intern-text"><b>[2026 Summer]</b> 윤재원, 최준원 <br></span>
 
 
-<br>원
+<br>
 <blockquote>
   <h4><strong>Notice</strong></h4>
   <span class="notice-text">We are looking for passionate students (<b>PhD/MS students</b> and <b>Undergrad. interns</b>) to join IRS Lab.<br></span>
