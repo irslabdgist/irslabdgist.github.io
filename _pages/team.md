@@ -26,8 +26,10 @@ permalink: /team/
 <span class="intern-text"><b>[2025 Summer]</b> 고동욱, 권우혁, 남도혁, 이재룡 <br></span>
 <span class="intern-text"><b>[2025.07 ~ 2025.12]</b> 김나현 <br></span>
 <span class="intern-text"><b>[2026 Winter]</b> 이재룡, 윤재원, 정윤중 <br></span>
+<span class="intern-text"><b>[2026 Summer]</b> 윤재원, 최준원 <br></span>
 
-<br>
+
+<br>원
 <blockquote>
   <h4><strong>Notice</strong></h4>
   <span class="notice-text">We are looking for passionate students (<b>PhD/MS students</b> and <b>Undergrad. interns</b>) to join IRS Lab.<br></span>
