@@ -42,6 +42,21 @@
   info: <span class="badge bg-info text-dark">Joint MS & PhD</span>
   email: jh.hong@dgist.ac.kr
   number_educ: 0
+- name: Seongryeong Lee
+  photo: student_LSR.jpg
+  info: <span class="badge bg-info text-dark">PhD Student</span>
+  email: TBA
+  number_educ: 0
+- name: Jaeryong Lee
+  photo: student_LJR2.jpg
+  info: <span class="badge bg-info text-dark">Joint MS & PhD</span>
+  email: wofyd0826@dgist.ac.kr
+  number_educ: 0
+- name: Seungeun Kang
+  photo: student_KSE.jpg
+  info: <span class="badge bg-info text-dark">Joint MS & PhD</span>
+  email: seungeun.kang@dgist.ac.kr
+  number_educ: 0
 - name: Eunchan Kim
   photo: student_eunchan.jpg
   info: <span class="badge bg-info text-dark">MS Student</span>
@@ -67,10 +82,10 @@
   info: <span class="badge bg-info text-dark">MS Student</span>
   email: hanjw927@dgist.ac.kr
   number_educ: 0
-- name: Jaeryong Lee
-  photo: student_jaeryong.jpg
-  info: <span class="badge bg-secondary">Undergrad Researcher</span>
-  email: wofyd0826@dgist.ac.kr
+- name: Minjae Kim
+  photo: student_KMJ.jpg
+  info: <span class="badge bg-info text-dark">MS Student</span>
+  email: minjaek@dgist.ac.kr
   number_educ: 0
 - name: Jaeone Yun
   photo: student_JW.jpg
@@ -83,8 +98,4 @@
   email: ak0147@dgist.ac.kr
   url: https://yunjung-jeong.github.io/cv/
   number_educ: 0
-- name: Seongryeong Lee
-  photo: student_LSR.jpg
-  info: <span class="badge bg-secondary">Visiting Researcher</span>
-  email: TBA
-  number_educ: 0
+
