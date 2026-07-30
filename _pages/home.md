@@ -71,6 +71,7 @@ Our goal is to develop new sensing technologies to see the world from from entir
   <div class="card-body">
     <h5 class="card-title fw-bold">News</h5>
     <ul class="list-unstyled mb-0">
+      <li>2026.08. - 3 Grad students (<b>Seongryeong</b>, <b>Seungeun</b>, <b>Minjae</b>) joined our lab! </li>
       <li>2026.07. - Summer internships for 2 students - <b>Jaeone, Junwon</b></li>
       <li>2026.04. - Prof. Choi will serve as an Area Chair for <b>NeurIPS'26</b>.</li>
       <li>2026.04. - Our lab will be funded by <b>IITP</b>, 2026~2033.</li>
