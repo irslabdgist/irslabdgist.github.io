@@ -1,7 +1,7 @@
 - title: "딥러닝 해상 소형 표적 탐지를 위한 물리 모델 기반 레이더 신호 합성 및 학습 파이프라인"
   image: dummy.png
   authors:
-    <strong>Ji-Hyuck Hong</strong>, Eun-Chan Kim, Jae-Hyun Park, In-Oh Choi, Min Kim, Hun-Yong Shin, Dong-Young Kim, <strong>Jae-Ho Choi*</strong>
+    <strong>Ji-Hyuck Hong</strong>, <strong>Eun-Chan Kim</strong>, <strong>Jae-Hyun Park</strong>, In-Oh Choi, Min Kim, Hun-Yong Shin, Dong-Young Kim, <strong>Jae-Ho Choi*</strong>
   venue: KIEES
   year: 2026
   link:
@@ -10,7 +10,7 @@
 - title: "레이더 해상 클러터 시뮬레이터를 활용한 트랜스포머 기반 거리-도플러 표적 탐지"
   image: dummy.png
   authors:
-    <strong>Eun-Chan Kim</strong>, Jae-Hyeon Kim, Ji-Hyuck Hong, In-Oh Choi, Min Kim, Hun-Yong Shin, Dong-Young Kim, <strong>Jae-Ho Choi*</strong>
+    <strong>Eun-Chan Kim</strong>, <strong>Jae-Hyeon Kim</strong>, <strong>Ji-Hyuck Hong</strong>, In-Oh Choi, Min Kim, Hun-Yong Shin, Dong-Young Kim, <strong>Jae-Ho Choi*</strong>
   venue: KIEES
   year: 2026
   link:
@@ -19,7 +19,7 @@
 - title: "딥러닝 기반 교차 도메인 UAV 식별을 위한 레이더 마이크로 도플러 신호 증강 전략"
   image: dummy.png
   authors:
-    <strong>Ji-Hyuck Hong</strong>, Jae-Hyun Park, Ki-Bong Kang, Min Kim, Hun-Yong Shin, Dong-Young Kim, <strong>Jae-Ho Choi*</strong>
+    <strong>Ji-Hyuck Hong</strong>, <strong>Jae-Hyun Park</strong>, Ki-Bong Kang, Min Kim, Hun-Yong Shin, Dong-Young Kim, <strong>Jae-Ho Choi*</strong>
   venue: KIEES
   year: 2026
   link:
@@ -28,7 +28,7 @@
 - title: "확산 모델 기반 레이더-카메라 융합 깊이 추정에 관한 연구"
   image: dummy.png
   authors:
-    <strong>Jae-Ryong Lee</strong>, Jeong-Wan Shin, Hun-Yong Shin, Dong-Young Kim, Min Kim, <strong>Jae-Ho Choi*</strong>
+    <strong>Jae-Ryong Lee</strong>, <strong>Jeong-Wan Shin</strong>, Hun-Yong Shin, Dong-Young Kim, Min Kim, <strong>Jae-Ho Choi*</strong>
   venue: KIEES
   year: 2026
   link:
