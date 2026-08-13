@@ -1,3 +1,21 @@
+- title: "딥러닝 해상 소형 표적 탐지를 위한 물리 모델 기반 레이더 신호 합성 및 학습 파이프라인"
+  image: dummy.png
+  authors:
+    <strong>Ji-Hyuck Hong</strong>, Eun-Chan Kim, Jae-Hyun Park, In-Oh Choi, Min Kim, Hun-Yong Shin, Dong-Young Kim, <strong>Jae-Ho Choi*</strong>
+  venue: KIEES
+  year: 2026
+  link:
+    display: 한국전자파학회 하계종합학술대회, 2026
+    
+- title: "딥러닝 기반 교차 도메인 UAV 식별을 위한 레이더 마이크로 도플러 신호 증강 전략"
+  image: dummy.png
+  authors:
+    <strong>Ji-Hyuck Hong</strong>, Jae-Hyun Park, Ki-Bong Kang, Min Kim, Hun-Yong Shin, Dong-Young Kim, <strong>Jae-Ho Choi*</strong>
+  venue: KIEES
+  year: 2026
+  link:
+    display: 한국전자파학회 논문집, 2026
+    
 - title: "레이더 신호 특화적 AI 및 파운데이션 모델로의 확장"
   image: dummy.png
   authors:
