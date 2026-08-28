@@ -98,4 +98,8 @@
   email: ak0147@dgist.ac.kr
   url: https://yunjung-jeong.github.io/cv/
   number_educ: 0
-
+- name: Junhyung Gong
+  photo: student_jhgong.jpg
+  info: <span class="badge bg-secondary">Undergrad Researcher</span>
+  email: jhgong@dgist.ac.kr
+  number_educ: 0
