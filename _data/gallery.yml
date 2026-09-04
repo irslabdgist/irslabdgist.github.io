@@ -1,11 +1,3 @@
-- title: "2026.08 한국전자파학회 하계종합학술대회 참석"
-  folder: "202608_1"
-  images:
-    - 1.jpg
-    - 2.jpg
-    - 3.jpg
-    - 4.jpg
-
 - title: "2026.08 8월의 IRS 모음 🎡"
   folder: "202608_2"
   images:
@@ -25,6 +17,14 @@
     - 14.jpg
     - 15.jpg
     - 16.jpg
+
+- title: "2026.08 한국전자파학회 하계종합학술대회 참석"
+  folder: "202608_1"
+  images:
+    - 1.jpg
+    - 2.jpg
+    - 3.jpg
+    - 4.jpg
 
 - title: "2026.07 ICML 2026 참석"
   folder: "202607_2"
