@@ -51,7 +51,7 @@ permalink: /publications/
 {% for publi in site.data.publist_national %}
 <div class="row pub-entry" data-year="{{ publi.year }}">
   <div class="col-sm-12 clearfix" style="margin-top:-8px; margin-bottom:-8px;">
-  <h5>{{ publi.title }}{% if publi.award %} <span class="badge badge-award">🏅 {{ publi.award }}</span>{% elsif publi.title contains "물리 모델 기반 레이더 신호 합성 및 학습 파이프라인" %} <span class="badge badge-award">🏅 IEEE GRSS Seoul Chapter Chair Award</span>{% endif %}</h5>
+  <h5>{{ publi.title }}{% if publi.award %} <span class="badge badge-award">Award</span>{% elsif publi.title contains "물리 모델 기반 레이더 신호 합성 및 학습 파이프라인" %} <span class="badge badge-award">Award</span>{% endif %}</h5>
   <h6>{{ publi.link.display }}</h6>
   <em>{{ publi.authors }}</em>
   </div>

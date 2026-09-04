@@ -827,11 +827,9 @@ hr {
    (bg-warning), blue "Top Conf." (bg-primary), green "Top X%" (bg-success),
    and the cyan/gray member badges (bg-info / bg-secondary). */
 .badge.badge-award {
-  background: linear-gradient(135deg, #7d1128 0%, #b21e35 50%, #8c1c2b 100%);
+  background-color: #a01e34;
   color: #ffffff;
   font-weight: 600;
-  letter-spacing: 0.01em;
-  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.18);
 }
 
 /* Oral-badge easter egg: clicking the publication "Oral" badge 3
