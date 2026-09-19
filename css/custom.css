@@ -257,7 +257,7 @@ html {
    character left of the right edge; stays right-aligned on mobile too. */
 html[data-bs-theme="dark"] .footer-logo-light { display: none; }
 html:not([data-bs-theme="dark"]) .footer-logo-dark { display: none; }
-.footer-logo { margin-right: 0.9em; }
+.footer-logo { margin-right: 0.9em; transform: translateY(-1em); }
 
 /* ===== Images ===== */
 img {
