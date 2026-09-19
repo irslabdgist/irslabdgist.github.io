@@ -28,6 +28,32 @@ permalink: /team/
 <span class="intern-text"><b>[2025.07 ~ 2025.12]</b> 김나현 <br></span>
 <span class="intern-text"><b>[2025 Summer]</b> 고동욱, 권우혁, 남도혁, 이재룡 <br></span>
 
+<br>
+
+## Alumni
+<div class="row" markdown="0">
+<div class="col-6 col-md-3 clearfix">
+<div class="list-group">
+  <a href="https://jhynpark.github.io/" class="list-group-item member-card">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/student_jaehyunpark.jpg" class="img-fluid w-100" style="float: left" loading="lazy" alt="Jaehyun Park" />
+    <br><span class="member-name">Jaehyun Park<br></span>
+    <span class="member-role">Postdoc Fellow 2025–2026<br></span>
+    <span class="alumni-dest">NASA JPL<br></span>
+  </a>
+</div>
+</div>
+<div class="col-6 col-md-3 clearfix">
+<div class="list-group">
+  <a href="https://sites.google.com/view/dohyunpark" class="list-group-item member-card">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/postdoc_DH.jpg" class="img-fluid w-100" style="float: left" loading="lazy" alt="Dohyun Park" />
+    <br><span class="member-name">Dohyun Park<br></span>
+    <span class="member-role">Postdoc Fellow 2025–2026<br></span>
+    <span class="alumni-dest">NASA JPL<br></span>
+  </a>
+</div>
+</div>
+</div>
+
 
 <br>
 <blockquote>

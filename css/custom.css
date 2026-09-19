@@ -251,6 +251,14 @@ html {
   font-size: 0.9rem;
 }
 
+/* Footer lab logo (bottom-right). Transparent PNGs, one per theme:
+   light-mode (dark ink) on the light footer, dark-mode (light ink) on
+   the dark footer, toggled by data-bs-theme on <html>. Nudged ~one
+   character left of the right edge; stays right-aligned on mobile too. */
+html[data-bs-theme="dark"] .footer-logo-light { display: none; }
+html:not([data-bs-theme="dark"]) .footer-logo-dark { display: none; }
+.footer-logo { margin-right: 0.9em; }
+
 /* ===== Images ===== */
 img {
   margin-bottom: 16px;
@@ -579,6 +587,13 @@ hr {
 }
 
 .member-card .member-role {
+  font-size: 1.05rem;
+}
+
+/* Alumni cards reuse the member-card look (photo, left-aligned) but show
+   role + years as plain text and a destination line, with no email. The
+   destination inherits the normal text color. */
+.alumni-dest {
   font-size: 1.05rem;
 }
 
