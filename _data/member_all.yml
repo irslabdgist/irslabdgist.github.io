@@ -8,12 +8,6 @@
   education2: PhD, EE, POSTECH
   education3: MS, EE, POSTECH
   education4: BS, CS, Korea University
-- name: Jaehyun Park
-  photo: student_jaehyunpark.jpg
-  info: <span class="badge bg-primary">Postdoc Fellow</span>
-  email: jaehyunpark@dgist.ac.kr
-  url: https://jhynpark.github.io/
-  number_educ: 0
 - name: Jeongwan Shin
   photo: student_jeongwan.png
   info: <span class="badge bg-primary">Postdoc Fellow</span>
@@ -25,12 +19,6 @@
   info: <span class="badge bg-primary">Postdoc Fellow</span>
   email: yazdan@dgist.ac.kr
   url: https://yazdanaq.github.io/
-  number_educ: 0
-- name: Dohyun Park
-  photo: postdoc_DH.jpg
-  info: <span class="badge bg-primary">Postdoc Fellow</span>
-  email: dohpark@dgist.ac.kr
-  url: https://sites.google.com/view/dohyunpark
   number_educ: 0
 - name: Jaehyeon Kim
   photo: student_jaehyun.jpg
