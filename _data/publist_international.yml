@@ -4,6 +4,25 @@
 #   link:
 #     display: Under Review
 #   highlight: 0
+- title: "mmLIP: mmWave Radar-Language Interactive Pretraining via Point Confidence"
+  image: dummy.png
+  authors: <strong>Jeongwan Shin</strong>, <strong>Jaehyeon Kim</strong>,  <strong>Jae-Ho Choi*</strong>
+  venue: NeurIPS
+  year: 2026
+  link:
+    display: Neural Information Processing Systems (NeurIPS), 2026 <span class="badge bg-primary">Top Conf.</span>
+  highlight: 0
+
+- title: "RadarMAE: Injecting Physical Inductive Biases into Masked Autoencoders for Advanced Radar Object Detection"
+  image: dummy.png
+  authors: <strong>Eunchan Kim</strong>, <strong>Jeongwan Shin</strong>, <strong>Jae-Ho Choi*</strong>
+  venue: NeurIPS
+  year: 2026
+  link:
+    display: Neural Information Processing Systems (NeurIPS), 2026 <span class="badge bg-primary">Top Conf.</span>
+  highlight: 0
+
+
 - title: "Can Language Models Understand mmWave Data? Benchmarking Large Language Models for mmWave Radar-Based Human Understanding"
   image: dummy.png
   authors: <strong>Jeongwan Shin</strong>, <strong>Jaehyeon Kim</strong>, <strong>Donguk Ko</strong>, <strong>Jae-Ho Choi*</strong>
