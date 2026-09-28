@@ -71,6 +71,7 @@ Our goal is to develop new sensing technologies to see the world from from entir
   <div class="card-body">
     <h5 class="card-title fw-bold">News</h5>
     <ul class="list-unstyled mb-0">
+      <li>2026.09. - Two papers have been accepted to <b>NeurIPS'26</b>. 🎉</li>
       <li>2026.08. - <b>Ji-Hyuck Hong</b> received the <b>IEEE GRSS Seoul Chapter Chair Award</b>! 🏅</li>
       <li>2026.08. - 3 Grad students (<b>Seongryeong</b>, <b>Seungeun</b>, <b>Minjae</b>) and 1 Undergrad researcher (<b>Junhyung</b>) joined our lab! </li>
       <li>2026.07. - Summer internships for 2 students - <b>Jaeone, Junwon</b></li>
