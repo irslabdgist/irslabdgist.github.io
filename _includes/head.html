@@ -2,6 +2,16 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Site relocated to https://dgist-irslab.github.io/ . Redirect every
+       visitor to the new site. The new site uses a different URL structure
+       (sub-paths like /team/ 404 there), so all old pages are sent to the
+       new root rather than path-for-path. Delete this block to restore the
+       old site. -->
+  <meta http-equiv="refresh" content="0; url=https://dgist-irslab.github.io/">
+  <link rel="canonical" href="https://dgist-irslab.github.io/">
+  <script>window.location.replace("https://dgist-irslab.github.io/");</script>
+
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
